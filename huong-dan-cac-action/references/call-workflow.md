@@ -2,6 +2,8 @@
 
 Call Workflow là hành động cho phép kịch bản đang chạy (Workflow cha) gọi và thực thi một kịch bản khác (Workflow con) đã được tạo sẵn trong hệ thống. Đây là công cụ đắc lực để chia nhỏ các quy trình phức tạp thành các module quản lý độc lập, giúp tối ưu hóa việc tái sử dụng logic tự động hóa.
 
+> ⚠️ Lưu ý tính năng Test action sẽ không có tác dụng với Call workflow.
+
 #### Tham số cấu hình:
 
 • Reference file: Chọn từ danh sách workflow phụ của bạn.

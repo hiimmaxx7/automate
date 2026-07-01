@@ -30,4 +30,4 @@ Khi bạn làm kịch bản tự động hóa cho các tác vụ Crypto/Airdrop,
 
 <figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>

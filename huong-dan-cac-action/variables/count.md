@@ -32,7 +32,7 @@ https://www.facebook.com/demo.account99
 
 Sau khi chạy xong, biến `$lineCount` sẽ nhận giá trị là `9`. Bạn có thể lấy ngay biến `$lineCount` này để làm tham số End cho vòng lặp For nhằm tự động mở lần lượt từng profile Facebook lên tương tác.
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 

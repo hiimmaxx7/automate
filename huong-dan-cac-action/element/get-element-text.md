@@ -26,4 +26,4 @@ Kết quả: Hệ thống sẽ tìm đến thẻ `<h5>` tương ứng của sả
 
 <figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>

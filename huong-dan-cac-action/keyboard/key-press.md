@@ -39,7 +39,7 @@ Khi bạn muốn kịch bản tự động xóa sạch các ký tự đang có s
 
 <figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 

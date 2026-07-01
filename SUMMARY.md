@@ -15,6 +15,7 @@
     * [📅 5. Schedule (Hẹn giờ chạy kịch bản)](gioi-thieu-chung/huong-dan-thiet-lap-cau-hinh-de-chay-script/5.-schedule-hen-gio-chay-kich-ban.md)
     * [👥 6. Profile (Chọn profile trình duyệt để chạy tool)](gioi-thieu-chung/huong-dan-thiet-lap-cau-hinh-de-chay-script/6.-profile-chon-profile-trinh-duyet-de-chay-tool.md)
   * [🛠️ Hướng dẫn Test action (Kiểm thử)](readme/huong-dan-test-action-kiem-thu.md)
+  * [🗑️ Hướng Dẫn Gỡ Cài Đặt GPM Automate](readme/huong-dan-go-cai-dat-gpm-automate.md)
 
 ## HƯỚNG DẪN CÁC ACTION
 

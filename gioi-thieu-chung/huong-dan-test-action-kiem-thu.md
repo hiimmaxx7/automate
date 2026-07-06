@@ -1,10 +1,8 @@
----
-description: 'Xem thêm hướng dẫn trên kênh Youtube tại đây: https://youtu.be/zrX3ldxvEDE'
----
-
 # 🛠️ Hướng dẫn Test action (Kiểm thử)
 
 Việc kiểm thử (Test) là bước quan trọng giúp bạn kiểm soát luồng chạy của kịch bản, cho phép chạy thử từng bước hoặc từng khối lệnh để đảm bảo mọi thứ vận hành đúng ý đồ trước khi chạy thực tế.
+
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/zrX3ldxvEDE).
 
 ### 🎯 Tại sao cần Test action?
 

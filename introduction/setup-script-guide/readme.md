@@ -1,0 +1,1 @@
+# 🎛️Guide to setting up configuration to run the script

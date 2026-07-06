@@ -1,2 +1,1 @@
-# GIỚI THIỆU CHUNG
-
+# 一般介绍

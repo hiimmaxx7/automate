@@ -1,2 +1,0 @@
-# 🚀Hướng dẫn mở script
-

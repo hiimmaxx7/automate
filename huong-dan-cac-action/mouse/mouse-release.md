@@ -2,6 +2,8 @@
 
 Mouse release là hành động ra lệnh cho chuột đang ở trạng thái nhấn giữ lập tức buông (thả) nút chuột trái ra. Hành động này không có tham số cấu hình phức tạp và luôn là bước kết thúc bắt buộc cho chuỗi thao tác kéo thả dữ liệu.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kQZWs1I76Zo).
+
 #### Ứng dụng thực tế trong chuỗi lệnh:
 
 Hành động này kết hợp với các lệnh trước đó để hoàn thành trọn vẹn một tác vụ mô phỏng:

@@ -1,11 +1,8 @@
----
-description: >-
-  Đây là nhóm khối lệnh dùng để rẽ nhánh kịch bản dựa trên các điều kiện thực tế
-  lúc chạy. Thay vì chạy một mạch từ trên xuống dưới, hệ thống sẽ kiểm tra xem
-  điều kiện bạn đặt ra là Đúng hay Sai để quyế
----
-
 # If, Else if và Else
+
+Đây là nhóm khối lệnh dùng để rẽ nhánh kịch bản dựa trên các điều kiện thực tế lúc chạy. Thay vì chạy một mạch từ trên xuống dưới, hệ thống sẽ kiểm tra xem điều kiện bạn đặt ra là Đúng hay Sai để quyết định hướng đi tiếp theo cho kịch bản. Nói cách khác, nhóm khối lệnh này đóng vai trò như bộ não quyết định, giúp kịch bản tự động xử lý linh hoạt mọi tình huống biến động trên trình duyệt.
+
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/ZFS_82u23Cs).
 
 #### 1. Khối lệnh điều kiện (If)
 

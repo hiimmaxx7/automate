@@ -2,6 +2,8 @@
 
 Mouse press and hold là hành động ra lệnh cho con trỏ chuột thực hiện thao tác ấn nút chuột trái xuống và duy trì trạng thái nhấn giữ đó (chưa thả ra). Hành động này thường không đứng độc lập mà đóng vai trò là bước khởi đầu cho các thao tác phức tạp mô phỏng hành vi của người dùng thật.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kQZWs1I76Zo).
+
 #### Cấu hình vị trí nhấn giữ:
 
 Tương tự như các hành động tương tác chuột khác, bạn có thể chỉ định vị trí để nhấn giữ chuột theo 2 cơ chế chính:

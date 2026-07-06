@@ -4,6 +4,8 @@ Move / rename folder là hành động đa năng dùng để di chuyển toàn b
 
 Tương tự như thao tác với tệp tin, hành động này sẽ cắt hẳn thư mục sang vị trí mới (nếu di chuyển) hoặc thay thế hoàn toàn tên cũ (nếu đổi tên).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * Source Folder: Đường dẫn tuyệt đối của thư mục nguồn cần di chuyển hoặc cần đổi tên (Ví dụ: `D:\GPM_Data\old_name`).

@@ -2,6 +2,8 @@
 
 Read outlook (OAuth2) là hành động nâng cao chuyên biệt dùng để đọc mã xác thực (OTP) từ các tài khoản thuộc hệ sinh thái Microsoft (Outlook, Hotmail, Live...). Khác với phương thức IMAP truyền thống dễ bị Microsoft quét block hoặc bắt xác minh danh tính, hành động này sử dụng giao thức OAuth2 (thông qua Refresh Token và Client ID). Đây là cơ chế kết nối chính thống, có độ bảo mật cao, cực kỳ ổn định và hạn chế tối đa tình trạng tài khoản bị checkpoint khi chạy số lượng lớn (mass).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/c9384x0uWiI).
+
 #### Giải thích chi tiết các thông số cấu hình:
 
 * Email|Pass|Refresh token|Client ID: Ô nhập thông tin tài khoản cần đọc mã xác thực. Hiện nay khi mua tài khoản Outlook/Hotmail từ các trang web cung cấp nguyên liệu MMO, bạn thường được bàn giao cấu trúc định dạng gồm 4 thông tin ngăn cách bởi dấu gạch đứng `|`. Bạn cần điền vào ô này theo đúng quy chuẩn sau: `Email|Refresh token|Client ID.`

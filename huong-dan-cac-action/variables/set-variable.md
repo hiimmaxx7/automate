@@ -5,6 +5,8 @@
 * Cho phép nhập liệu (Allow user input from the interface): Bạn tích chọn mục này để tạo các ô trống ở màn hình chính, cho phép người dùng nhập trực tiếp giá trị vào kịch bản trước khi bấm chạy.
 * Bắt buộc nhập (Input required): Khi chọn mục này, hệ thống sẽ yêu cầu người dùng phải điền đủ dữ liệu hoặc chọn file thì mới cho bấm nút chạy. Nếu để trống, tool sẽ báo lỗi ngay để tránh tình trạng chạy nhầm do quên nhập thông tin.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
+
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 Hệ thống hỗ trợ 4 kiểu dữ liệu nhập vào (Input Type) trên giao diện bao gồm:

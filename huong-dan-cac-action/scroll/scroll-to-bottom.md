@@ -2,6 +2,8 @@
 
 Scroll to bottom là hành động ra lệnh cho trình duyệt lập tức cuộn toàn bộ màn hình thẳng xuống vị trí dưới cùng của trang web hiện tại. Hành động này hoạt động tự động và không có bất kỳ tham số cấu hình nào kèm theo.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/cCTEtuMtz-s).
+
 #### Ví dụ thực tế: Kích hoạt tải hết dữ liệu ẩn hoặc tìm chân trang (Footer)
 
 Hành động này cực kỳ hữu ích và được sử dụng thường xuyên trong các tác vụ cào dữ liệu (Scraping) hoặc làm Marketing tự động:

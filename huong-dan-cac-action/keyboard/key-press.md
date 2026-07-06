@@ -6,6 +6,8 @@ description: Gõ một nội dung lên trang web.
 
 Key press là hành động mô phỏng các thao tác từ bàn phím, cho phép bạn gõ văn bản, bấm phím đơn hoặc kích hoạt các tổ hợp phím tắt trên giao diện trình duyệt.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/cCTEtuMtz-s).
+
 #### Các kiểu phím hỗ trợ (Type):
 
 Hành động cung cấp 3 cơ chế tương tác bàn phím linh hoạt:

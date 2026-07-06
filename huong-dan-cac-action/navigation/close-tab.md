@@ -2,6 +2,8 @@
 
 Close tab là hành động ra lệnh cho trình duyệt lập tức tắt thẻ (tab) hiện tại đang được kích hoạt (active). Hành động này không có bất kỳ tham số cấu hình nào kèm theo.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/a9qNt96X1SM).
+
 #### Ví dụ thực tế: Dọn dẹp màn hình sau khi hoàn thành tác vụ phụ
 
 Khi bạn mở một tab phụ để lấy mã xác thực từ email hoặc lấy thông tin ví điện tử, sau khi đã copy được dữ liệu mong muốn về biến, bạn cần đóng tab đó đi để giải phóng bộ nhớ RAM và giữ cho giao diện trình duyệt gọn gàng:

@@ -2,6 +2,8 @@
 
 Math execute là hành động dùng để thực hiện các phép tính toán học cơ bản (như cộng `+`, trừ `-`, nhân `*`, chia `/`) hoặc các biểu thức số học phức tạp từ các biến số có sẵn, sau đó lưu kết quả vào một biến đầu ra.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
+
 #### Tham số cấu hình:
 
 * Expression (Biểu thức): Nội dung phép tính toán học cần thực hiện. Bạn có thể kết hợp giữa các con số cụ thể và các biến số có sẵn (Ví dụ: `(5 + 3) * 2` hoặc `$price * $quantity`).

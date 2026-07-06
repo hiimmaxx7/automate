@@ -8,6 +8,8 @@ description: >-
 
 Append excel file là hành động thông minh dùng để tự động tìm kiếm hàng trống đầu tiên ở cuối bảng dữ liệu và ghi nối tiếp nội dung vào đó, giúp bạn không cần phải tính toán hay quản lý số thứ tự hàng (`Row Index`) thủ công.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * File Path: Đường dẫn tuyệt đối dẫn đến file Excel cần chèn thêm dữ liệu (Ví dụ: `D:\GPM\data.xlsx`).

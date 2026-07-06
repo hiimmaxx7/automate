@@ -8,6 +8,8 @@ description: >-
 
 Khác với vòng lặp For (lặp với số lần cố định), vòng lặp While thường được sử dụng khi bạn chưa biết trước kịch bản sẽ phải lặp lại bao nhiêu lần, mà phụ thuộc hoàn toàn vào trạng thái thực tế lúc chạy.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/4O4dPC-CNHM).
+
 #### Cách thức hoạt động:
 
 * Trước khi bắt đầu mỗi lượt lặp, hệ thống sẽ kiểm tra điều kiện (Condition) mà bạn cấu hình.

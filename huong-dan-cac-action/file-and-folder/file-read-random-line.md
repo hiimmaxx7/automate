@@ -4,6 +4,8 @@ File read random line là hành động dùng để mở một file văn bản `
 
 Hành động này cực kỳ hữu ích khi bạn nuôi tài khoản mạng xã hội (Facebook, X, Instagram...) và muốn lấy ngẫu nhiên một câu bình luận (Comment), một câu trạng thái (Status) hoặc một từ khóa tìm kiếm để kịch bản không bị lặp đi lặp lại một nội dung giống nhau giữa các profile.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * File Path: Đường dẫn tuyệt đối dẫn đến file `.txt` chứa danh sách dữ liệu có sẵn trên máy tính.

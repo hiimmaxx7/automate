@@ -6,6 +6,8 @@ description: Click chuột vào một element.
 
 Mouse click là hành động điều khiển con trỏ chuột thực hiện lệnh bấm (click) vào một vị trí cụ thể trên màn hình. Để tối ưu cho từng tình huống tương tác giao diện khác nhau, GPM Automate cung cấp cho bạn 3 tùy chọn thiết lập linh hoạt:
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kQZWs1I76Zo).
+
 #### 3 kiểu lựa chọn click chuột tương thích mọi giao diện
 
 **1. Click dựa theo XPath (Mặc định cho giao diện Web)**

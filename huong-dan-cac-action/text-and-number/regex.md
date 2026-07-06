@@ -2,6 +2,8 @@
 
 Regex (Regular Expression) giống như một chiếc kính lúp giúp bạn soi tìm chính xác một đoạn text ẩn nấp trong một văn bản lớn, hoặc như một chiếc lưới lọc giúp bạn giữ lại đúng định dạng dữ liệu mình cần (như số điện thoại, email, mã OTP) và gạt bỏ đi những phần chữ thừa thãi xung quanh.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
+
 #### Tham số cấu hình:
 
 * Text: Văn bản thô đầu vào cần lọc dữ liệu (hoặc biến chứa đoạn văn bản).

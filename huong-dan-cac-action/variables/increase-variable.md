@@ -14,6 +14,6 @@ Tại ô Output variable (Biến đầu ra), bạn có thể điền trùng tên
     * Nếu điền _Output variable_ là `$row` và _Increase by_ là `1` ➡️ Biến `$row` sẽ tăng lên thành `6` (cộng dồn).
     * Nếu điền _Output variable_ là `$nextRow` và _Increase by_ là `1` ➡️ Biến `$row` vẫn giữ nguyên là `5`, còn biến mới `$nextRow` sẽ có giá trị là `6`.
 
-
+    🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>

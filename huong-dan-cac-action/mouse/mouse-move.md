@@ -4,6 +4,8 @@
 
 Mouse move là hành động điều khiển con trỏ chuột di chuyển mượt mà từ vị trí hiện tại đến một điểm chỉ định trên màn hình. Hành động này giúp mô phỏng chính xác hành vi rê chuột của người dùng thật, giúp kịch bản vượt qua các hệ thống quét bot bảo mật (Anti-bot).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kQZWs1I76Zo).
+
 #### Các kiểu di chuyển chuột hỗ trợ:
 
 Hành động hỗ trợ di chuyển chuột linh hoạt theo 2 cơ chế chính:

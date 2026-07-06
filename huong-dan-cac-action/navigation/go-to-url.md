@@ -4,6 +4,8 @@ Hành động này ra lệnh cho trình duyệt đi thẳng đến một trang w
 
 * Tác dụng: Đây là bước khởi đầu để tool bắt đầu làm việc. Bạn chỉ cần nhập địa chỉ trang web vào, trình duyệt sẽ tự động vào trang đó để bạn thực hiện các bước tiếp theo.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/a9qNt96X1SM).
+
 #### Tham số cấu hình:
 
 *   URL: Địa chỉ chính xác của trang web bạn muốn mở.

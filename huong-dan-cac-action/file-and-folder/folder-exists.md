@@ -4,6 +4,8 @@ Folder exists là hành động dùng để kiểm tra xem một thư mục (fol
 
 Hành động này thường được dùng làm bước đệm trước khi bạn thực hiện các thao tác như tạo thư mục mới, xóa thư mục hoặc di chuyển file vào trong đó, giúp kịch bản chạy mượt mà và không bị dừng đột ngột do lỗi sai đường dẫn.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * Folder Path: Đường dẫn tuyệt đối dẫn đến thư mục cần kiểm tra trên máy tính (Ví dụ: `D:\GPM_Data`).

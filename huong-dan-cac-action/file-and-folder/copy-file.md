@@ -2,6 +2,8 @@
 
 Copy file là hành động dùng để sao chép một tệp tin từ vị trí này sang một vị trí khác trên ổ cứng máy tính. Hành động này sẽ tạo ra một bản sao hoàn toàn mới tại nơi đến và vẫn giữ nguyên tệp tin gốc ở vị trí ban đầu.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * Source File: Đường dẫn tuyệt đối của file nguồn cần copy (Ví dụ: `D:\data\template.xlsx`).

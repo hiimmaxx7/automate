@@ -4,6 +4,8 @@
 
 * Tác dụng: Là giải pháp "cứu cánh" khi website hoặc ứng dụng không có thẻ HTML (như game, ứng dụng cũ, hay đồ thị canvas). Bạn dùng nó để xác định tọa độ, từ đó yêu cầu tool click chuột vào đúng vị trí đó một cách chuẩn xác.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/xWu0g35YTGo).
+
 > ⚠️ Lưu ý đặc biệt về tỷ lệ Scale (Thu phóng): Tỷ lệ phần trăm scale màn hình và độ phân giải của trình duyệt lúc bạn chụp ảnh mẫu bắt buộc phải giống y hệt với lúc kịch bản vận hành thực tế. Nếu lúc chụp ảnh mẫu bạn để màn hình hiển thị ở mức 100%, nhưng khi chạy profile hệ thống lại tự động mở ở mức scale 80% hoặc 125%, thuật toán quét ảnh sẽ không thể nhận diện được cấu trúc pixel của mục tiêu và dẫn đến việc không tìm thấy tọa độ.
 
 #### Ví dụ thực tế: Tìm vị trí của một vật thể di động trên màn hình để click chuột

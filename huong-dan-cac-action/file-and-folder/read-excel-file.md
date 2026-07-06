@@ -2,6 +2,8 @@
 
 Read excel file là hành động dùng để trích xuất giá trị của một ô dữ liệu cụ thể trong file Excel (`.xlsx` hoặc `.xls`) dựa trên vị trí hàng và cột được chỉ định, sau đó lưu giá trị đó vào một biến đầu ra.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * File Path: Đường dẫn tuyệt đối dẫn đến file Excel cần đọc dữ liệu trên máy tính (Ví dụ: `D:\GPM\data.xlsx`).

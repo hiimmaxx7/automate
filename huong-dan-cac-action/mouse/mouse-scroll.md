@@ -2,6 +2,8 @@
 
 Mouse scroll là hành động ra lệnh cho trình duyệt thực hiện việc cuộn trang lên hoặc xuống theo một số lần (nấc cuộn) cố định được chỉ định sẵn. Hành động này giúp bạn chủ động dịch chuyển màn hình đến các vùng nội dung khuất phía dưới hoặc phía trên của trang web.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kQZWs1I76Zo).
+
 #### Tham số cấu hình:
 
 * Number of scrolls: Số lần (nấc) cuộn chuột thực hiện.

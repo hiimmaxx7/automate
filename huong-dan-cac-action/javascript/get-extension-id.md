@@ -2,6 +2,8 @@
 
 Get extension id là hành động ra lệnh cho trình duyệt trích xuất mã định danh duy nhất (Extension ID) của các tiện ích (Extensions) đang được cài đặt bên trong Profile trình duyệt hiện tại. Mã ID này cực kỳ quan trọng để bạn có thể dùng trong các lệnh tiếp theo như điều hướng trực tiếp đến trang cấu hình hoặc ví điện tử của tiện ích đó (ví dụ: mở nhanh ví MetaMask, Tonkeeper, OKX Wallet...).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/I4-kZ7repv8).
+
 #### Tham số cấu hình:
 
 * Extension name: Tên của tiện ích mở rộng hiển thị trên trình duyệt mà bạn muốn lấy ID.

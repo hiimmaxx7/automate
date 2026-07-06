@@ -2,6 +2,8 @@
 
 Screenshot là hành động ra lệnh cho trình duyệt tự động chụp lại giao diện của trang web hiện tại. Hành động này rất hữu ích để bạn lưu trữ bằng chứng đã hoàn thành tác vụ, chụp mã QR Code, hoặc lưu lại giao diện lỗi khi kịch bản gặp sự cố để thuận tiện cho việc kiểm tra (Debug).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/c3gYFS7IIr4).
+
 #### Các tham số cấu hình:
 
 * Output path: Đường dẫn tuyệt đối tới thư mục trên máy tính mà bạn muốn dùng để chứa bức ảnh sau khi chụp (Ví dụ: `D:\GPM_Automate\Screenshots`).

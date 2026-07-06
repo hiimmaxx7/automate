@@ -2,6 +2,8 @@
 
 Get URL là hành động dùng để trích xuất toàn bộ đường dẫn địa chỉ (URL) của trang web hiện tại đang mở trên trình duyệt và lưu vào một biến số.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/a9qNt96X1SM).
+
 #### Tham số cấu hình:
 
 * Output variable: Tên biến số do bạn tự đặt để lưu lại chuỗi địa chỉ trang web sau khi bóc tách thành công.

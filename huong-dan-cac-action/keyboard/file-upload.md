@@ -2,6 +2,8 @@
 
 File upload là hành động ra lệnh cho trình duyệt tự động đẩy một hoặc nhiều tệp tin (hình ảnh, video, tài liệu Excel, txt...) từ máy tính của bạn lên máy chủ của trang web mục tiêu.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/cCTEtuMtz-s).
+
 #### Tham số cấu hình:
 
 *   XPath: Đường dẫn mã định danh (XPath) dẫn thẳng tới khung nạp tệp tin của trang web.

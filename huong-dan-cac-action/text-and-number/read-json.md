@@ -2,6 +2,8 @@
 
 Read json dùng để trích xuất giá trị từ một đoạn văn bản định dạng JSON dựa trên cấu trúc đường dẫn được chỉ định.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
+
 #### Tham số cấu hình:
 
 * JSON Text: Chuỗi văn bản JSON đầu vào cần đọc (hoặc biến chứa chuỗi JSON).

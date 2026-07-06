@@ -4,6 +4,8 @@ Hành động này giúp bạn mã hóa một file ảnh trên máy tính thành
 
 * Tác dụng: Cực kỳ hữu ích khi cần gửi ảnh qua các lệnh mạng như `HTTP Request`. Ví dụ: bạn muốn gửi ảnh lên các dịch vụ AI để nhờ giải mã captcha, hoặc upload ảnh lên server mà không muốn truyền tải file theo cách thông thường.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/xWu0g35YTGo).
+
 #### Tham số cấu hình:
 
 * Image Path: Đường dẫn tuyệt đối dẫn đến file ảnh trên máy tính cần chuyển đổi (Ví dụ: `D:\GPM_Data\captcha.png`).

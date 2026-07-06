@@ -2,6 +2,8 @@
 
 Read mail code là hành động nâng cao giúp kịch bản tự động đăng nhập vào hộp thư điện tử (Gmail, Outlook, Hotmail, Yahoo...) thông qua giao thức kết nối bảo mật IMAP. Hệ thống sẽ tự động quét thư mới nhất, tìm kiếm email từ người gửi chỉ định và trích xuất ra mã xác thực (OTP/Code) để điền vào trang web mà không cần bạn phải mở tab email lên thao tác thủ công.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/c9384x0uWiI).
+
 #### Giải thích các tham số cấu hình:
 
 * Email: Điền địa chỉ hộp thư cần đọc mã xác thực (Ví dụ: `gpm_user@gmail.com`).

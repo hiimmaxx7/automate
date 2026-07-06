@@ -4,6 +4,8 @@ Random number là hành động dùng để tạo ra một số nguyên ngẫu n
 
 Hành động này thường được dùng để tạo dữ liệu giả lập (tuổi, số lượng bè bạn muốn kết bạn), chọn ngẫu nhiên một dòng dữ liệu, hoặc tạo thời gian chờ ngẫu nhiên linh hoạt theo logic riêng của bạn.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
+
 #### Tham số cấu hình:
 
 * Min: Giá trị số nhỏ nhất có thể nhận được.

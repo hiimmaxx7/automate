@@ -4,6 +4,8 @@ Hành động này ra lệnh cho trình duyệt tự tính toán và cuộn tran
 
 * Tác dụng: Đảm bảo phần tử mục tiêu luôn nằm trong vùng quan sát trước khi tool thực hiện click hoặc lấy dữ liệu. Việc cuộn chính xác giúp giảm lỗi "phần tử không nằm trong viewport" thường gặp ở các trang web dài hoặc có tải lười (lazy loading).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/cCTEtuMtz-s).
+
 #### Tham số cấu hình:
 
 * XPath: Đường dẫn mã định danh (XPath) của phần tử mục tiêu mà bạn muốn đưa vào tầm nhìn (Ví dụ: `//button[@id="btn-load-more"]` hoặc `//div[@class="footer-section"]`).

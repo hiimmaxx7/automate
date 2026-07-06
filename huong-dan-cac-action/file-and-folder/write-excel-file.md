@@ -1,8 +1,8 @@
 # Write excel file
 
-### Hành động ghi dữ liệu vào Excel (Write excel file)
-
 Write excel file là hành động dùng để ghi hoặc cập nhật một giá trị cụ thể vào một ô dữ liệu xác định trong file Excel (`.xlsx` hoặc `.xls`) dựa trên vị trí hàng và cột được chỉ định.
+
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
 
 #### Tham số cấu hình:
 

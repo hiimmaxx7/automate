@@ -6,6 +6,8 @@ description: Xoá file theo đường dẫn File Path.
 
 Delete file là hành động dùng để xóa bỏ hoàn toàn một tệp tin ra khỏi ổ cứng máy tính theo đường dẫn được chỉ định.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 > ⚠️ Lưu ý quan trọng: Tệp tin bị xóa bằng hành động này sẽ biến mất vĩnh viễn và không nằm trong Thùng rác (Recycle Bin) của Windows. Do đó, bạn cần chắc chắn về đường dẫn trước khi thực thi để tránh xóa nhầm dữ liệu quan trọng.
 
 #### Tham số cấu hình:

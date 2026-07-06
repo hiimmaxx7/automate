@@ -4,6 +4,8 @@
 
 Hành động này cực kỳ quan trọng trong các kịch bản MMO, giúp tự động vượt qua bước xác minh bảo mật khi đăng nhập vào các tài khoản Facebook, Google, X (Twitter), Discord, Coinlist... mà không cần phải mở điện thoại lên nhập thủ công.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
+
 #### Tham số cấu hình:
 
 * Secret key: Mã bảo mật gốc (Chuỗi ký tự dạng chữ và số dài, thường được cấp khi bạn bật tính năng bảo mật 2 lớp trên các website).

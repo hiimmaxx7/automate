@@ -2,6 +2,8 @@
 
 Switch to popup là hành động ra lệnh cho kịch bản dịch chuyển quyền điều khiển từ cửa sổ trình duyệt hiện tại sang một cửa sổ con mới vừa được bật lên (Popup Window).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/oroexOGjZfw).
+
 #### Sự khác biệt giữa Iframe và Popup:
 
 * Iframe: Là một "khung tranh" nằm nhúng bên trong cùng một tab trang web.

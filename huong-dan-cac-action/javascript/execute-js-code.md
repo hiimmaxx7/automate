@@ -2,6 +2,8 @@
 
 Execute JS code là một hành động cực kỳ mạnh mẽ, cho phép bạn can thiệp sâu vào trình duyệt bằng cách chạy trực tiếp các đoạn mã JavaScript (JS) trên trang web hiện tại. Hành động này giúp bạn xử lý các thuật toán logic phức tạp, tính toán toán học, bóc tách dữ liệu nâng cao hoặc thực hiện các thao tác tương tác mà các khối lệnh No-code thông thường chưa hỗ trợ.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/I4-kZ7repv8).
+
 #### Tham số cấu hình:
 
 * Path to js file or code: Bạn có thể viết/dán trực tiếp đoạn mã JavaScript vào ô này, hoặc nhập đường dẫn tuyệt đối tới một tệp tin `.js` đang lưu trên máy tính của bạn.
@@ -13,7 +15,7 @@ Execute JS code là một hành động cực kỳ mạnh mẽ, cho phép bạn 
 2. Hành động này **bắt buộc** phải đặt trong khối Main logic, nó tương tự như việc bạn chạy js code trong Dev tools của trình duyệt. Bạn có thể test trước đoạn js code của mình ở trong Dev tools trước khi dùng nó trong Automate.
 3. Quy tắc nhúng biến Automate vào JS: Bạn hoàn toàn có thể gọi các biến đã lưu trước đó của GPM Automate vào trong khối mã JS bằng cú pháp `$tên_biến`.
    * Đối với biến dạng số (Number): Bạn có thể viết trực tiếp (Ví dụ: `const index = $index;`).
-   * Đối với biến dạng chuỗi (String): Bạn bắt buộc phải bao bọc biến đó bằng dấu nháy đơn `'...'`, nháy kép `"..."`, hoặc chuẩn nhất là dấu backtick `` `...` `` để tránh bị vỡ định dạng code khi chuỗi có khoảng trắng hoặc ký tự đặc biệt, ví dụ: ``const str = `$postContent`;``.&#x20;
+   * Đối với biến dạng chuỗi (String): Bạn bắt buộc phải bao bọc biến đó bằng dấu nháy đơn `'...'`, nháy kép `"..."`, hoặc chuẩn nhất là dấu backtick `` `...` `` để tránh bị vỡ định dạng code khi chuỗi có khoảng trắng hoặc ký tự đặc biệt, ví dụ: ``const str = `$postContent`;``.
 
 #### Ví dụ thực tế: Trích xuất ký tự dựa trên vị trí (Index) chỉ định
 

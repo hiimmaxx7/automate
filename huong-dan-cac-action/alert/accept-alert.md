@@ -2,6 +2,8 @@
 
 Hành động Accept Alert tự động nhấn OK hoặc Xác Nhận trên các hộp thoại thông báo hệ thống (Alert Dialog) nguyên bản. Lệnh này không yêu cầu tham số cấu hình.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/3tDWBxDXRfw).
+
 ### ⚠️ Lưu Ý Khi Sử Dụng
 
 * Không Tác Dụng Với Giao Diện Web Hiện Đại: Các hộp thoại được thiết kế riêng bằng HTML/CSS (Modal, Dialog UI) không phải là Alert hệ thống. Với các loại này, bạn phải dùng Mouse Click với XPath tương ứng.

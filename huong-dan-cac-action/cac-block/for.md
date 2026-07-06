@@ -7,6 +7,8 @@ description: >-
 
 # For
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/4O4dPC-CNHM).
+
 #### Các tham số cấu hình trong vòng lặp For:
 
 * 🟢 Start: Giá trị bắt đầu của biến lặp `$loopIndex`.
@@ -16,6 +18,8 @@ description: >-
 #### Ví dụ thực tế: Kết hợp vòng lặp For để đọc toàn bộ dữ liệu file Excel
 
 Giả sử bạn có một file Excel tên là `test.xlsx` và bạn cần cấu hình kịch bản để đọc toàn bộ dữ liệu tại cột B của file này. Bạn có thể kết hợp vòng lặp For với biến hệ thống `$inputExcelTotalRows` như sau:
+
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kbh7muMDGtI).
 
 <figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,6 +2,8 @@
 
 Count là hành động dùng để đếm số lượng phần tử của một mảng một chiều (hoặc một danh sách dữ liệu) và trả về một giá trị số. Hành động này rất hữu ích khi bạn cần kiểm tra kích thước dữ liệu trước khi xử lý hoặc thiết lập giới hạn cho vòng lặp.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
+
 Các trường hợp ứng dụng thực tế phổ biến bao gồm:
 
 #### 1. Đếm số dòng của một file văn bản (Text)

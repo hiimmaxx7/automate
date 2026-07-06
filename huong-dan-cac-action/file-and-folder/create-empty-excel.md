@@ -4,6 +4,8 @@ Create empty excel là hành động dùng để khởi tạo một file Excel h
 
 Hành động này thường được đặt ở đầu kịch bản để chuẩn bị một file lưu trữ sạch sẽ trước khi các hành động cào dữ liệu (Data Crawler) hoặc ghi nhật ký bắt đầu đẩy thông tin vào.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * File Path: Đường dẫn tuyệt đối bao gồm cả tên file và đuôi `.xlsx` nơi bạn muốn tạo file (Ví dụ: `D:\GPM\data_crawler.xlsx`).

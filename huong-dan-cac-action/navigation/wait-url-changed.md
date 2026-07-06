@@ -2,6 +2,8 @@
 
 Wait URL Changed là hành động ra lệnh cho kịch bản tạm dừng lại và liên tục theo dõi thanh địa chỉ của trình duyệt cho đến khi đường dẫn (URL) hiện tại chuyển sang một địa chỉ mới, hoặc hệ thống sẽ tự động bỏ qua khi hết thời gian giới hạn (Timeout) được chỉ định.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/a9qNt96X1SM).
+
 #### Tham số cấu hình:
 
 * Timeout (s): Thời gian giới hạn tối đa (tính bằng giây) để hệ thống ngồi chờ URL thay đổi. Nếu quá thời gian này mà URL vẫn giữ nguyên, kịch bản sẽ tự động chuyển sang hành động tiếp theo.

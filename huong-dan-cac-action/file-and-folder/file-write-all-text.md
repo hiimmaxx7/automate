@@ -2,6 +2,8 @@
 
 File write all text là hành động dùng để ghi một chuỗi văn bản vào một file định dạng `.txt` trên máy tính.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 Hành động này sở hữu cơ chế vận hành đặc biệt (ghi đè và tự động tạo mới):
 
 * Nếu file chưa tồn tại: Hệ thống sẽ tự động tạo mới file `.txt` theo đường dẫn đã chỉ định rồi ghi nội dung vào.

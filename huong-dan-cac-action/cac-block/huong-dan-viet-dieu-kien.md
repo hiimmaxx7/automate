@@ -7,7 +7,9 @@ description: >-
 
 # Hướng dẫn viết Điều kiện
 
-> ⚠️ Quy tắc cốt lõi về Chuỗi (String): Đối với kiểu dữ liệu là chữ/chuỗi, bạn bắt buộc phải bọc trong dấu ngoặc kép `""`  (Ví dụ: `$name = "admin"`). Đối với số thì điền trực tiếp.
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/L-w9dT8B2DM).
+
+> ⚠️ Quy tắc cốt lõi về Chuỗi (String): Đối với kiểu dữ liệu là chữ/chuỗi, bạn bắt buộc phải bọc trong dấu ngoặc kép `""` (Ví dụ: `$name = "admin"`). Đối với số thì điền trực tiếp.
 
 #### 1. Các toán tử so sánh Số học (Chỉ áp dụng cho Số)
 

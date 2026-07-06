@@ -4,6 +4,8 @@ Mouse try to click là hành động nâng cao của nhóm lệnh chuột, cho p
 
 Hành động này là giải pháp hoàn hảo để xử lý các nút bấm "cứng đầu" trên website (loại nút bấm đôi khi bị lag, cần phải click mồi vài lần mới ăn lệnh), hoặc dùng để săn (spam) các nút nhận thưởng, nút mở hộp quà xuất hiện trong thời gian ngắn.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kQZWs1I76Zo).
+
 #### Các tham số cấu hình cốt lõi:
 
 * Click type: Tương tự như hành động Mouse click, bạn cũng có 3 kiểu lựa chọn để chỉ định vị trí bấm chuột:

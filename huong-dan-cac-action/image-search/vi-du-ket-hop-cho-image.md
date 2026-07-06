@@ -4,6 +4,8 @@
 
 Dưới đây là phần giải thích chi tiết các thông số kỹ thuật chung và các bước thiết lập luồng đi cho một kịch bản thực tế.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/xWu0g35YTGo).
+
 #### Các thông số cấu hình cốt lõi cần nắm vững:
 
 * Image (Ảnh mẫu): Vùng ảnh mục tiêu bạn cắt ra từ màn hình để làm dữ liệu đối sánh cho hệ thống.

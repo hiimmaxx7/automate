@@ -1,10 +1,10 @@
 # Switch to frame
 
-
-
 Trong cấu trúc thiết kế trang web, Iframe (Inline Frame) được hiểu là một cửa sổ trình duyệt độc lập nằm nhúng bên trong một trang web khác.
 
 Khi một phần tử (như nút bấm, ô nhập liệu) nằm bên trong thẻ `<iframe>`, hệ thống GPM Automate sẽ không thể tìm thấy XPath của nó nếu bạn vẫn đang ở không gian trang web chính. Bạn bắt buộc phải dùng hành động Switch to frame để "chui vào" trong Iframe đó thì mới tương tác được. Sau khi tương tác xong, bạn phải dùng Switch to default để "thoát ra ngoài" giao diện chính.
+
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/oroexOGjZfw).
 
 #### 1. Hành động chuyển vào Iframe (Switch to frame)
 

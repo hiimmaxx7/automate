@@ -7,6 +7,8 @@ Hành động này sở hữu cơ chế vận hành thông minh và an toàn:
 * Nếu thư mục chưa tồn tại: Hệ thống sẽ tự động tạo mới thư mục đó (bao gồm cả việc tự tạo các thư mục cha nếu chúng chưa có sẵn).
 * Nếu thư mục đã tồn tại: Hệ thống sẽ bỏ qua và chạy tiếp hành động sau, tuyệt đối không ghi đè hay làm ảnh hưởng đến dữ liệu bên trong thư mục cũ.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * Folder Path: Đường dẫn tuyệt đối dẫn đến thư mục bạn muốn khởi tạo (Ví dụ: `D:\GPM_Softwares\Data_Crawler`).

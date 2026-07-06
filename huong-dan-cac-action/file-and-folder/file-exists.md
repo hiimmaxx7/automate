@@ -4,6 +4,8 @@ Hành động này giúp tool kiểm tra xem một file đã có sẵn trên má
 
 * Tác dụng: Dùng kết hợp với khối lệnh `If` để xử lý thông minh hơn, tránh trường hợp tool bị lỗi hay dừng đột ngột khi bạn yêu cầu nó mở một file mà thực tế không tồn tại.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * File Path: Đường dẫn tuyệt đối dẫn đến file cần kiểm tra trên máy tính (Ví dụ: `D:\data\accounts.txt`).

@@ -2,6 +2,8 @@
 
 File append line là hành động dùng để chèn thêm một dòng chữ mới vào vị trí cuối cùng của một file định dạng `.txt`.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 Khác với hành động ghi đè (File write all text), hành động này giúp bảo toàn nguyên vẹn toàn bộ những dữ liệu đã có từ trước trong file.
 
 * Nếu file chưa tồn tại: Hệ thống sẽ tự động tạo mới file `.txt` theo đường dẫn đã chỉ định rồi tiến hành chèn dòng chữ vào.

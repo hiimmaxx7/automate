@@ -2,6 +2,8 @@
 
 File read all text là hành động dùng để đọc trọn vẹn nội dung của một file văn bản định dạng `.txt` cùng một lúc. Toàn bộ dữ liệu bên trong file sẽ được trả về dưới dạng một chuỗi văn bản (string) duy nhất và lưu vào một biến đầu ra (Output variable).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/EH7olDLAb9c).
+
 #### Tham số cấu hình:
 
 * File Path: Đường dẫn tuyệt đối dẫn đến file `.txt` cần đọc (Ví dụ: `D:\data\content.txt`).

@@ -6,8 +6,10 @@ To get started with GPM Automate, you can easily download it from the GPM Automa
 
 After downloading, run the installation file `.exe`, then click Next through the installation steps to use the software.
 
+🎥 View detailed installation instructions here: [Here](https://www.youtube.com/watch?v=apZWPRFXFlw).
+
 📌 Important note:
 
-Make sure your computer has GPM Login installed and open because the Automate scripts will directly control the profiles in this browser.
+Make sure your computer has GPM Login installed and open, as the Automate scripts will directly control the profiles in this browser.
 
-You just need to double-click directly on the file `.gpmlaunch`. At this point, the GPM Automate Runtime executable will automatically open and run the script without requiring you to perform any additional configuration.
+You just need to double-click directly on the `.gpmlaunch` file. At this point, the GPM Automate Runtime executable will automatically open and run the script without requiring any additional configuration from you.

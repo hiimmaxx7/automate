@@ -1,16 +1,16 @@
 # Stop
 
-Stop is an action used to immediately halt the running script at that position.
+Stop is an action used to immediately halt the currently running script at that position.
 
-> 📌 Note on scope: This action only terminates the currently running thread of the current profile itself; it does not affect other threads or other profiles running in parallel during the same operation batch.
+> 📌 Note about scope: This action only affects the termination of the running thread of the current profile, without impacting other threads or profiles running concurrently in the same operation.
 
-This action is often combined inside an If conditional block to handle serious errors, errors that prevent the script from continuing, or when the thread has finished its main task.
+This action is often combined within an If conditional block to handle critical errors, errors that cannot continue the script, or when the thread has completed its main task.
 
-#### Practical example: Stop the thread when the account is Checkpointed
+#### Real-world example: Stop the thread when the account is at Checkpoint
 
-Suppose you are running a script to nurture an account. When the browser opens, if it detects that the account has been locked (Checkpoint), then performing further actions such as browsing posts, liking, messaging... would be completely pointless and waste machine resources.
+Suppose you are scripting to manage accounts. When you open the browser, if it detects that the account has been locked (Checkpoint), then performing subsequent actions such as scrolling through posts, liking, messaging... is completely pointless and wastes machine resources.
 
-* Configuration:
-  * Use an If block to check for the appearance of the error message: `If the text "Account has been locked" appears`.
-  * Inside this If block, call the Stop action.
-* Result: When the system scans and detects that the account is locked, it will encounter the Stop command and immediately close that profile's thread. Profiles on other threads will continue running normally without being affected.
+* Configuration steps:
+  * Use an If block to check for the appearance of the error message: `If the text "Account is locked" appears`.
+  * Inside this If block, you call the Stop action.
+* Result: When the system scans and detects the account is locked, it will encounter the Stop command and immediately close that profile's thread. Other profiles in different threads will continue to run normally without being affected.

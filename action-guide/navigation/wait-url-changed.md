@@ -1,16 +1,16 @@
 # Wait URL Changed
 
-Wait URL Changed is an action that instructs the script to pause and continuously monitor the browser's address bar until the current URL changes to a new address, or the system automatically skips it when the specified Timeout is reached.
+Wait URL Changed is an action that instructs the script to pause and continuously monitor the browser's address bar until the current URL changes to a new address, or the system will automatically skip if the specified timeout period is reached.
 
-🎥 Watch more tutorial videos: [Here](https://youtu.be/a9qNt96X1SM).
+🎥 Watch the tutorial video: [Here](https://youtu.be/a9qNt96X1SM).
 
-#### Configuration Parameters:
+#### Configuration parameters:
 
-* Timeout (s): The maximum time limit (in seconds) for the system to wait for the URL to change. If this time is exceeded and the URL remains unchanged, the script will automatically move on to the next action.
+* Timeout (s): The maximum timeout period (in seconds) for the system to wait for the URL to change. If the URL remains the same after this period, the script will automatically proceed to the next action.
 
-#### Real-world example: Waiting for payment gateway processing or successful redirect verification
+#### Practical example: Waiting for payment gateway processing or successful redirect authentication
 
-This action is extremely useful when you set up third-party login flows (such as clicking _Continue with Google_ on Pinterest), or when you press the "Checkout/Buy Now" button on e-commerce sites:
+This action is extremely useful when you set up third-party login flows (like clicking _Continue with Google_ on Pinterest), or when you press the "Pay/Buy Now" button on e-commerce sites:
 
-* How to configure: Right after the click action that triggers the redirect, insert the Wait URL Changed action with a Timeout of `30` (30 seconds).
-* Operating logic: Instead of using a fixed command like Delay 5-10 seconds based on guesswork (which wastes time if the network is fast, or causes missed-click errors if the network is slow), the system will actively observe the address bar. As soon as Pinterest successfully redirects from the login page to the homepage (`pinterest.com/home`), the script will immediately proceed to the subsequent interaction steps without having to wait for the full 30 seconds.
+* How to configure: Immediately after the action of clicking the redirect activation button, you insert the Wait URL Changed action with a Timeout of `30` (30 seconds).
+* Operational logic: Instead of using a fixed command like Delay 5-10 seconds arbitrarily (which wastes time if the network is strong, or causes missed clicks if the network is weak), the system will actively monitor the address bar. As soon as Pinterest successfully redirects from the login page to the homepage (`pinterest.com/home`), the script will immediately continue executing the subsequent interaction steps without waiting the full 30 seconds.

@@ -1,23 +1,23 @@
 # File upload
 
-File upload is the action of instructing the browser to automatically push one or more files (images, videos, Excel documents, txt...) from your computer to the server of the target website.
+File upload is the action that instructs the browser to automatically push one or more files (images, videos, Excel documents, txt...) from your computer to the server of the target website.
 
-🎥 Watch more tutorial videos: [Here](https://youtu.be/cCTEtuMtz-s).
+🎥 Watch the tutorial video: [Here](https://youtu.be/cCTEtuMtz-s).
 
 #### Configuration parameters:
 
-*   XPath: The identifier path (XPath) leading directly to the file upload field of the website.
+*   XPath: The identifier path (XPath) that leads directly to the file upload frame of the website.
 
-    > ⚠️ Important note: When performing automation via code, you should not click directly on buttons labeled "Choose Image" or "Upload Image" (as this will open the file selection window of the Windows/macOS operating system, freezing the script). Instead, you must find the correct hidden tag with a structure like: `//input[@type='file']` on the website to fill in this XPath field.
-* File path: The absolute path leading to the file stored on your computer (Example: `C:\Users\Admin\Desktop\avatar.png`). You can pass a variable containing a dynamic path here (Example: `$filePath`).
+    > ⚠️ Important note: When automating with code, do not click directly on buttons labeled "Choose Image" or "Upload Image" (as it will open the file selection window of the Windows/macOS operating system, freezing the script). Instead, you must find the correct hidden tag structured as: `//input[@type='file']` on the website to fill in the XPath in this field.
+* File path: The absolute path leading to the file stored on your computer (e.g., `C:\Users\Admin\Desktop\avatar.png`). You can pass a variable containing a dynamic path here (e.g., `$filePath`).
 
-#### Practical example: Uploading a product image to the system
+#### Practical example: Upload product images to the system
 
-When you build a script to automatically post product listings (Listing products) to e-commerce platforms or social networks, the standard processing flow will be as follows:
+When you create a script for automatically posting sales listings on e-commerce platforms or social networks, the standard processing flow will be as follows:
 
 * Configuration:
-  * Element XPath: `//input[@type='file' and @name='product_image']` (Scan the website's source code to find this hidden input tag).
+  * Element XPath: `//input[@type='file' and @name='product_image']` (Scan the page source to find this hidden input tag).
   * File path: `D:\DataPOD\Design01.png`
-* Operating logic: GPM Automate will pass the file path `D:\DataPOD\Design01.png` directly into the website's `input` element. The website's system will immediately recognize it and begin the process of uploading the image smoothly without ever displaying the operating system's Open File dialog box.
+* Operational logic: GPM Automate will directly pass the file path `D:\DataPOD\Design01.png` into the `input` element of the website. The website's system will immediately recognize it and begin the image upload process smoothly without displaying the Open File dialog of the operating system.
 
 <figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>

@@ -1,1 +1,1 @@
-# 🚀Guide to opening the script
+# 🚀Guide to open script

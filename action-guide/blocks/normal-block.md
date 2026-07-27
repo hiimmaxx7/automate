@@ -1,11 +1,11 @@
 ---
-description: Sequential command block (Normal block)
+description: Normal block
 ---
 
 # Normal block
 
-This is the most basic block used to contain actions. You simply place actions inside it, and the system will automatically run them one by one from top to bottom, finishing one action before moving on to the next.
+This is the most basic block to contain actions. You just put the actions in here, and the system will automatically run them sequentially from top to bottom, completing this task before moving on to the next one.
 
-* Purpose: Used to group actions with the same purpose together neatly, making the workflow look cleaner and much easier to manage.
+* Purpose: Used to group actions with the same goal together for tidiness, making the script look clearer and easier to manage.
 
-💡 Tip: When a workflow gets too long, you should break it down into separate blocks (for example: a Login block, an Interaction block, a Change password block...) so that later, whenever you need to fix or edit a specific part, it will be much faster and less confusing.
+💡 Tip: When the script is too long, you should break it down into separate blocks (for example: Login block, Interaction block, Change password block...) so that later, if you need to fix bugs or make adjustments to each part, it will be very quick and not confusing.

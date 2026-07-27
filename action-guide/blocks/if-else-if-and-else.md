@@ -1,32 +1,32 @@
 # If, Else if and Else
 
-This is a group of blocks used to branch the scenario based on actual conditions at runtime. Instead of running straight from top to bottom, the system will check whether the condition you set is True or False to decide the next direction for the scenario. In other words, this group of blocks acts as the decision-making brain, helping the scenario automatically handle all fluctuating situations on the browser flexibly.
+This is a group of command blocks used to branch the script based on actual conditions at runtime. Instead of running straight from top to bottom, the system will check whether the conditions you set are True or False to decide the next direction for the script. In other words, this group of command blocks acts as the decision-making brain, helping the script automatically handle flexible situations that arise in the browser.
 
-🎥 Watch more tutorial videos: [Here](https://youtu.be/ZFS_82u23Cs).
+🎥 Watch the tutorial video: [Here](https://youtu.be/ZFS_82u23Cs).
 
-#### 1. Condition block (If)
+#### 1. Conditional block (If)
 
-If is a block that checks a defined condition first. If that condition is True, the system will perform all the actions placed inside this If block. If False, the system will skip it and continue checking below.
+If is the command block that checks a specific condition first. If that condition is True, the system will execute all the actions placed inside this If block. If False, the system will skip it and check further down.
 
-#### 2. Additional condition block (Else if)
+#### 2. Additional conditional block (Else if)
 
-Else if always comes after an If block (or after another Else if). This block is triggered when all the conditions above it are False. The system will proceed to check its own condition — if True, it runs the actions inside; if False, it skips again.
+Else if always follows the If block (or follows another Else if). This block is activated when all the conditions above it are False. The system will check its own condition, if True, it will run the actions inside, if False, it will skip again.
 
-> You can add multiple consecutive Else if blocks to check many different cases of the scenario.
+> You can add multiple Else if blocks in succession to check different cases of the script.
 
 #### 3. Negation block (Else)
 
-Else is the final wrapping block in the condition chain and does not require configuring any condition at all. When all the If and Else if blocks above are False (no case is satisfied), the system will automatically jump in and execute the actions inside the Else block.
+Else is the final wrapping block in the chain of conditions and does not require any conditions to be configured. When all the If and Else if blocks above are False (no cases are satisfied), the system will automatically jump in and execute the actions inside the Else block.
 
 <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-#### Practical example: Checking the login status of an account
+#### Real-world example: Checking the login status of an account
 
-When you open a website (for example: Facebook, X...), the status of the account on the profile may vary. You can use an If - Else if - Else chain to smoothly handle every situation:
+When you open a website (for example: Facebook, X...), the status of the account on the profile may vary. You can use the If - Else if - Else chain to smoothly handle all situations:
 
-* If: See the "Create post" button (proving the account is already logged in).
-  * _Action_: Proceed to fill in the content and post right away.
-* Else if: See the "Username / Password" input field (the account has been logged out).
-  * _Action_: Call data from Variables to fill in the account, password, and click Login.
-* Else (all other cases): No Post button and no Login field visible (the account may have been checkpointed or there's a network error).
-  * _Action_: Use the Stop command to stop the program or take a Screenshot to check later.
+* If: See the "Create Post" button (Proves that the account is already logged in).
+  * _Action_: Proceed to fill in the content and post it immediately.
+* Otherwise if: See the "Username / Password" input box (The account has been logged out).
+  * _Action_: Call data from the variable to fill in the account, password, and click Login.
+* Otherwise all: Do not see the Post button and do not see the Login box (The account may have been checkpointed or there is a network error).
+  * _Action_: Use the Stop command to halt the program or take a screenshot (Screenshot) for later review.

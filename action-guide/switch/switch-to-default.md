@@ -2,4 +2,4 @@
 
 Read more in the [Switch to frame](./switch-to-frame.md) section.
 
-🎥 Watch more tutorial videos: [Here](https://youtu.be/oroexOGjZfw).
+🎥 Watch the tutorial video: [Here](https://youtu.be/oroexOGjZfw).

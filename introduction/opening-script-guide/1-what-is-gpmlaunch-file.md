@@ -1,7 +1,7 @@
 # 📦 1. What is a .gpmlaunch file?
 
-* It is a script execution file: You can simply understand that a `.gpmlaunch` file is like a "software file" that has been packaged from the GPM Automate Editor tool. When someone says "run the script" or "run the tool," they mean opening this file.
-* Where to get this file: If you are a professional who writes scripts yourself, you can build this file yourself to use. If you are a regular user, you can go to the app marketplace [`app.gpmautomate.com`](https://app.gpmautomate.com) to purchase it, or buy it directly from service providers who send you the file.
-* Absolute security: This file has been locked and its internal source code encrypted. Buyers only have the right to click and run it, but cannot view or edit the code, helping script writers avoid exposing their "work" or having their intellectual effort copied when selling it on the market.
+* It is a script running file: You can simply understand that the `.gpmlaunch` file is like a "software file" packaged from the GPM Automate Editor tool. When someone says "run script" or "run tool," they are referring to opening this file.
+* Where to get this file: If you are someone who writes scripts yourself, you can build this file for use. If you are a regular user, you can go to the application marketplace [`app.gpmautomate.com`](https://app.gpmautomate.com) to purchase it, or buy directly from service providers who send the file to you.
+* Absolute security: This file has been locked and the source code inside is encrypted. Buyers only have the right to run it but cannot view or modify the code, helping script writers protect their "work" or prevent their intellectual property from being copied when sold in the market.
 
 <figure><img src="../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>

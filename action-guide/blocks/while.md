@@ -1,31 +1,30 @@
 ---
 description: >-
-  While is a command block used to repeat a group of actions continuously
-  until a condition (Condition) is satisfied, at which point it stops.
+  While is a command block used to repeatedly execute a group of actions continuously until a condition is met.
 ---
 
 # While
 
-Unlike the For loop (which repeats a fixed number of times), the While loop is usually used when you don't know in advance how many times the scenario needs to repeat, as it depends entirely on the actual state at runtime.
+Unlike the For loop (which iterates a fixed number of times), the While loop is typically used when you do not know in advance how many times the scenario will need to repeat, as it completely depends on the actual state at runtime.
 
-🎥 Watch more tutorial videos: [Here](https://youtu.be/4O4dPC-CNHM).
+🎥 Watch the tutorial video: [Here](https://youtu.be/4O4dPC-CNHM).
 
 #### How it works:
 
-* Before starting each loop iteration, the system will check the condition (Condition) that you have configured.
-* If the condition is not yet satisfied, the actions inside the While block will continue to be executed.
-* As soon as the condition is satisfied, the system will stop the loop and move on to the next actions below the While block.
+* Before starting each iteration, the system will check the condition that you have configured.
+* If the condition is not met, the actions inside the While block will continue to be executed.
+* As soon as the condition is met, the system will stop the loop and move on to the next actions below the While block.
 
-#### Real-world example: Waiting to get an OTP code from Mail/Telegram
+#### Practical example: Waiting to get the OTP code from Mail/Telegram
 
-Suppose you are building a scenario to register an account and need to wait for the system to send an OTP code to Email. Since the time it takes for the Mail to arrive can be fast or slow, you cannot know in advance how long to wait:
+Suppose you are creating a script to register an account and need to wait for the system to send the OTP code to your Email. Since the time for the Mail to arrive can be fast or slow, you cannot know in advance how long to wait:
 
 * You place the Read mail code action inside the While block.
-* The loop's stopping condition: When the variable `$otpCode` receives a value (is no longer empty).
-* The system will continuously check and read the mailbox. As soon as the OTP code is successfully retrieved, the condition is satisfied, and the loop stops so the scenario can continue with the code entry step.
+* The stopping condition for the loop: When the variable `$otpCode` receives a value (is no longer empty).
+* The system will continuously check and read the mailbox. As soon as it successfully retrieves the OTP code, the condition is met, and the loop stops so that the script can proceed to the next step of entering the code.
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
-> ⚠️ Important note: When using a While loop, you need to make sure that the actions inside the command block will change the state of the stopping condition. If the condition is configured incorrectly or the Mail never arrives, the scenario will fall into an infinite loop (the scenario will hang).
+> ⚠️ Important note: When using the While loop, you need to ensure that the actions inside the command block will change the state of the stopping condition. If the condition is configured incorrectly or the Mail never arrives, the script will fall into an infinite loop (hanging the script).
 >
-> For optimization, you should also combine this with a counter variable that tracks the number of checks. If more than 10 attempts pass without any Mail, use the Exit loop action to exit the loop, or the Stop action to completely stop the program and move on to the next profile.
+> To optimize, you should also combine a counter variable for the number of checks. If there are more than 10 attempts without receiving Mail, use the Exit loop action to exit the loop, or the Stop action to completely stop the program and move on to the next profile.

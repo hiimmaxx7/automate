@@ -1,0 +1,136 @@
+# Mỗi dòng 1 thuật ngữ/tên action riêng của GPM Automate - sẽ được GIỮ NGUYÊN tiếng Anh
+# khi dịch nội dung sang ngôn ngữ khác. Dòng bắt đầu bằng # là ghi chú, bị bỏ qua.
+Profile
+Excel
+Variables
+System Variables
+Default Values
+Workflow
+Text and Number
+File and Folder
+Clipboard
+HTTP
+Cookie
+Element
+Image Search
+AI
+Mail
+Navigation
+Mouse
+Keyboard
+Scroll
+Switch
+Tab and Popup
+Javascript
+References
+Google service
+Alert
+Block
+GPM Automate
+GPM Automate Editor
+GPM Automate Runtime
+.gpmlaunch
+GPM Login
+Runtime
+Editor
+Add Application
+Input Excel
+Map according to the profile name in column A
+Each profile reads all rows
+Each profile reads one row
+Map mode
+Input from application
+Normal block
+For
+$loopIndex
+Mouse click
+Mouse try to click
+Mouse move
+Mouse press and hold
+Mouse release
+Mouse scroll
+Random scroll
+Scroll to top
+Scroll to bottom
+Scroll to element
+Key press
+Random text
+Split text
+Read JSON
+Regex
+Random number
+Math execute
+2fa code
+Get clipboard text
+Set clipboard text
+File exists
+Copy file
+Move / rename file
+Delete file
+File read all text
+File read all lines
+File read random LINE
+File write all text
+File append LINE
+Folder exists
+Create folder
+Move / rename folder
+Delete folder
+Folder get file list
+Create empty excel
+Read excel file
+Write excel file
+Append excel file
+Read Google sheet
+Write Google sheet
+HTTP request
+HTTP download
+Wait to image
+Image exists
+Image search
+Image to base64
+Chat gpt
+DeepSeek
+Read mail code
+Read outlook (OAuth2)
+Import cookie
+Export cookie
+Execute js code
+While
+If
+Else if
+Else
+Set variable
+Increase variable
+Decrease variable
+Count
+Exit loop
+Next loop
+Stop
+Throw
+Delay
+Call workflow
+New tab
+Active tab
+Close tab
+Close all tab
+Go to URL
+Back URL
+Reload
+Get URL
+Wait URL changed
+Wait element
+Get element attribute
+Get element text
+Count element
+File upload
+Select dropdown
+Switch to default
+Switch to frame
+Switch to popup
+Wait popup
+Has popup
+Accept alert
+Cancel alert
+Get extension ID
+Screenshot

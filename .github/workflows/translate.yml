@@ -40,15 +40,15 @@ jobs:
       - name: Translate to en
         working-directory: main
         env:
-          PROVIDER: gemini
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PROVIDER: openrouter
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: node translate-gitbook.js . ../en en --rename
 
       - name: Translate to zh
         working-directory: main
         env:
-          PROVIDER: gemini
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PROVIDER: openrouter
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: node translate-gitbook.js . ../zh zh --rename
 
       - name: Commit & push en

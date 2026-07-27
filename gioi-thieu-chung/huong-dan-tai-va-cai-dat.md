@@ -6,6 +6,8 @@
 
 Sau khi tải về bạn chạy file cài đặt `.exe`, sau đó bấm Next qua các bước cài đặt là có thể sử dụng phần mềm.
 
+🎥 Xem hướng dẫn cài đặt chi tiết tại đây: [Here](https://www.youtube.com/watch?v=apZWPRFXFlw).
+
 📌 Lưu ý quan trọng:
 
 Hãy đảm bảo máy tính của bạn đã cài đặt và mở sẵn GPM Login vì kịch bản của Automate sẽ trực tiếp điều khiển các profile trên trình duyệt này.

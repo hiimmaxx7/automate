@@ -7,4 +7,4 @@ Cập nhật phần mềm GPM Automate và cập nhật script trên App Store l
 * 🖥️ Cập nhật GPM Automate: vá lỗi, thêm action mới cho chính phần mềm.
 * 📦 Cập nhật script trên App Store: tác giả sửa logic/tính năng/fix lỗi cho riêng file `.gpmlaunch` đó.
 
-> Muốn cập nhật script: vào [https://app.gpmautomate.com/profile/apps](https://app.gpmautomate.com/profile/apps) → mục App đã mua → nhấn Tải app → load lại file mới trong Runtime.
+> Muốn cập nhật script: vào [https://app.gpmautomate.com/profile/apps](https://app.gpmautomate.com/profile/apps) → mục App đã mua → nhấn Tải app đúng theo tên app cần cập nhật → mở lại file mới vừa tải về.

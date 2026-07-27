@@ -16,6 +16,7 @@
     * [👥 6. Profile (Chọn profile trình duyệt để chạy tool)](gioi-thieu-chung/huong-dan-thiet-lap-cau-hinh-de-chay-script/6.-profile-chon-profile-trinh-duyet-de-chay-tool.md)
   * [🛠️ Hướng dẫn Test action (Kiểm thử)](gioi-thieu-chung/huong-dan-test-action-kiem-thu.md)
   * [🗑️ Hướng dẫn fix lỗi cập nhật](gioi-thieu-chung/huong-dan-fix-loi-cap-nhat.md)
+  * [🛠️ Hướng dẫn Tính năng Gen AI Workflow (Tạo kịch bản bằng AI)](gioi-thieu-chung/huong-dan-gen-ai-workflow.md)
 
 ## HƯỚNG DẪN CÁC ACTION
 

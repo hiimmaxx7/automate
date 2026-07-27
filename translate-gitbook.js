@@ -306,7 +306,8 @@ function saveSlugCache(cache) {
 }
 
 function hashContent(str) {
-  return crypto.createHash('sha256').update(str, 'utf8').digest('hex');
+  const normalized = str.replace(/\r\n/g, '\n');
+  return crypto.createHash('sha256').update(normalized, 'utf8').digest('hex');
 }
 
 const HASH_MANIFEST = loadJsonMap(HASH_MANIFEST_PATH);

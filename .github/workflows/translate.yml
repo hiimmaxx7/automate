@@ -1,0 +1,79 @@
+name: Auto-translate GitBook docs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - '**/*.mdx'
+      - 'glossary.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+
+      - name: Checkout en
+        uses: actions/checkout@v4
+        with:
+          ref: en
+          path: en
+
+      - name: Checkout zh
+        uses: actions/checkout@v4
+        with:
+          ref: zh
+          path: zh
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Translate to en
+        working-directory: main
+        env:
+          PROVIDER: gemini
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node translate-gitbook.js . ../en en --rename
+
+      - name: Translate to zh
+        working-directory: main
+        env:
+          PROVIDER: gemini
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node translate-gitbook.js . ../zh zh --rename
+
+      - name: Commit & push en
+        working-directory: en
+        run: |
+          git config user.name "gitbook-translate-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "auto-translate from main ${{ github.sha }}"
+          git push origin en
+
+      - name: Commit & push zh
+        working-directory: zh
+        run: |
+          git config user.name "gitbook-translate-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "auto-translate from main ${{ github.sha }}"
+          git push origin zh
+
+      - name: Commit slug-cache & manifest back to main
+        working-directory: main
+        run: |
+          git config user.name "gitbook-translate-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add slug-cache.json translate-manifest.json
+          git diff --cached --quiet || git commit -m "update slug cache and translate manifest"
+          git push origin main

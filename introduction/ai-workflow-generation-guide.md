@@ -1,4 +1,4 @@
-# 🛠️ Guide to Gen AI Workflow Feature (Creating Scripts with AI)
+# 🛠️Guide to Gen AI Workflow Feature (Creating Scripts with AI)
 
 The Gen AI Workflow feature allows you to initiate a complete automation script simply by describing it in natural language. In simple terms, it's like having AI browse the web for you — the AI configured in GPM Automate will automatically read the content, analyze the requirements, combine with a real web browsing Agent to fully analyze the page structure and obtain accurate XPath just like a real user before automatically generating the actions to push into the workflow.
 

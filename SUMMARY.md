@@ -14,10 +14,10 @@
     * [🚀 4. Session Configuration](./introduction/setup-configuration-to-run-script/session-configuration.md)
     * [📅 5. Schedule (Schedule script execution)](./introduction/setup-configuration-to-run-script/5-schedule-scenario-execution.md)
     * [👥 6. Profile (Select browser profile to run the tool)](./introduction/setup-configuration-to-run-script/6-profile-choose-browser-profile-to-run-tool.md)
-  * [🛠️Action Test guide](./introduction/test-action-guide.md)
-  * [🗑️Update error fix guide](./introduction/fix-update-errors.md)
+  * [🛠️Testing action guide](./introduction/test-action-guide.md)
   * [🔄Guide to check and update Automate](./introduction/check-and-update-automate.md)
-  * [🛠️Gen AI Workflow feature guide (Create scripts using AI)](./introduction/ai-workflow-generation-guide.md)
+  * [🗑️Guide to fix update errors](./introduction/fix-update-errors.md)
+  * [🛠️Guide to Gen AI Workflow feature (Create scripts using AI)](./introduction/ai-workflow-generation-guide.md)
 
 ## ACTION GUIDE
 
@@ -116,4 +116,28 @@
   * [Scroll to bottom](./action-guide/scroll/scroll-to-bottom.md)
   * [Scroll to element](./action-guide/scroll/scroll-to-element.md)
 * [🔀Switch](./action-guide/switch/README.md)
-  *
+  * [Switch to default](./action-guide/switch/switch-to-default.md)
+  * [Switch to frame](./action-guide/switch/switch-to-frame.md)
+  * [Switch to popup](./action-guide/switch/switch-to-popup.md)
+* [🍪Cookie](./action-guide/cookie/README.md)
+  * [Import cookie](./action-guide/cookie/import-cookie.md)
+  * [Export cookie](./action-guide/cookie/export-cookie.md)
+* [⚠️Alert](./action-guide/alert/README.md)
+  * [Accept alert](./action-guide/alert/accept-alert.md)
+  * [Cancel alert](./action-guide/alert/cancel-alert.md)
+* [📑Tab & Popup](./action-guide/tab-and-popup/README.md)
+  * [Wait popup](./action-guide/tab-and-popup/wait-popup.md)
+  * [Has popup](./action-guide/tab-and-popup/has-popup.md)
+* [💻Javascript](./action-guide/javascript/README.md)
+  * [Execute JS code](./action-guide/javascript/execute-js-code.md)
+  * [Get extension id](./action-guide/javascript/get-extension-id.md)
+  * [Screenshot](./action-guide/javascript/screenshot.md)
+* [🔗References](./action-guide/references/README.md)
+  * [Call workflow](./action-guide/references/call-workflow.md)
+* [📊Google service](./action-guide/google-service/README.md)
+  * [Read google sheet](./action-guide/google-service/read-google-sheet.md)
+  * [Write google sheet](./action-guide/google-service/write-google-sheet.md)
+
+***
+
+* [CONTACT SUPPORT](./contact-support.md)

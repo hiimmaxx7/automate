@@ -1,6 +1,8 @@
 # Export cookie
 
-Export cookie is the action of extracting all current cookie data from the open webpage for storage, backup, or transfer to other systems or devices.
+Export cookie is the action of extracting all current cookie data from the open website for storage, backup, or transfer to other systems or devices.
+
+🎥 Watch the tutorial video: [Here](https://youtu.be/OLHoUtANkXw).
 
 #### Configuration parameters:
 
@@ -8,7 +10,7 @@ Export cookie is the action of extracting all current cookie data from the open 
 
 #### Important operational notes:
 
-* Need to Go to URL first: You must also navigate the browser to the webpage from which you need to retrieve data, wait for the webpage to fully load, and then call the Export cookie action to successfully obtain all current login sessions.
+* Need to Go to URL first: You must also navigate the browser to the website from which you need to retrieve data, wait for the website to fully load, and then call the Export cookie action to retrieve all current login sessions.
 
 <figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 

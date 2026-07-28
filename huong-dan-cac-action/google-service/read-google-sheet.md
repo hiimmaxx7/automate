@@ -2,6 +2,8 @@
 
 Read google sheet là hành động ra lệnh cho kịch bản tự động kết nối với tài khoản Google Drive của bạn để trích xuất và đọc nội dung từ một ô hoặc một vùng dữ liệu trên tệp Google Sheets trực tuyến.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kiBj-3YuRPI).
+
 #### Các tham số cấu hình:
 
 * Credential file: Chọn tệp tin xác thực tài khoản Google (tệp tin có đuôi mở rộng là `.json`). Tệp tin này đóng vai trò như một chiếc chìa khóa bảo mật, mục đích dùng để thiết lập kết nối an toàn với hệ thống Google API, xác thực và cấp quyền cho GPM Automate có thể vào đọc/ghi nội dung trên Google Sheet của bạn.

@@ -1,4 +1,4 @@
-# 🗑️ Hướng Dẫn Gỡ Cài Đặt GPM Automate
+# 🗑️Hướng Dẫn Gỡ Cài Đặt GPM Automate
 
 Trong trường hợp GPM Automate hoạt động không ổn định hoặc gặp lỗi trong quá trình cập nhật, bạn có thể cần gỡ phần mềm ra và cài đặt lại bản mới để hệ thống hoạt động trơn tru hơn.
 

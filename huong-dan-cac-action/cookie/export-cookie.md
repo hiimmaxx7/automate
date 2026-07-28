@@ -2,6 +2,8 @@
 
 Export cookie là hành động trích xuất toàn bộ dữ liệu cookie hiện tại của trang web đang mở để lưu trữ, sao lưu hoặc chuyển sang sử dụng cho các hệ thống, thiết bị khác.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/OLHoUtANkXw).
+
 #### Tham số cấu hình:
 
 * Cookie file: Đường dẫn chỉ định nơi sẽ tạo và ghi tệp dữ liệu sau khi xuất (Ví dụ: `D:\fb_cookie.json`). Dữ liệu xuất ra sẽ tự động được đóng gói dưới định dạng JSON chuẩn.

@@ -4,6 +4,8 @@ Hành động này giúp tool "đọc" và lấy toàn bộ chữ hiển thị t
 
 * Tác dụng: Dùng khi bạn cần cào dữ liệu văn bản từ website. Bạn chỉ cần chỉ định đúng vị trí (element), tool sẽ tự động bóc tách phần chữ đang hiển thị trên giao diện ra cho bạn.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/AwlJt1TG80U).
+
 #### Giải thích các tham số cấu hình:
 
 * XPath: Đường dẫn mã định danh (XPath) của phần tử chứa đoạn văn bản cần lấy trên giao diện trang web.

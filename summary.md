@@ -16,7 +16,7 @@
     * [👥 6. Profile（选择用于运行工具的浏览器 Profile）](./introduction/setup-configuration-to-run-script/6-profile-choose-browser-profile-to-run-tool.md)
   * [🛠️Test action 指南（测试）](./introduction/test-action-guide.md)
   * [🗑️更新错误修复指南](./introduction/fix-update-errors.md)
-  * [🔄 如何在 GPM App Store 更新脚本，并与更新 GPM Automate 区分开来](./introduction/check-and-update-automate.md)
+  * [🔄如何在 GPM App Store 更新脚本，并与更新 GPM Automate 区分开来](./introduction/check-and-update-automate.md)
   * [🛠️Gen AI Workflow 功能指南（使用 AI 创建脚本）](./introduction/ai-workflow-generation-guide.md)
 
 ## ACTION 使用指南

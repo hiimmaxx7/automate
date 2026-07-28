@@ -6,6 +6,8 @@ description: Ghi dữ liệu lên trên google sheet
 
 Write google sheet là hành động ra lệnh cho kịch bản tự động kết nối với tài khoản Google Drive của bạn để ghi đè hoặc chèn nội dung mới vào một ô tính cụ thể trên tệp Google Sheets trực tuyến.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kiBj-3YuRPI).
+
 #### Các tham số cấu hình:
 
 * Credential file: Chọn tệp tin xác thực tài khoản Google (tệp `.json`). Đây là chứng chỉ bảo mật cấp quyền cho GPM Automate kết nối, xác thực và thực hiện lệnh ghi nội dung lên Google Sheet của bạn.

@@ -1,4 +1,4 @@
-# 🛠️ Gen AI Workflow 功能使用指南(通过 AI 生成脚本)
+# 🛠️Gen AI Workflow 功能使用指南(通过 AI 生成脚本)
 
 Gen AI Workflow 功能允许您仅通过自然语言描述来创建完整的自动化脚本。简单来说,就是 AI 自动帮您浏览网页——在 GPM Automate 中预先配置好的 AI 会自动读取内容、分析需求,并结合实际浏览网页的 Agent 来分析页面的完整结构,获取如真人操作般精确的 XPath,然后自动生成各种 action 并推送到 workflow 中。
 

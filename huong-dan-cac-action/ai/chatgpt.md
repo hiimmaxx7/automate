@@ -2,6 +2,8 @@
 
 Chat GPT là hành động tích hợp sẵn giúp kịch bản của bạn có thể giao tiếp trực tiếp với các mô hình ngôn ngữ lớn của OpenAI thông qua giao thức API. Hành động này biến kịch bản Automation trở nên thông minh vượt trội nhờ khả năng tự động xử lý ngôn ngữ tự nhiên, dịch thuật, tóm tắt văn bản, trích xuất thông tin, hoặc tự động sáng tạo nội dung bài viết ngay trong luồng chạy.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/ir5gNwWHYdg).
+
 #### Bước 1: Đăng ký tài khoản và Mua Credits (API) trên OpenAI
 
 Khác với tài khoản ChatGPT Plus (gói trả phí $20/tháng dùng trên giao diện web), tài khoản sử dụng API hoạt động theo cơ chế Nạp tiền trước, dùng bao nhiêu trừ bấy nhiêu (Pay-as-you-go).

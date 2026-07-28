@@ -1,4 +1,4 @@
-# 🛠️ Hướng dẫn Tính năng Gen AI Workflow (Tạo kịch bản bằng AI)
+# 🛠️Hướng dẫn Tính năng Gen AI Workflow (Tạo kịch bản bằng AI)
 
 Tính năng Gen AI Workflow cho phép bạn khởi tạo kịch bản automation hoàn chỉnh chỉ bằng mô tả ngôn ngữ tự nhiên. Hiểu nôm na là AI tự lướt web giúp mình — AI được cấu hình sẵn trong GPM Automate sẽ tự động đọc nội dung, phân tích yêu cầu, kết hợp với Agent lướt web thực tế để phân tích full cấu trúc trang và lấy XPath chuẩn xác như người thao tác thật trước khi tự động sinh các action đẩy vào workflow.
 

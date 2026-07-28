@@ -4,6 +4,8 @@ Hành động này giúp tool tạm dừng và "canh" đến khi nào một thà
 
 * Tác dụng: Giúp tool chạy "nhịp nhàng" với tốc độ tải của web. Thay vì phải dùng lệnh chờ cố định (Delay) làm mất thời gian, lệnh này giúp kịch bản chạy nhanh nhất có thể và tránh được lỗi không tìm thấy phần tử do web tải chậm.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/AwlJt1TG80U).
+
 #### Tham số cấu hình:
 
 * Element XPath: Đường dẫn mã định danh (XPath) của phần tử bạn cần chờ đợi trên giao diện trang web (Ví dụ: `//button[@type="submit"]`).

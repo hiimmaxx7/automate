@@ -8,6 +8,8 @@ Get clipboard text là hành động dùng để đọc (lấy) toàn bộ nội
 
 Hành động này cực kỳ linh hoạt khi bạn cần phối hợp xử lý dữ liệu giữa các phần mềm bên ngoài (như Excel, Notepad, công cụ quét dữ liệu khác) với trình duyệt Automation của GPM.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/OLHoUtANkXw).
+
 #### Tham số cấu hình:
 
 * Output variable: Tên biến lưu chuỗi văn bản lấy ra từ bộ nhớ tạm.

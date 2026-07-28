@@ -1,6 +1,6 @@
-# 🔄How to update scripts on the GPM App Store and distinguish it from updating GPM Automate
+# 🔄How to update scripts on GPM App Store and distinguish it from updating GPM Automate
 
-Updating the GPM Automate software and updating scripts on the App Store are two separate tasks that do not automatically trigger each other.
+Updating the GPM Automate software and updating scripts on the App Store are two separate tasks that do not automatically follow each other.
 
 🎥 Watch the tutorial video: [Here](https://www.youtube.com/watch?v=THl8V2nO8ew).
 

@@ -1,14 +1,14 @@
-# 🛠️Action Test Guide
+# 🛠️Guide to Test action
 
-Testing is an important step that helps you control the flow of your script, allowing you to run each step or block of commands to ensure everything operates as intended before the actual run.
+Testing is an important step that helps you control the flow of the script, allowing you to run each step or block of commands to ensure everything operates as intended before the actual run.
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/zrX3ldxvEDE).
 
-### 🎯 Why is it necessary to Test actions?
+### 🎯 Why is it necessary to Test action?
 
 * Error control: Detect and address issues as actions are performed, rather than having to run the entire script from the beginning.
 * Flexible tuning: You can isolate a single action or a block to test, helping to shorten debugging time.
-* Test as you go: GPM Automate supports direct testing on the profiles of GPM Login, allowing you to observe results immediately in the browser.
+* Process as you go, test as you go: GPM Automate supports direct testing mechanisms on GPM Login profiles, allowing you to observe results immediately in the browser.
 
 > Note: The Test feature currently only supports profiles in GPM Login.
 
@@ -16,7 +16,7 @@ Testing is an important step that helps you control the flow of your script, all
 
 To start the testing process, follow these steps:
 
-#### 1️⃣ Step 1: Configure the profile in GPM Login
+#### 1️⃣ Step 1: Configure profile in GPM Login
 
 * Open GPM Login.
 * Locate the profile you want to use for testing.

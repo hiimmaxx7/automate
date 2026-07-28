@@ -14,10 +14,10 @@
     * [🚀 4. Session Configuration](./introduction/setup-configuration-to-run-script/session-configuration.md)
     * [📅 5. Schedule (Script execution timer)](./introduction/setup-configuration-to-run-script/5-schedule-scenario-execution.md)
     * [👥 6. Profile (Select browser profile to run the tool)](./introduction/setup-configuration-to-run-script/6-profile-choose-browser-profile-to-run-tool.md)
-  * [🛠️ Action Test guide](./introduction/test-action-guide.md)
-  * [🗑️ Update error fix guide](./introduction/fix-update-errors.md)
-  * [🔄 How to update scripts on the GPM App Store and distinguish it from updating GPM Automate](./introduction/check-and-update-automate.md)
-  * [🛠️ Gen AI Workflow feature guide (Create scripts using AI)](./introduction/ai-workflow-generation-guide.md)
+  * [🛠️Action Test guide](./introduction/test-action-guide.md)
+  * [🗑️Update error fix guide](./introduction/fix-update-errors.md)
+  * [🔄How to update scripts on the GPM App Store and distinguish it from updating GPM Automate](./introduction/check-and-update-automate.md)
+  * [🛠️Gen AI Workflow feature guide (Create scripts using AI)](./introduction/ai-workflow-generation-guide.md)
 
 ## ACTION GUIDES
 

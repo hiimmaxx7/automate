@@ -5,6 +5,8 @@ Hành động này giúp bạn "bóc tách" những thông tin ẩn bên trong m
 * Tác dụng: Ví dụ, bạn có thể lấy đường dẫn ảnh từ thuộc tính `src`, hoặc lấy link từ thuộc tính `href` của một thẻ liên kết, hay lấy giá trị nhập trong ô `value`.
 * Cách hiểu đơn giản: Mỗi thành phần trên web đều có những "thuộc tính" đi kèm (như cái nhãn dán thông tin). Lệnh này giúp bạn đọc và "chép" thông tin từ cái nhãn đó ra để lưu lại.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/AwlJt1TG80U).
+
 #### Giải thích các tham số cấu hình:
 
 * Element XPath: Đường dẫn mã định danh (XPath) của phần tử chứa thuộc tính cần lấy trên giao diện trang web.

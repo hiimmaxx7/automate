@@ -1,6 +1,6 @@
 # 🗑️Guide to Uninstall GPM Automate
 
-In case GPM Automate is unstable or encounters errors during the update process, you may need to uninstall the software and reinstall the latest version for the system to function more smoothly.
+In case GPM Automate is unstable or encounters errors during the update process, you may need to uninstall the software and reinstall a new version for the system to operate more smoothly.
 
 ### Uninstallation Steps
 
@@ -8,7 +8,7 @@ In case GPM Automate is unstable or encounters errors during the update process,
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-2️⃣ Step 2: Press the Start key (Windows icon) on the screen, type the keyword Control Panel in the search bar, and open the application.
+2️⃣ Step 2: Press the Start key (Windows icon) on the screen, type in the search keyword Control Panel, and open the application.
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
@@ -18,6 +18,6 @@ In case GPM Automate is unstable or encounters errors during the update process,
 
 4️⃣ Step 4: Locate the GPM Automate software in the list, select it, and click Uninstall to proceed with the complete removal.
 
-_A little tip: After successfully uninstalling, you can download the latest installer from the GPM Softwares homepage and proceed to reinstall as usual._
+_Small tip: After successfully uninstalling, you can download the latest installer from the GPM Softwares homepage and proceed with the installation as usual._
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

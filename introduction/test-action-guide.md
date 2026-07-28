@@ -1,4 +1,4 @@
-# 🛠️ Action Test Guide
+# 🛠️Action Test Guide
 
 Testing is an important step that helps you control the flow of your script, allowing you to run each step or block of commands to ensure everything operates as intended before the actual run.
 

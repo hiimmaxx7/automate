@@ -1,4 +1,4 @@
-# 🔄 如何在 GPM App Store 上更新脚本并与 GPM Automate 更新区分开来
+# 🔄如何在 GPM App Store 上更新脚本并与 GPM Automate 更新区分开来
 
 更新 GPM Automate 软件和在 App Store 上更新脚本是两个独立的操作，并不会自动相互关联。
 

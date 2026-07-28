@@ -4,6 +4,8 @@ Set clipboard text là hành động dùng để gán (ghi) một chuỗi văn b
 
 Hành động này thường được sử dụng làm bước đệm trước khi bạn dùng lệnh dán dữ liệu, giúp nhập các đoạn văn bản dài hoặc ký tự đặc biệt vào trình duyệt một cách nhanh chóng mà không sợ bị lỗi gõ phím.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/OLHoUtANkXw).
+
 #### Tham số cấu hình:
 
 * Text: Nội dung văn bản thô (hoặc biến chứa dữ liệu) mà bạn muốn nạp vào bộ nhớ tạm.

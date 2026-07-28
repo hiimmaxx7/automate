@@ -2,6 +2,8 @@
 
 DeepSeek là hành động tích hợp sẵn giúp kịch bản GPM Automate của bạn kết nối thẳng tới hệ thống API của DeepSeek. Với ưu thế vượt trội về chi phí siêu rẻ và khả năng tư duy logic, lập trình, ngôn ngữ vô cùng mạnh mẽ, hành động này là một sự thay thế hoặc bổ sung hoàn hảo bên cạnh Chat GPT để tự động hóa các tác vụ tạo nội dung, phân tích dữ liệu, hay xử lý văn bản thông minh.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/ir5gNwWHYdg).
+
 #### Hướng dẫn đăng ký, mua API và cấu hình hành động DeepSeek
 
 Cơ chế hoạt động và tính toán chi phí qua API của DeepSeek tương tự như OpenAI (Nạp tiền trước, dùng bao nhiêu trừ bấy nhiêu). Quy trình thiết lập cụ thể bao gồm các bước sau:

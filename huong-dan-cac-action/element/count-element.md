@@ -4,6 +4,8 @@ Hành động này giúp tool quét trên trang web xem có bao nhiêu mục kh�
 
 * Tác dụng: Rất hữu ích khi bạn muốn kiểm tra số lượng sản phẩm đang hiển thị, đếm số comment, hay kiểm tra xem một danh sách đã tải đủ dữ liệu chưa. Nếu đếm được 0 thì tức là không thấy mục nào, nếu đếm được nhiều hơn 0 thì bạn có thể dùng các vòng lặp để xử lý lần lượt từng mục đó.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/AwlJt1TG80U).
+
 #### Giải thích các tham số cấu hình:
 
 * XPath: Đường dẫn mã định danh (XPath) của tập hợp các phần tử bạn muốn đếm số lượng trên giao diện trang web.

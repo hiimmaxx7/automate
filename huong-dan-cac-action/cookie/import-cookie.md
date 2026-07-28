@@ -2,6 +2,8 @@
 
 Import cookie là hành động nạp một chuỗi hoặc tệp dữ liệu cấu trúc cookie có sẵn vào trình duyệt để tài khoản tự động vào trạng thái đăng nhập thành công mà không cần điền Username/Password.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/OLHoUtANkXw).v
+
 #### Tham số cấu hình:
 
 * Cookie file: Đường dẫn tuyệt đối dẫn tới tệp tin `.json` chứa cấu trúc cookie (hoặc truyền thẳng biến dữ liệu).

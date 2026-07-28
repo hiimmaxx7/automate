@@ -1,8 +1,10 @@
 # Get element text
 
-This action helps the tool "read" and retrieve all the displayed text on an element (such as article content, title, price, or account name) and save it into a variable for your use.
+This action helps the tool "read" and retrieve all the displayed text on an element (such as article content, title, price, or account name) and store it in a variable for your use.
 
-* Effect: Used when you need to scrape text data from a website. You just need to specify the correct position (element), and the tool will automatically extract the displayed text on the interface for you.
+* Purpose: Used when you need to scrape text data from a website. You just need to specify the correct position (element), and the tool will automatically extract the displayed text from the interface for you.
+
+🎥 Watch the tutorial video: [Here](https://youtu.be/AwlJt1TG80U).
 
 #### Explanation of configuration parameters:
 
@@ -13,16 +15,16 @@ This action helps the tool "read" and retrieve all the displayed text on an elem
 
 Based on the store interface image you provided, you want to scrape the price of the Samsung Galaxy S6 phone for price comparison or to synchronize data with your system.
 
-Looking at the HTML source code table highlighted in red on the right side of the image below:
+Looking at the highlighted HTML source code table on the right side of the image below:
 
 > Structure of the tag containing the price: `<h5>$360</h5>`
 
-To retrieve the text string for the price `$360`, you will configure the action as follows:
+To retrieve the text string of the price `$360`, you will configure the action as follows:
 
-* Element XPath: Enter the exact XPath path pointing directly to the tag containing the product price, for example: `//div[@class='card h-100']//h5` (as shown in the XPath search box you successfully tested in the image).
+* Element XPath: Enter the exact XPath path that points directly to the tag containing the product's price, for example: `//div[@class='card h-100']//h5` (as shown in the XPath search box you successfully tested in the image).
 * Output variable: Name the output variable as `productPrice`.
 
-Result: The system will find the corresponding `<h5>` tag of the product, extract the plain text located in the middle of the tag, and directly load the value `$360` into the variable `$productPrice`. In subsequent steps, you can call this variable to write to an Excel file or send it to your system's data. 
+Result: The system will find the corresponding `<h5>` tag of the product, extract the plain text located between the tags, and directly load the value `$360` into the variable `$productPrice`. In subsequent steps, you can call this variable to write to an Excel file or send it to the system data.
 
 <figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 

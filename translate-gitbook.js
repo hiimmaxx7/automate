@@ -314,6 +314,11 @@ const HASH_MANIFEST = loadJsonMap(HASH_MANIFEST_PATH);
 
 const nameCache = loadSlugCache();
 
+// Các tên file GitBook bắt buộc giữ nguyên case viết hoa (README.md, SUMMARY.md).
+// Nếu bị dịch/slugify thành chữ thường, GitBook Git Sync sẽ không nhận diện được
+// đây là file điều hướng đặc biệt của Space (menu sẽ rơi về liệt kê phẳng theo alphabet).
+const RESERVED_FILENAMES = new Set(['README', 'SUMMARY']);
+
 async function translateName(originalName, kind) {
   const cacheKey = `${kind}:${originalName}`;
   if (nameCache.has(cacheKey)) return nameCache.get(cacheKey);
@@ -332,7 +337,6 @@ Examples:
 - "huong-dan-viet-dieu-kien" means "hướng dẫn viết điều kiện" (guide to writing conditions) → e.g. "writing-conditions"
 - "if-else-if-va-else" means "if - else if - và else" (if / else if / and else, a programming term) → e.g. "if-else-if-and-else"
 - "thao-tac" or "cac-thao-tac" means "thao tác" / "các thao tác" (operations/actions) → e.g. "user-guide" or "actions" (English, NEVER "cao-zuo" or any Pinyin)
-- "README" is already English → keep as "readme"
 
 Now convert this one. Output ONLY the final ENGLISH kebab-case slug (lowercase letters, digits, hyphens only, no accents, no spaces, no punctuation, no quotes, no explanation, single line):
 
@@ -360,6 +364,10 @@ async function computeNewRelPath(relPathPosix) {
     if (isLast) {
       const ext = path.extname(parts[i]);
       const base = path.basename(parts[i], ext);
+      if (RESERVED_FILENAMES.has(base.toUpperCase())) {
+        newParts.push(base.toUpperCase() + ext);
+        continue;
+      }
       const slug = await translateName(base, 'file');
       newParts.push(slug + ext);
     } else {

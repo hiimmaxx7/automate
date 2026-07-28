@@ -15,8 +15,8 @@
     * [📅 5. Schedule (Hẹn giờ chạy kịch bản)](gioi-thieu-chung/huong-dan-thiet-lap-cau-hinh-de-chay-script/5.-schedule-hen-gio-chay-kich-ban.md)
     * [👥 6. Profile (Chọn profile trình duyệt để chạy tool)](gioi-thieu-chung/huong-dan-thiet-lap-cau-hinh-de-chay-script/6.-profile-chon-profile-trinh-duyet-de-chay-tool.md)
   * [🛠️Hướng dẫn Test action (Kiểm thử)](gioi-thieu-chung/huong-dan-test-action-kiem-thu.md)
-  * [🗑️Hướng dẫn fix lỗi cập nhật](gioi-thieu-chung/huong-dan-fix-loi-cap-nhat.md)
   * [🔄Hướng dẫn kiểm tra và cập nhật Automate](gioi-thieu-chung/kiem-tra-va-cap-nhat-automate.md)
+  * [🗑️Hướng dẫn fix lỗi cập nhật](gioi-thieu-chung/huong-dan-fix-loi-cap-nhat.md)
   * [🛠️Hướng dẫn Tính năng Gen AI Workflow (Tạo kịch bản bằng AI)](gioi-thieu-chung/huong-dan-gen-ai-workflow.md)
 
 ## HƯỚNG DẪN CÁC ACTION
@@ -116,4 +116,28 @@
   * [Scroll to bottom](huong-dan-cac-action/scroll/scroll-to-bottom.md)
   * [Scroll to element](huong-dan-cac-action/scroll/scroll-to-element.md)
 * [🔀Switch](huong-dan-cac-action/switch/README.md)
-  *
+  * [Switch to default](huong-dan-cac-action/switch/switch-to-default.md)
+  * [Switch to frame](huong-dan-cac-action/switch/switch-to-frame.md)
+  * [Switch to popup](huong-dan-cac-action/switch/switch-to-popup.md)
+* [🍪Cookie](huong-dan-cac-action/cookie/README.md)
+  * [Import cookie](huong-dan-cac-action/cookie/import-cookie.md)
+  * [Export cookie](huong-dan-cac-action/cookie/export-cookie.md)
+* [⚠️Alert](huong-dan-cac-action/alert/README.md)
+  * [Accept alert](huong-dan-cac-action/alert/accept-alert.md)
+  * [Cancel alert](huong-dan-cac-action/alert/cancel-alert.md)
+* [📑Tab & Popup](huong-dan-cac-action/tab-and-popup/README.md)
+  * [Wait popup](huong-dan-cac-action/tab-and-popup/wait-popup.md)
+  * [Has popup](huong-dan-cac-action/tab-and-popup/has-popup.md)
+* [💻Javascript](huong-dan-cac-action/javascript/README.md)
+  * [Execute JS code](huong-dan-cac-action/javascript/execute-js-code.md)
+  * [Get extension id](huong-dan-cac-action/javascript/get-extension-id.md)
+  * [Screenshot](huong-dan-cac-action/javascript/screenshot.md)
+* [🔗References](huong-dan-cac-action/references/README.md)
+  * [Call workflow](huong-dan-cac-action/references/call-workflow.md)
+* [📊Google service](huong-dan-cac-action/google-service/README.md)
+  * [Read google sheet](huong-dan-cac-action/google-service/read-google-sheet.md)
+  * [Write google sheet](huong-dan-cac-action/google-service/write-google-sheet.md)
+
+***
+
+* [LIÊN HỆ HỖ TRỢ](lien-he-ho-tro.md)

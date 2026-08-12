@@ -150,6 +150,20 @@
   * [Toggle service](huong-dan-cac-action/phone-device/toggle-service.md)
   * [Check network](huong-dan-cac-action/phone-device/check-network.md)
   * [Reconnect](huong-dan-cac-action/phone-device/reconnect.md)
+* [🧭Phone - Navigation](huong-dan-cac-action/phone-navigation/README.md)
+  * [Press back](huong-dan-cac-action/phone-navigation/press-back.md)
+  * [Press home](huong-dan-cac-action/phone-navigation/press-home.md)
+  * [Press menu](huong-dan-cac-action/phone-navigation/press-menu.md)
+* [📁Phone - File](huong-dan-cac-action/phone-file/README.md)
+  * [Push file](huong-dan-cac-action/phone-file/push-file.md)
+  * [Pull file](huong-dan-cac-action/phone-file/pull-file.md)
+* [📋Phone - Clipboard](huong-dan-cac-action/phone-clipboard/README.md)
+  * [Copy clipboard](huong-dan-cac-action/phone-clipboard/copy-clipboard.md)
+  * [Set clipboard](huong-dan-cac-action/phone-clipboard/set-clipboard.md)
+  * [Paste clipboard](huong-dan-cac-action/phone-clipboard/paste-clipboard.md)
+* [👆Phone - Action](huong-dan-cac-action/phone-action/README.md)
+  * [Hướng dẫn xác định XPath & toạ độ](huong-dan-cac-action/phone-action/huong-dan-xac-dinh-xpath-va-toa-do.md)
+  * [Touch](huong-dan-cac-action/phone-action/touch.md)
 
 ***
 

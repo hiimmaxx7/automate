@@ -136,5 +136,7 @@
   "file:throw": "throw-is-already-an-english-word",
   "file:lien-he-ho-tro": "contact-support",
   "file:SUMMARY": "summary",
-  "file:kiem-tra-va-cap-nhat-automate": "check-and-update-automate"
+  "file:kiem-tra-va-cap-nhat-automate": "check-and-update-automate",
+  "folder:phone-app": "phone-app",
+  "file:install-app": "install-app"
 }

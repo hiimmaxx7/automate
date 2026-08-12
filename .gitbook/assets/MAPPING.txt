@@ -1,0 +1,53 @@
+BANG TRA ANH -> ACTION (ten ngan 8.3-safe, upload TAT CA vao .gitbook/assets)
+
+Phone - App (pa):
+  pa-01.png = Install app
+  pa-02.png = Is app installed
+  pa-03.png = Uninstall app
+  pa-04.png = Start app
+  pa-05.png = Stop app
+  pa-06.png = Clean app data
+
+Phone - Device (pd):
+  pd-01.png = Lock device
+  pd-02.png = Unlock device
+  pd-03.png = Toggle service
+  pd-04.png = Check network
+  pd-05.png = Reconnect
+
+Phone - Navigation (pn):
+  pn-01.png = Press back
+  pn-02.png = Press home
+  pn-03.png = Press menu
+
+Phone - File (pf):
+  pf-01.png = Push file
+  pf-02.png = Pull file
+
+Phone - Clipboard (pc):
+  pc-01.png = Copy clipboard
+  pc-02.png = Set clipboard
+  pc-03.png = Paste clipboard
+
+Phone - Action (px):
+  px-01.png  = Touch (by Xpath)
+  px-01b.png = Touch (by coordinates)
+  px-02.png  = Scroll (by direction)
+  px-02b.png = Scroll (by points)
+  px-03.png  = Screenshot
+  px-04.png  = Press key
+  px-05.png  = Type text
+
+Phone - Element (pe):
+  pe-01.png = Get element data
+  pe-02.png = Has element
+
+Phone - Shell (ps):
+  ps-01.png = Execute ADB
+  ps-02.png = Execute CMD
+
+Huong dan XPath (ui) - dung chung Action & Element:
+  ui-01.png = GPM UI Automator - chon element + suggested xpath
+  ui-02.png = GPM UI Automator - attributes (bounds/toa do)
+
+=> TONG: 26 anh. Keo-tha het vao thu muc .gitbook/assets tren GitHub.

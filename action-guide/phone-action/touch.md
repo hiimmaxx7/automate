@@ -1,20 +1,22 @@
 ---
-description: Touch (tap) on an element by XPath or by coordinates on the screen.
+description: Touch an element by XPath or by coordinates on the screen.
 ---
 
 # Touch
 
 Touch is the action of tapping on the screen of a mobile device. The touch point can be determined by the XPath of the element or by coordinates (x,y).
 
+🎥 Watch the tutorial video: [Here](https://youtu.be/WhRCpYVeagA).
+
 #### Explanation of configuration parameters:
 
 * Touch type: How to determine the touch point:
-  * `Touch by Xpath`: tap on the element by XPath.
-  * `Touch by coordinates`: tap on a point by coordinates.
-* XPath: (when selecting Touch by Xpath) The XPath of the element to tap, for example `//node[@resource-id="com.android.chrome:id/url_bar"]`. See how to get XPath at [Guide to determine XPath & coordinates](./xpath-and-coordinates-guide.md).
+  * `Touch by Xpath`: touch the element by XPath.
+  * `Touch by coordinates`: touch a point by coordinates.
+* XPath: (when selecting Touch by Xpath) The XPath of the element to touch, for example `//node[@resource-id="com.android.chrome:id/url_bar"]`. See how to get XPath in [Guide to Determine XPath & Coordinates](./xpath-and-coordinates-guide.md).
 * Coordinates (x,y): (when selecting Touch by coordinates) The touch point coordinates in the form `x,y`, for example `500,700`.
 * Touch mode: Type of touch:
-  * `Normal`: a single regular tap.
+  * `Normal`: a single normal tap.
   * `Double`: double tap.
   * `Hold`: press and hold.
 

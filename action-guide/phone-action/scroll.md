@@ -4,17 +4,19 @@ description: Scroll the device screen in a direction or according to the coordin
 
 # Scroll
 
-Scroll is the action of scrolling the screen of a mobile device. It supports two types: scrolling in a fixed direction or swiping from one point to another based on coordinates.
+Scroll is the action of scrolling the screen of a mobile device. It supports two types: scrolling in a fixed direction, or swiping from one point to another according to coordinates.
+
+🎥 Watch the tutorial video: [Here](https://youtu.be/WhRCpYVeagA).
 
 #### Explanation of configuration parameters:
 
 * Scroll type: Type of scroll:
   * `By direction`: scroll in a fixed direction.
-  * `By points`: swipe from the start point to the end point based on coordinates.
+  * `By points`: swipe from the start point to the end point according to coordinates.
 * Direction: (when selecting By direction) Scroll direction — `Up`, `Down`, `Left`, `Right`.
 * Start position (x,y): (when selecting By points) Coordinates of the starting swipe point, for example `500,1500`.
 * End position (x,y): (when selecting By points) Coordinates of the ending swipe point, for example `500,500`.
-* Duration (ms): (when selecting By points) Duration of the swipe action measured in milliseconds; the larger the number, the slower the swipe.
+* Duration (ms): (when selecting By points) The time taken to perform the swipe measured in milliseconds; the larger the number, the slower the swipe.
 
 <figure><img src="../../.gitbook/assets/scrl-dir.png" alt=""><figcaption><p>Scroll by direction</p></figcaption></figure>
 

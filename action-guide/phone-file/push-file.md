@@ -6,6 +6,8 @@ description: Push (copy) a file from the computer to the mobile device.
 
 Push file is the action of copying any file from the computer to the memory of the mobile device (for example, pushing an APK file to the device before installation, or pushing images/videos for posting).
 
+🎥 Watch the tutorial video: [Here](https://youtu.be/CY9salGJqBw).
+
 #### Explanation of configuration parameters:
 
 * Local file: The source file path on the computer, for example `D:\Facebook_573.0.0.37.74_APKPure.apk`.

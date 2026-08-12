@@ -4,7 +4,9 @@ description: Pull (copy) a file from the mobile device to the computer.
 
 # Pull file
 
-Pull file is the action of copying a file from the storage of the mobile device to the computer (opposite of Push file), for example, retrieving a screenshot or result file from the phone.
+Pull file is the action of copying a file from the memory of the mobile device to the computer (opposite of Push file), for example, retrieving a screenshot or result file from the phone.
+
+🎥 Watch the tutorial video: [Here](https://youtu.be/CY9salGJqBw).
 
 #### Explanation of configuration parameters:
 

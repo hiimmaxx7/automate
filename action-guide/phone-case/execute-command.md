@@ -4,7 +4,9 @@ description: Run a shell command inside the device (via adb shell) and save the 
 
 # Execute CMD
 
-Execute CMD is the action of running a shell command **inside** the device (through `adb shell`) and saving the returned result to a variable. Enter the command **without** the prefix `adb shell` — the software will add it automatically. Unlike Execute ADB (which runs adb commands on the computer), Execute CMD runs the shell command directly on the Android operating system of the device.
+Execute CMD is an action that runs a shell command **inside** the device (through `adb shell`) and saves the returned result to a variable. Enter the command **without** the prefix `adb shell` — the software will add it automatically. Unlike Execute ADB (which runs adb commands on the computer), Execute CMD runs the shell command directly on the Android operating system of the device.
+
+🎥 Watch the tutorial video: [Here](https://youtu.be/03NWE3RaSAc).
 
 #### Explanation of configuration parameters:
 

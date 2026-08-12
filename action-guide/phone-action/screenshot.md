@@ -6,6 +6,8 @@ description: Capture the screen of the device and save it to the computer.
 
 Screenshot is the action of capturing the screen of a mobile device and saving the image file to the computer.
 
+🎥 Watch the tutorial video: [Here](https://youtu.be/WhRCpYVeagA).
+
 #### Explanation of configuration parameters:
 
 * Output path: The folder on the computer to save the image, for example `D:\img`.

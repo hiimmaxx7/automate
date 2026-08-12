@@ -1,10 +1,12 @@
 ---
-description: Place a text snippet into the device's clipboard.
+description: Place a piece of text into the device's clipboard.
 ---
 
 # Set clipboard
 
-Set clipboard is the action of writing a text snippet into the device's clipboard, so that it can be pasted into an input field later.
+Set clipboard is the action of writing a piece of text into the device's clipboard, so that it can be pasted into an input field later.
+
+🎥 Watch the tutorial video: [Here](https://youtu.be/7jdGyxH6V-Y).
 
 #### Explanation of configuration parameters:
 

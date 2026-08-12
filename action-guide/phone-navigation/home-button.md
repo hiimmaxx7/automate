@@ -8,4 +8,4 @@ Press home is the action of pressing the Home button, bringing the device back t
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/CY9salGJqBw).
 
-<figure><img src="../../.gitbook/assets/nav-home.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pn-02.png" alt=""><figcaption></figcaption></figure>

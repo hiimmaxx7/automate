@@ -8,4 +8,4 @@ Unlock device is the action of waking up and unlocking the device screen, bringi
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/CY9salGJqBw).
 
-<figure><img src="../../.gitbook/assets/unlock.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pd-02.png" alt=""><figcaption></figcaption></figure>

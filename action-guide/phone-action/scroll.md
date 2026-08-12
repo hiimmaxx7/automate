@@ -6,7 +6,7 @@ description: Scroll the device screen in a direction or according to the coordin
 
 Scroll is the action of scrolling the screen of a mobile device. It supports two types: scrolling in a fixed direction, or swiping from one point to another according to coordinates.
 
-🎥 Watch the tutorial video: [Here](https://youtu.be/WhRCpYVeagA).
+🎥 See more tutorial videos: [Here](https://youtu.be/WhRCpYVeagA).
 
 #### Explanation of configuration parameters:
 
@@ -16,8 +16,8 @@ Scroll is the action of scrolling the screen of a mobile device. It supports two
 * Direction: (when selecting By direction) Scroll direction — `Up`, `Down`, `Left`, `Right`.
 * Start position (x,y): (when selecting By points) Coordinates of the starting swipe point, for example `500,1500`.
 * End position (x,y): (when selecting By points) Coordinates of the ending swipe point, for example `500,500`.
-* Duration (ms): (when selecting By points) The time taken to perform the swipe measured in milliseconds; the larger the number, the slower the swipe.
+* Duration (ms): (when selecting By points) The time to perform the swipe measured in milliseconds; the larger the number, the slower the swipe.
 
-<figure><img src="../../.gitbook/assets/scrl-dir.png" alt=""><figcaption><p>Scroll by direction</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-02.png" alt=""><figcaption><p>Scroll by direction</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/scrl-pt.png" alt=""><figcaption><p>Scroll by points</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-02b.png" alt=""><figcaption><p>Scroll by points</p></figcaption></figure>

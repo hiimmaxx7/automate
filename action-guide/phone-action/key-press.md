@@ -12,4 +12,4 @@ Press key is the action of sending a key event to the mobile device, for example
 
 * Key: The name of the key or the Android keycode to send. Acceptable key names include: `back`, `home`, `menu`, `power`, `wakeup`, `volumeup`, `volumedown`, `enter`, `tab`, `space`, `delete`, `escape`, `search`, `camera`, `copy`, `paste` — or directly enter the Android keycode number, for example, `66` corresponds to the Enter key.
 
-<figure><img src="../../.gitbook/assets/prs-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-04.png" alt=""><figcaption></figcaption></figure>

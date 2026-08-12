@@ -12,4 +12,4 @@ Clean app data is the action of deleting all data and cache of an application, r
 
 * Package name: The package name of the application whose data needs to be deleted, for example `com.facebook.katana`.
 
-<figure><img src="../../.gitbook/assets/clr-data.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pa-06.png" alt=""><figcaption></figcaption></figure>

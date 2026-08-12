@@ -10,8 +10,8 @@ Get element data is the action of retrieving data (a specific attribute) of an e
 
 #### Explanation of configuration parameters:
 
-* XPath: The XPath of the element to retrieve data from, for example `//node[@resource-id="com.android.chrome:id/url_bar"]`. See how to get XPath at [Guide to Determine XPath & Coordinates](../phone-action/xpath-and-coordinates-guide.md).
+* XPath: The XPath of the element from which to retrieve data, for example `//node[@resource-id="com.android.chrome:id/url_bar"]`. See how to get XPath at [Guide to Determine XPath & Coordinates](../phone-action/xpath-and-coordinates-guide.md).
 * Attribute name: The name of the attribute to retrieve, for example `resource-id`, `text`, `content-desc`, `class`, `bounds`...
 * Output Variable Name: The name of the variable to store the retrieved attribute value.
 
-<figure><img src="../../.gitbook/assets/el-data.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pe-01.png" alt=""><figcaption></figcaption></figure>

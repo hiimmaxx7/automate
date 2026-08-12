@@ -6,7 +6,7 @@ description: Capture the screen of the device and save it to the computer.
 
 Screenshot is the action of capturing the screen of a mobile device and saving the image file to the computer.
 
-🎥 Watch the tutorial video: [Here](https://youtu.be/WhRCpYVeagA).
+🎥 For more instructional videos: [Here](https://youtu.be/WhRCpYVeagA).
 
 #### Explanation of configuration parameters:
 
@@ -14,4 +14,4 @@ Screenshot is the action of capturing the screen of a mobile device and saving t
 * File name: The name of the image file, for example `screenshot_1.jpg`.
 * Crop area (x,y,w,h): (optional) The cropping area of the image according to `x,y,w,h` — the coordinates of the top-left corner (x,y) along with the width (w) and height (h). Leave blank if you want to capture the entire screen.
 
-<figure><img src="../../.gitbook/assets/scrshot.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-03.png" alt=""><figcaption></figcaption></figure>

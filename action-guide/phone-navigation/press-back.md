@@ -8,4 +8,4 @@ Press back is the action of pressing the Back button on Android, equivalent to t
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/CY9salGJqBw).
 
-<figure><img src="../../.gitbook/assets/nav-back.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pn-01.png" alt=""><figcaption></figcaption></figure>

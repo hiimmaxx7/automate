@@ -10,6 +10,6 @@ Paste clipboard is the action of pasting the content currently in the device's c
 
 #### Explanation of configuration parameters:
 
-* XPath: The XPath of the element to paste the content into, for example `//node[@resource-id="com.android.chrome:id/url_bar"]`. See how to get XPath in [Guide to determine XPath & coordinates](../phone-action/xpath-and-coordinates-guide.md).
+* XPath: The XPath of the element to paste content into, for example `//node[@resource-id="com.android.chrome:id/url_bar"]`. See how to get XPath in [Guide to Determine XPath & Coordinates](../phone-action/xpath-and-coordinates-guide.md).
 
-<figure><img src="../../.gitbook/assets/clip-pst.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pc-03.png" alt=""><figcaption></figcaption></figure>

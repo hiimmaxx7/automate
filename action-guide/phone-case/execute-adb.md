@@ -11,6 +11,6 @@ Execute ADB is an action that runs an ADB command targeting the controlled devic
 #### Explanation of configuration parameters:
 
 * Script: The ADB command to run (without `adb -s [serial]`), for example `get-serialno` or `shell pm list packages`.
-* Output Variable Name: The name of the variable that stores the result returned from the command, for example `deviceNo`.
+* Output Variable Name: The name of the variable to store the result returned from the command, for example `deviceNo`.
 
-<figure><img src="../../.gitbook/assets/exec-adb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ps-01.png" alt=""><figcaption></figcaption></figure>

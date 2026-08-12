@@ -10,6 +10,6 @@ Screenshot is the action of capturing the screen of a mobile device and saving t
 
 * Output path: The folder on the computer to save the image, for example `D:\img`.
 * File name: The name of the image file, for example `screenshot_1.jpg`.
-* Crop area (x,y,w,h): (optional) The crop area of the image according to `x,y,w,h` — the coordinates of the top-left corner (x,y) along with the width (w) and height (h). Leave blank if you want to capture the entire screen.
+* Crop area (x,y,w,h): (optional) The cropping area of the image according to `x,y,w,h` — the coordinates of the top-left corner (x,y) along with the width (w) and height (h). Leave blank if you want to capture the entire screen.
 
-<figure><img src="../../.gitbook/assets/px-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scrshot.png" alt=""><figcaption></figcaption></figure>

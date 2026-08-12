@@ -11,4 +11,4 @@ Execute CMD is the action of running a shell command **inside** the device (thro
 * Script: The shell command to run on the device (without `adb shell`), for example `svc wifi enable` or `getprop ro.product.model`.
 * Output Variable Name: The name of the variable to store the returned result, for example `check`.
 
-<figure><img src="../../.gitbook/assets/ps-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/exec-cmd.png" alt=""><figcaption></figcaption></figure>

@@ -10,4 +10,4 @@ Copy clipboard is the action of retrieving the content currently in the clipboar
 
 * Output Variable Name: The name of the variable that stores the clipboard content read from the device.
 
-<figure><img src="../../.gitbook/assets/pc-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/clip-cp.png" alt=""><figcaption></figcaption></figure>

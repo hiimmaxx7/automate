@@ -164,6 +164,16 @@
 * [👆Phone - Action](huong-dan-cac-action/phone-action/README.md)
   * [Hướng dẫn xác định XPath & toạ độ](huong-dan-cac-action/phone-action/huong-dan-xac-dinh-xpath-va-toa-do.md)
   * [Touch](huong-dan-cac-action/phone-action/touch.md)
+  * [Scroll](huong-dan-cac-action/phone-action/scroll.md)
+  * [Screenshot](huong-dan-cac-action/phone-action/screenshot.md)
+  * [Press key](huong-dan-cac-action/phone-action/press-key.md)
+  * [Type text](huong-dan-cac-action/phone-action/type-text.md)
+* [🎯Phone - Element](huong-dan-cac-action/phone-element/README.md)
+  * [Get element data](huong-dan-cac-action/phone-element/get-element-data.md)
+  * [Has element](huong-dan-cac-action/phone-element/has-element.md)
+* [💻Phone - Shell](huong-dan-cac-action/phone-shell/README.md)
+  * [Execute ADB](huong-dan-cac-action/phone-shell/execute-adb.md)
+  * [Execute CMD](huong-dan-cac-action/phone-shell/execute-cmd.md)
 
 ***
 

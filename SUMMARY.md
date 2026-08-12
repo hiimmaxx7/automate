@@ -84,7 +84,7 @@
 * [📧Mail](huong-dan-cac-action/mail/README.md)
   * [Read mail code](huong-dan-cac-action/mail/read-mail-code.md)
   * [Read outlook (Oauth2)](huong-dan-cac-action/mail/read-outlook-oauth2.md)
-* [🧭Navigation](huong-dan-cac-action/navigation/README.md)
+* [🧭 Navigation](huong-dan-cac-action/navigation/README.md)
   * [New tab](huong-dan-cac-action/navigation/new-tab.md)
   * [Active tab](huong-dan-cac-action/navigation/active-tab.md)
   * [Close tab](huong-dan-cac-action/navigation/close-tab.md)
@@ -137,6 +137,8 @@
 * [📊Google service](huong-dan-cac-action/google-service/README.md)
   * [Read google sheet](huong-dan-cac-action/google-service/read-google-sheet.md)
   * [Write google sheet](huong-dan-cac-action/google-service/write-google-sheet.md)
+* [📱Phone - App](huong-dan-cac-action/phone-app/README.md)
+  * [Install app](huong-dan-cac-action/phone-app/install-app.md)
 
 ***
 

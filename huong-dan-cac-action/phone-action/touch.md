@@ -18,6 +18,6 @@ Touch là hành động chạm (tap) lên màn hình thiết bị điện thoạ
   * `Double`: chạm hai lần liên tiếp (double tap).
   * `Hold`: nhấn giữ.
 
-<figure><img src="../../.gitbook/assets/px-01.png" alt=""><figcaption><p>Touch by Xpath</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/touch-xp.png" alt=""><figcaption><p>Touch by Xpath</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/px-01b.png" alt=""><figcaption><p>Touch by coordinates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/touch-xy.png" alt=""><figcaption><p>Touch by coordinates</p></figcaption></figure>

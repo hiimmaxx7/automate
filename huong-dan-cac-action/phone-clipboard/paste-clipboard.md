@@ -10,4 +10,4 @@ Paste clipboard là hành động dán nội dung đang có trong clipboard củ
 
 * XPath: XPath của phần tử cần dán nội dung vào, ví dụ `//node[@resource-id="com.android.chrome:id/url_bar"]`. Xem cách lấy XPath tại [Hướng dẫn xác định XPath & toạ độ](../phone-action/huong-dan-xac-dinh-xpath-va-toa-do.md).
 
-<figure><img src="../../.gitbook/assets/pc-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/clip-pst.png" alt=""><figcaption></figcaption></figure>

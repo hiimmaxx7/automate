@@ -13,4 +13,4 @@ Type text là hành động nhập (gõ) một đoạn văn bản vào ô nhập
 * Min delay (ms): Độ trễ tối thiểu giữa các ký tự (mili-giây), ví dụ `50`.
 * Max delay (ms): Độ trễ tối đa giữa các ký tự (mili-giây), ví dụ `200`. Mỗi ký tự sẽ được chờ một khoảng ngẫu nhiên giữa min và max.
 
-<figure><img src="../../.gitbook/assets/px-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/type-txt.png" alt=""><figcaption></figcaption></figure>

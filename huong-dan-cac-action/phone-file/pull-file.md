@@ -11,4 +11,4 @@ Pull file là hành động sao chép một file từ bộ nhớ thiết bị đ
 * Phone file: Đường dẫn file nguồn trên thiết bị, ví dụ `/storage/emulated/0/Facebook.apk`.
 * Local file: Đường dẫn đích trên máy tính nơi lưu file, ví dụ `D:\Facebook_573.0.0.37.74_APKPure.apk`.
 
-<figure><img src="../../.gitbook/assets/pf-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pull.png" alt=""><figcaption></figcaption></figure>

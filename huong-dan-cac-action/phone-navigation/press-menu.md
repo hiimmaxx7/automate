@@ -8,4 +8,4 @@ Press menu là hành động nhấn phím Menu của Android (mở trình đơn 
 
 🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/CY9salGJqBw).
 
-<figure><img src="../../.gitbook/assets/nav-menu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pn-03.png" alt=""><figcaption></figcaption></figure>

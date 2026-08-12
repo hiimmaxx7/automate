@@ -8,4 +8,4 @@ Press home là hành động nhấn nút Home, đưa thiết bị về màn hìn
 
 🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/CY9salGJqBw).
 
-<figure><img src="../../.gitbook/assets/nav-home.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pn-02.png" alt=""><figcaption></figcaption></figure>

@@ -12,4 +12,4 @@ Install app là hành động đẩy và cài đặt một file ứng dụng And
 
 * Install file (.apk): Đường dẫn tới file `.apk` trên máy tính cần cài vào thiết bị (ví dụ: `D:\Facebook_573.0.0.37.74_APKPure.apk`). Có thể nhập trực tiếp đường dẫn hoặc truyền vào một biến chứa đường dẫn file.
 
-<figure><img src="../../.gitbook/assets/inst-app.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pa-01.png" alt=""><figcaption></figcaption></figure>

@@ -12,4 +12,4 @@ Check network là hành động kiểm tra thiết bị có đang kết nối đ
 
 * Output Variable Name: Tên biến lưu kết quả kiểm tra kết nối (có mạng / không có mạng). Dùng biến này trong khối If để xử lý tương ứng.
 
-<figure><img src="../../.gitbook/assets/net-chk.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pd-04.png" alt=""><figcaption></figcaption></figure>

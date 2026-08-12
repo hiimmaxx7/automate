@@ -18,6 +18,6 @@ Scroll là hành động cuộn/vuốt màn hình thiết bị điện thoại. 
 * End position (x,y): (khi chọn By points) Toạ độ điểm kết thúc vuốt, ví dụ `500,500`.
 * Duration (ms): (khi chọn By points) Thời gian thực hiện cú vuốt tính bằng mili-giây; số càng lớn thì vuốt càng chậm.
 
-<figure><img src="../../.gitbook/assets/scrl-dir.png" alt=""><figcaption><p>Scroll by direction</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-02.png" alt=""><figcaption><p>Scroll by direction</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/scrl-pt.png" alt=""><figcaption><p>Scroll by points</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-02b.png" alt=""><figcaption><p>Scroll by points</p></figcaption></figure>

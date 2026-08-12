@@ -12,4 +12,4 @@ Clean app data là hành động xóa toàn bộ dữ liệu và bộ nhớ đ�
 
 * Package name: Tên gói của ứng dụng cần xóa dữ liệu, ví dụ `com.facebook.katana`.
 
-<figure><img src="../../.gitbook/assets/clr-data.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pa-06.png" alt=""><figcaption></figcaption></figure>

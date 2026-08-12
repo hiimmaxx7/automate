@@ -12,4 +12,4 @@ Set clipboard là hành động ghi một đoạn văn bản vào bộ nhớ t�
 
 * Text: Nội dung văn bản cần đưa vào clipboard, ví dụ `https://24h.com.vn`. Có thể nhập trực tiếp hoặc dùng biến.
 
-<figure><img src="../../.gitbook/assets/clip-set.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pc-02.png" alt=""><figcaption></figcaption></figure>

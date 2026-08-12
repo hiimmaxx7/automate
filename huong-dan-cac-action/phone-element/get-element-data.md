@@ -14,4 +14,4 @@ Get element data là hành động lấy dữ liệu (một thuộc tính cụ t
 * Attribute name: Tên thuộc tính cần lấy, ví dụ `resource-id`, `text`, `content-desc`, `class`, `bounds`...
 * Output Variable Name: Tên biến lưu giá trị thuộc tính đọc được.
 
-<figure><img src="../../.gitbook/assets/el-data.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pe-01.png" alt=""><figcaption></figcaption></figure>

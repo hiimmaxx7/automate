@@ -12,4 +12,4 @@ Uninstall app là hành động gỡ bỏ hoàn toàn một ứng dụng khỏi 
 
 * Package name: Tên gói của ứng dụng cần gỡ, ví dụ `com.facebook.katana`.
 
-<figure><img src="../../.gitbook/assets/uninst.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pa-03.png" alt=""><figcaption></figcaption></figure>

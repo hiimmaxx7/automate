@@ -14,4 +14,4 @@ Screenshot là hành động chụp ảnh màn hình thiết bị điện thoạ
 * File name: Tên file ảnh, ví dụ `screenshot_1.jpg`.
 * Crop area (x,y,w,h): (tuỳ chọn) Vùng cắt của ảnh theo `x,y,w,h` — toạ độ góc trái-trên (x,y) cùng chiều rộng (w) và chiều cao (h). Để trống nếu muốn chụp nguyên màn hình.
 
-<figure><img src="../../.gitbook/assets/scrshot.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-03.png" alt=""><figcaption></figcaption></figure>

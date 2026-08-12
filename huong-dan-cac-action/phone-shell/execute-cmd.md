@@ -13,4 +13,4 @@ Execute CMD là hành động chạy một lệnh shell **bên trong** thiết b
 * Script: Lệnh shell cần chạy trong thiết bị (không kèm `adb shell`), ví dụ `svc wifi enable` hoặc `getprop ro.product.model`.
 * Output Variable Name: Tên biến lưu kết quả trả về, ví dụ `check`.
 
-<figure><img src="../../.gitbook/assets/exec-cmd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ps-02.png" alt=""><figcaption></figcaption></figure>

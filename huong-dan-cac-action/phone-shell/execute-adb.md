@@ -13,4 +13,4 @@ Execute ADB là hành động chạy một lệnh ADB nhắm tới thiết bị 
 * Script: Lệnh ADB cần chạy (không kèm `adb -s [serial]`), ví dụ `get-serialno` hoặc `shell pm list packages`.
 * Output Variable Name: Tên biến lưu kết quả trả về từ lệnh, ví dụ `deviceNo`.
 
-<figure><img src="../../.gitbook/assets/exec-adb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ps-01.png" alt=""><figcaption></figcaption></figure>

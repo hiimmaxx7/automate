@@ -8,4 +8,4 @@ Reconnect là hành động kết nối lại ADB — reset lại kết nối AD
 
 🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/CY9salGJqBw).
 
-<figure><img src="../../.gitbook/assets/reconn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pd-05.png" alt=""><figcaption></figcaption></figure>

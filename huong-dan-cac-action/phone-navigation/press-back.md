@@ -8,4 +8,4 @@ Press back là hành động nhấn nút Back (quay lại) của Android, tươn
 
 🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/CY9salGJqBw).
 
-<figure><img src="../../.gitbook/assets/nav-back.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pn-01.png" alt=""><figcaption></figcaption></figure>

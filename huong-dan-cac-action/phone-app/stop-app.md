@@ -12,4 +12,4 @@ Stop app là hành động buộc dừng (force stop) một ứng dụng đang c
 
 * Package name: Tên gói của ứng dụng cần dừng, ví dụ `com.facebook.katana`.
 
-<figure><img src="../../.gitbook/assets/app-stop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pa-05.png" alt=""><figcaption></figcaption></figure>

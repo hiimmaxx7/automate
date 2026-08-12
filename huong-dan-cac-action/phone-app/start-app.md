@@ -12,4 +12,4 @@ Start app là hành động mở và đưa một ứng dụng đã cài lên ch�
 
 * Package name: Tên gói của ứng dụng cần mở, ví dụ `com.facebook.katana`.
 
-<figure><img src="../../.gitbook/assets/app-open.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pa-04.png" alt=""><figcaption></figcaption></figure>

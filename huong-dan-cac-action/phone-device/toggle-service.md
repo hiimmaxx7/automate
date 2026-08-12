@@ -16,4 +16,4 @@ Toggle service là hành động bật/tắt (chuyển trạng thái) một dị
   * `Mobile data`: Dữ liệu di động (3G/4G/5G).
   * `Location`: Dịch vụ định vị (GPS).
 
-<figure><img src="../../.gitbook/assets/toggle.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pd-03.png" alt=""><figcaption></figcaption></figure>

@@ -12,4 +12,4 @@ Press key là hành động gửi một sự kiện phím (key event) tới thi�
 
 * Key: Tên phím hoặc mã keycode Android cần gửi. Chấp nhận các tên phím: `back`, `home`, `menu`, `power`, `wakeup`, `volumeup`, `volumedown`, `enter`, `tab`, `space`, `delete`, `escape`, `search`, `camera`, `copy`, `paste` — hoặc nhập trực tiếp số keycode Android, ví dụ `66` tương ứng phím Enter.
 
-<figure><img src="../../.gitbook/assets/prs-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/px-04.png" alt=""><figcaption></figcaption></figure>

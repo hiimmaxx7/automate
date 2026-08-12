@@ -84,7 +84,7 @@
 * [📧Mail](huong-dan-cac-action/mail/README.md)
   * [Read mail code](huong-dan-cac-action/mail/read-mail-code.md)
   * [Read outlook (Oauth2)](huong-dan-cac-action/mail/read-outlook-oauth2.md)
-* [🧭 Navigation](huong-dan-cac-action/navigation/README.md)
+* [🧭Navigation](huong-dan-cac-action/navigation/README.md)
   * [New tab](huong-dan-cac-action/navigation/new-tab.md)
   * [Active tab](huong-dan-cac-action/navigation/active-tab.md)
   * [Close tab](huong-dan-cac-action/navigation/close-tab.md)
@@ -139,6 +139,17 @@
   * [Write google sheet](huong-dan-cac-action/google-service/write-google-sheet.md)
 * [📱Phone - App](huong-dan-cac-action/phone-app/README.md)
   * [Install app](huong-dan-cac-action/phone-app/install-app.md)
+  * [Is app installed](huong-dan-cac-action/phone-app/is-app-installed.md)
+  * [Uninstall app](huong-dan-cac-action/phone-app/uninstall-app.md)
+  * [Start app](huong-dan-cac-action/phone-app/start-app.md)
+  * [Stop app](huong-dan-cac-action/phone-app/stop-app.md)
+  * [Clean app data](huong-dan-cac-action/phone-app/clean-app-data.md)
+* [📲Phone - Device](huong-dan-cac-action/phone-device/README.md)
+  * [Lock device](huong-dan-cac-action/phone-device/lock-device.md)
+  * [Unlock device](huong-dan-cac-action/phone-device/unlock-device.md)
+  * [Toggle service](huong-dan-cac-action/phone-device/toggle-service.md)
+  * [Check network](huong-dan-cac-action/phone-device/check-network.md)
+  * [Reconnect](huong-dan-cac-action/phone-device/reconnect.md)
 
 ***
 

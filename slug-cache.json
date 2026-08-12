@@ -149,5 +149,19 @@
   "file:lock-device": "lock-device",
   "file:reconnect": "reconnect",
   "file:toggle-service": "toggle-service",
-  "file:unlock-device": "unlock-device"
+  "file:unlock-device": "unlock-device",
+  "folder:phone-action": "phone-action",
+  "file:huong-dan-xac-dinh-xpath-va-toa-do": "xpath-and-coordinates-guide",
+  "file:touch": "touch",
+  "folder:phone-clipboard": "phone-clipboard",
+  "file:copy-clipboard": "copy-clipboard",
+  "file:paste-clipboard": "paste-clipboard",
+  "file:set-clipboard": "set-clipboard",
+  "folder:phone-file": "phone-file",
+  "file:pull-file": "pull-file",
+  "file:push-file": "push-file",
+  "folder:phone-navigation": "phone-navigation",
+  "file:press-back": "press-back",
+  "file:press-home": "home-button",
+  "file:press-menu": "menu"
 }

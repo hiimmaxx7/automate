@@ -163,5 +163,14 @@
   "folder:phone-navigation": "phone-navigation",
   "file:press-back": "press-back",
   "file:press-home": "home-button",
-  "file:press-menu": "menu"
+  "file:press-menu": "menu",
+  "file:press-key": "key-press",
+  "file:scroll": "scroll",
+  "file:type-text": "text-type",
+  "folder:phone-element": "phone-element",
+  "file:get-element-data": "get-element-data",
+  "file:has-element": "has-element",
+  "folder:phone-shell": "phone-case",
+  "file:execute-adb": "execute-adb",
+  "file:execute-cmd": "execute-command"
 }

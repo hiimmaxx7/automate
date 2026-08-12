@@ -6,6 +6,8 @@ description: Gõ một đoạn văn bản vào ô nhập liệu xác định b�
 
 Type text là hành động nhập (gõ) một đoạn văn bản vào ô nhập liệu được xác định bằng XPath, mô phỏng gõ từng ký tự với độ trễ ngẫu nhiên để giống thao tác của người thật.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/WhRCpYVeagA).
+
 #### Giải thích các tham số cấu hình:
 
 * XPath: XPath của ô nhập liệu cần gõ vào, ví dụ `//node[@resource-id="com.android.chrome:id/url_bar"]`. Xem cách lấy XPath tại [Hướng dẫn xác định XPath & toạ độ](huong-dan-xac-dinh-xpath-va-toa-do.md).

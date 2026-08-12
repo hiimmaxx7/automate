@@ -6,6 +6,8 @@ description: Cuộn/vuốt màn hình thiết bị theo hướng hoặc theo to�
 
 Scroll là hành động cuộn/vuốt màn hình thiết bị điện thoại. Hỗ trợ hai kiểu: cuộn theo hướng cố định, hoặc vuốt từ một điểm đến một điểm khác theo toạ độ.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/WhRCpYVeagA).
+
 #### Giải thích các tham số cấu hình:
 
 * Scroll type: Kiểu cuộn:

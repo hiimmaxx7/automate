@@ -6,6 +6,8 @@ description: Kiểm tra một ứng dụng đã được cài trên thiết bị
 
 Is app installed là hành động kiểm tra xem một ứng dụng (theo tên gói) đã được cài đặt trên thiết bị điện thoại hay chưa, rồi trả kết quả về một biến để rẽ nhánh kịch bản (ví dụ: chưa cài thì cài, đã cài thì mở lên).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/Y3fCTzU9M4U).
+
 #### Giải thích các tham số cấu hình:
 
 * Package name: Tên gói (package name) của ứng dụng cần kiểm tra, ví dụ Facebook là `com.facebook.katana`.

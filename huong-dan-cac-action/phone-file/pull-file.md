@@ -6,6 +6,8 @@ description: Kéo (copy) một file từ thiết bị điện thoại về máy 
 
 Pull file là hành động sao chép một file từ bộ nhớ thiết bị điện thoại về máy tính (ngược với Push file), ví dụ lấy ảnh chụp màn hình hoặc file kết quả từ điện thoại về.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/CY9salGJqBw).
+
 #### Giải thích các tham số cấu hình:
 
 * Phone file: Đường dẫn file nguồn trên thiết bị, ví dụ `/storage/emulated/0/Facebook.apk`.

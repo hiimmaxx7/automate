@@ -6,6 +6,8 @@ description: Chạm (tap) vào một phần tử theo XPath hoặc theo toạ đ
 
 Touch là hành động chạm (tap) lên màn hình thiết bị điện thoại. Có thể xác định điểm chạm theo XPath của phần tử hoặc theo toạ độ (x,y).
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/WhRCpYVeagA).
+
 #### Giải thích các tham số cấu hình:
 
 * Touch type: Cách xác định điểm chạm:

@@ -6,6 +6,8 @@ description: Gỡ cài đặt một ứng dụng khỏi thiết bị theo tên g
 
 Uninstall app là hành động gỡ bỏ hoàn toàn một ứng dụng khỏi thiết bị điện thoại theo tên gói.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/Y3fCTzU9M4U).
+
 #### Giải thích các tham số cấu hình:
 
 * Package name: Tên gói của ứng dụng cần gỡ, ví dụ `com.facebook.katana`.

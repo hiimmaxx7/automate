@@ -6,6 +6,8 @@ description: Cài đặt file ứng dụng (.apk) từ máy tính lên thiết b
 
 Install app là hành động đẩy và cài đặt một file ứng dụng Android (định dạng `.apk`) từ máy tính vào thiết bị điện thoại đang kết nối. Thường dùng ở đầu kịch bản để chuẩn bị sẵn ứng dụng cần thao tác (ví dụ cài Facebook, TikTok...) trước khi mở lên chạy.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/Y3fCTzU9M4U).
+
 #### Giải thích các tham số cấu hình:
 
 * Install file (.apk): Đường dẫn tới file `.apk` trên máy tính cần cài vào thiết bị (ví dụ: `D:\Facebook_573.0.0.37.74_APKPure.apk`). Có thể nhập trực tiếp đường dẫn hoặc truyền vào một biến chứa đường dẫn file.

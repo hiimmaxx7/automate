@@ -6,6 +6,8 @@ description: Kiểm tra một phần tử có tồn tại trên màn hình hay k
 
 Has element là hành động kiểm tra một phần tử (theo XPath) có tồn tại trên màn hình hiện tại hay không, rồi trả kết quả đúng/sai về biến để rẽ nhánh kịch bản.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/WhRCpYVeagA).
+
 #### Giải thích các tham số cấu hình:
 
 * XPath: XPath của phần tử cần kiểm tra, ví dụ `//node[@resource-id="com.android.chrome:id/url_bar"]`. Xem cách lấy XPath tại [Hướng dẫn xác định XPath & toạ độ](../phone-action/huong-dan-xac-dinh-xpath-va-toa-do.md).

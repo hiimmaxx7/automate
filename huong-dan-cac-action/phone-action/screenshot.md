@@ -6,6 +6,8 @@ description: Chụp ảnh màn hình thiết bị và lưu về máy tính.
 
 Screenshot là hành động chụp ảnh màn hình thiết bị điện thoại và lưu file ảnh về máy tính.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/WhRCpYVeagA).
+
 #### Giải thích các tham số cấu hình:
 
 * Output path: Thư mục trên máy tính để lưu ảnh, ví dụ `D:\img`.

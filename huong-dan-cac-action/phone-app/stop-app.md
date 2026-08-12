@@ -6,6 +6,8 @@ description: Buộc dừng (force stop) một ứng dụng đang chạy trên th
 
 Stop app là hành động buộc dừng (force stop) một ứng dụng đang chạy, đóng toàn bộ tiến trình của app đó — tương đương nút "Force stop" trong phần cài đặt ứng dụng của Android.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/Y3fCTzU9M4U).
+
 #### Giải thích các tham số cấu hình:
 
 * Package name: Tên gói của ứng dụng cần dừng, ví dụ `com.facebook.katana`.

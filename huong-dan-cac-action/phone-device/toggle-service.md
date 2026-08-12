@@ -6,6 +6,8 @@ description: Bật/tắt một dịch vụ hệ thống trên thiết bị (Airp
 
 Toggle service là hành động bật/tắt (chuyển trạng thái) một dịch vụ hệ thống trên thiết bị. Thường dùng để đổi IP nhanh bằng cách bật/tắt Airplane mode hoặc Mobile data.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/CY9salGJqBw).
+
 #### Giải thích các tham số cấu hình:
 
 * Service type: Chọn dịch vụ cần bật/tắt:

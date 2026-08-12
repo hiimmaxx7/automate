@@ -6,6 +6,8 @@ description: Chạy một lệnh ADB nhắm tới thiết bị và lưu kết qu
 
 Execute ADB là hành động chạy một lệnh ADB nhắm tới thiết bị đang điều khiển và lưu kết quả trả về vào biến. Nhập lệnh mà **không** cần tiền tố `adb -s [serial]` — hệ thống tự thêm thiết bị đang điều khiển vào.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/03NWE3RaSAc).
+
 #### Giải thích các tham số cấu hình:
 
 * Script: Lệnh ADB cần chạy (không kèm `adb -s [serial]`), ví dụ `get-serialno` hoặc `shell pm list packages`.

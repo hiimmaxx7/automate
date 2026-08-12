@@ -6,6 +6,8 @@ description: Mở (khởi chạy) một ứng dụng đã cài trên thiết b�
 
 Start app là hành động mở và đưa một ứng dụng đã cài lên chạy ở màn hình trước (foreground), tương đương thao tác chạm vào biểu tượng ứng dụng.
 
+🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/Y3fCTzU9M4U).
+
 #### Giải thích các tham số cấu hình:
 
 * Package name: Tên gói của ứng dụng cần mở, ví dụ `com.facebook.katana`.

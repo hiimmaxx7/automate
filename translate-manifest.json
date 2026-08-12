@@ -133,8 +133,19 @@
   "huong-dan-cac-action/workflow/throw.md": "62c559439e8143f0cbaa8252c332110c11a1437506f0b72d0a2723ba88286376",
   "README.md": "5be1374b797f10b15917251733cb95fdbc7d771e784dec8c488e03cc0b78a6c4",
   "lien-he-ho-tro.md": "9d1bb69b73f11ea9d3cad9ad6ca91e682fe46694efa14e3bf6844bbcb7de141e",
-  "SUMMARY.md": "7dbdfccf9b6d035aaf85dab64d6fffc9fe64fe21e77dbe0ef9ac7aa704e14bf7",
+  "SUMMARY.md": "5992b2d08b37207fab9895f3e835e2fe5ded134c43f72b6467ce7653c2c5ff14",
   "gioi-thieu-chung/kiem-tra-va-cap-nhat-automate.md": "dc08a6d7c9a73479386613d106ac27d6db94248a82039e486e3636361bac2d47",
   "huong-dan-cac-action/phone-app/README.md": "92b8ea10be5f721262faca704ddd0997867033808b123ec2e4835c95df6480f5",
-  "huong-dan-cac-action/phone-app/install-app.md": "7e96ea9f75213c76765d3563769688c4bc4eb27ec60baf764a9121a1ba4dfd8d"
+  "huong-dan-cac-action/phone-app/install-app.md": "7e96ea9f75213c76765d3563769688c4bc4eb27ec60baf764a9121a1ba4dfd8d",
+  "huong-dan-cac-action/phone-app/clean-app-data.md": "cd8fa665635dc7a2d6a3241fede6a0f0f9013466492f460e98dd2da9c9cb49d6",
+  "huong-dan-cac-action/phone-app/is-app-installed.md": "1b2b88fef8cfee3f523d7dfc6a3029583d4e0b1b5dbc582005c22e92ae133883",
+  "huong-dan-cac-action/phone-app/start-app.md": "025d89f7f61f4d2375acb2d7ebf8f3828fccb1313ffe1bc29d2ace62bab5e1e3",
+  "huong-dan-cac-action/phone-app/uninstall-app.md": "02900bad40166b01438722bc76550dafbed86cdd7471da8e33a77dc2a9e2c09b",
+  "huong-dan-cac-action/phone-app/stop-app.md": "9086172eae2031c33fd38d47774499d9174ab0678831acdf979423048051ed95",
+  "huong-dan-cac-action/phone-device/README.md": "8786054298b344ce7636d4dc39aac51233e1d9da1bf6d2a5828606268a89e140",
+  "huong-dan-cac-action/phone-device/check-network.md": "e06f6dd8c9b48938713152a6e80e29238de1de75985e361a617b95a280a90c67",
+  "huong-dan-cac-action/phone-device/lock-device.md": "55f3f927e219d145955c11dfa206f10cf18a50c72233c13be959656b41c83833",
+  "huong-dan-cac-action/phone-device/reconnect.md": "fc3d263201920422f8a048aa5ab5548fa8992211739c34b5aaf04648f093e96c",
+  "huong-dan-cac-action/phone-device/toggle-service.md": "cf81ac24bcaa5ce279ea412ff91d00167f15adb7f1407b1de7b3505704f176f3",
+  "huong-dan-cac-action/phone-device/unlock-device.md": "258c4121e3af0c36ac5a3f6e13b56d8a13a5d74fa3d18fbd6ec7d81cf461a7c0"
 }

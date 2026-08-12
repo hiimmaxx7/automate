@@ -138,5 +138,16 @@
   "file:SUMMARY": "summary",
   "file:kiem-tra-va-cap-nhat-automate": "check-and-update-automate",
   "folder:phone-app": "phone-app",
-  "file:install-app": "install-app"
+  "file:install-app": "install-app",
+  "file:clean-app-data": "clean-application-data",
+  "file:is-app-installed": "app-installed",
+  "file:start-app": "start-application",
+  "file:stop-app": "stop-application",
+  "file:uninstall-app": "uninstall-app",
+  "folder:phone-device": "phone",
+  "file:check-network": "check-network",
+  "file:lock-device": "lock-device",
+  "file:reconnect": "reconnect",
+  "file:toggle-service": "toggle-service",
+  "file:unlock-device": "unlock-device"
 }

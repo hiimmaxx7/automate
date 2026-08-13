@@ -8,9 +8,9 @@ This action is often placed at the beginning of a script to prepare a clean stor
 
 #### Configuration parameters:
 
-* File Path: The absolute path including the file name and `.xlsx` extension where you want to create the file (For example: `D:\GPM\data_crawler.xlsx`).
+* File Path: The absolute path including the file name and `.xlsx` extension where you want to create the file (e.g., `D:\GPM\data_crawler.xlsx`).
 
-#### Practical example: Initialize data export file before scraping articles
+#### Practical example: Initialize the data export file before scraping articles
 
 Suppose you are writing a script to automatically browse groups and collect (scrape) article links and interactions for market research. Before the data scraping loop starts running, you need to have an empty Excel file ready to store the results.
 
@@ -22,4 +22,4 @@ Suppose you are writing a script to automatically browse groups and collect (scr
 
 After this step, you can confidently use actions like Write excel file or Append excel file to write the scraped data into the file.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-09.png" alt=""><figcaption></figcaption></figure>

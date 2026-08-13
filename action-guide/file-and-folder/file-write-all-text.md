@@ -6,7 +6,7 @@ File write all text is an action used to write a string of text to a `.txt` file
 
 This action has a special operating mechanism (overwrite and auto-create):
 
-* If the file does not exist: The system will automatically create a new `.txt` file at the specified path and then write the content into it.
+* If the file does not exist: The system will automatically create a new `.txt` file at the specified path and write the content into it.
 * If the file already exists: The system will completely clear all existing content in the file and overwrite it with the new content.
 
 #### Configuration parameters:
@@ -21,9 +21,9 @@ Suppose you start running a script for a new account interaction at the beginnin
 * Configuration steps:
   * Call the File write all text action.
   * File Path: Enter `D:\GPM\report.txt`.
-  * Text: Enter the content: `"--- Today's script run log ---"`.
+  * Text: Enter the content: `"--- Log of today's script run ---"`.
 * Result:
   * If the `report.txt` file does not exist, the system will automatically create this file in the `D:\GPM\` directory.
-  * If the file has been available since yesterday (filled with old text), the system will clear all that old content, turning the file into a blank file and then write the line `"--- Today's script run log ---"` into it.
+  * If the file has been available since yesterday (filled with old text), the system will clear all that old content, turning the file into a blank file and then write the line `"--- Log of today's script run ---"`.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-07.png" alt=""><figcaption></figcaption></figure>

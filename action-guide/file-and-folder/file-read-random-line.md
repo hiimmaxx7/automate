@@ -1,8 +1,8 @@
 # File read random line
 
-File read random line is an action used to open an existing `.txt` text file, automatically randomly select any line from that file, and then save the content of the selected line into an output variable.
+File read random line is an action used to open an existing `.txt` text file, randomly select any line from that file, and then save the content of the selected line into an output variable.
 
-This action is extremely useful when you manage social media accounts (Facebook, X, Instagram...) and want to randomly retrieve a comment, a status, or a search keyword to prevent the script from repeating the same content across different profiles.
+This action is extremely useful when you manage social media accounts (Facebook, X, Instagram...) and want to randomly retrieve a comment, a status, or a search keyword so that the script does not repeat the same content across different profiles.
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/EH7olDLAb9c).
 
@@ -13,7 +13,7 @@ This action is extremely useful when you manage social media accounts (Facebook,
 
 #### Practical example: Automatically comment randomly to avoid spam
 
-Suppose you have prepared a file containing a list of positive comments stored at `D:\GPM\comments.txt`, with each comment on a separate line:
+Suppose you have prepared a file with a list of positive comments stored at `D:\GPM\comments.txt`, with each comment on a separate line:
 
 ```
 Great post!
@@ -21,12 +21,12 @@ Absolutely wonderful.
 Very useful information, thank you to the author.
 ```
 
-When the script navigates the browser to a post and is about to click comment, you configure it as follows:
+When the script navigates the browser to a post and is about to click comment, you configure as follows:
 
-* Configuration method:
+* Configuration steps:
   * Call the action File read random line.
   * File Path: Enter the path `D:\GPM\comments.txt`.
   * Output variable: Name the variable that stores the result as `$randomComment`.
-* Result: Each time the flow reaches this step (or each profile runs independently), the system will automatically randomly select one of the three lines above (For example: Profile 1 randomly selects line 3: `"Very useful information, thank you to the author."` and assigns it to the variable `$randomComment`). You just need to call the Key press action to input this variable into the comment box on the website.
+* Result: Each time the flow reaches this step (or each profile runs independently), the system will automatically randomly select one of the three lines above (For example: Profile 1 selects line 3: `"Very useful information, thank you to the author."` and assigns it to the variable `$randomComment`). You just need to call the Key press action to input this variable into the comment box on the website.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-06.png" alt=""><figcaption></figcaption></figure>

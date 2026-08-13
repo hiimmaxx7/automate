@@ -1,6 +1,6 @@
 # Delete folder
 
-Delete folder is an action used to completely remove a directory from the computer's hard drive at the specified path. When executed, this action will thoroughly scan and delete all files as well as subdirectories within it.
+Delete folder is an action used to completely remove a directory from the computer's hard drive at the specified path. When executed, this action will thoroughly scan and delete all files as well as subdirectories contained within it.
 
 > ⚠️ Extremely important note: The folder deleted by this action will be permanently destroyed and will not be in the Windows Recycle Bin. You need to carefully check the path to avoid mistakenly deleting system folders or important data on the computer.
 
@@ -18,6 +18,6 @@ After the script has successfully uploaded the videos to the platforms, you need
 
 * Configuration method: In the final step of the script, you call the Delete folder action.
   * Folder Path: Enter the path of the temporary folder used, for example: `D:\GPM_Softwares\Render_Temp`.
-* Result: The system will completely delete the `Render_Temp` folder along with all the junk files generated inside. Your computer will always be clean, run smoothly, and you won't have to worry about running out of memory after a long period of automated operation.
+* Result: The system will completely delete the `Render_Temp` folder along with all the junk files generated inside. Your computer will always be clean, run smoothly, and not worry about running out of memory after a long period of automated operation.
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-16.png" alt=""><figcaption></figcaption></figure>

@@ -15,4 +15,4 @@ In the Output variable field, you can enter the same name as the old variable to
 
     🎥 Watch the tutorial video: [Here](https://youtu.be/nlEQsaxawt4).
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-02.png" alt=""><figcaption></figcaption></figure>

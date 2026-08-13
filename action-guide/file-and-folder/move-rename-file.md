@@ -1,8 +1,8 @@
 # Move/rename file
 
-Move / rename file is a versatile action used to move a file from one location to another, or to rename that file in its current location on the computer's hard drive.
+Move / rename file is a versatile action used to move a file from one location to another, or to rename that file right at its current location on the computer's hard drive.
 
-Unlike copying (Copy file), this action will cut the data to the new location (if moving) or completely replace the old name (if renaming).
+Unlike copying (Copy file), this action will completely cut the data to the new location (if moving) or completely replace the old name (if renaming).
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/EH7olDLAb9c).
 
@@ -16,7 +16,7 @@ Unlike copying (Copy file), this action will cut the data to the new location (i
 You just downloaded an image file and want to rename it to a meaningful name before uploading it to social media to avoid duplication.
 
 * Source File: `D:\downloads\image.jpg`
-* Destination File: `D:\downloads\avatar_profile_1.jpg` (keeping the folder, changing the file name at the end).
+* Destination File: `D:\downloads\avatar_profile_1.jpg` (keep the folder, change the file name at the end).
 * Result: The file `image.jpg` will disappear and be renamed to `avatar_profile_1.jpg`.
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-03.png" alt=""><figcaption></figcaption></figure>

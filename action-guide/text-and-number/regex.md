@@ -1,6 +1,6 @@
 # Regex
 
-Regex (Regular Expression) is like a magnifying glass that helps you accurately find a hidden piece of text within a large document, or like a filter that allows you to retain the exact data format you need (such as phone numbers, emails, OTP codes) while discarding unnecessary surrounding text.
+Regex (Regular Expression) is like a magnifying glass that helps you precisely find a piece of text hidden within a large document, or like a filter that allows you to keep the exact data format you need (such as phone numbers, emails, OTP codes) while discarding unnecessary surrounding text.
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/nlEQsaxawt4).
 
@@ -12,7 +12,7 @@ Regex (Regular Expression) is like a magnifying glass that helps you accurately 
 
 #### Practical example: Extracting OTP code from Email content
 
-When you use the action to read emails, the system will return the entire text content of the lengthy email. Your task is to extract the correct 6-digit OTP code contained within.
+When you use the action to read emails, the system will return the entire text content of a lengthy email. Your task is to extract the correct 6-digit OTP code contained within.
 
 Suppose the input Text received is:
 
@@ -22,10 +22,10 @@ To filter out the 6-digit OTP, you configure the Regex action as follows:
 
 * Text: Pass in the above text (or a variable containing the email content).
 * Regex: Enter `\d{6}` _(this is the regex syntax representing 6 consecutive numeric characters)_.
-* Output variable: Enter the name of the variable to store (e.g., `$otpCode`).
+* Output variable: Enter the name of the variable to store (For example: `$otpCode`).
 
-Result: The "filter" Regex will scan through the text, ignoring all the Vietnamese text and retaining exactly the string `834912` to assign to the variable `$otpCode`.
+Result: The "filter" Regex will scan through the text, ignoring all Vietnamese characters and accurately retaining the string `834912` to assign to the variable `$otpCode`.
 
-> 💡 Tip: Does the Regex syntax seem complicated and hard to remember? Don't worry, you don't need to memorize it. Just open AI tools (like ChatGPT, DeepSeek, Gemini...) and ask directly in natural language, for example: _"Write me a regex to filter out 6 consecutive digits"_ or _"Write regex to get the string between 'Your code is:' and the period"_. AI will generate the exact code for you to simply copy-paste into the configuration field of GPM Automate.
+> 💡 Tip: Does the Regex syntax seem complicated and hard to remember? Don't worry, you don't need to memorize it. Just open AI tools (like ChatGPT, DeepSeek, Gemini...) and ask directly in natural language, for example: _"Write me a regex to filter out 6 consecutive digits"_ or _"Write regex to get the string between 'Your code is:' and the period"_. AI will generate the exact code for you to simply copy-paste into the configuration box of GPM Automate.
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-02.png" alt=""><figcaption></figcaption></figure>

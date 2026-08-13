@@ -2,9 +2,9 @@
 
 Move / rename folder is a versatile action used to move an entire folder (including all files and subfolders inside) to a new location, or to rename that folder right at its current location on the hard drive.
 
-Similar to operations with files, this action will cut the folder to the new location (if moving) or completely replace the old name (if renaming).
+Similar to operations with files, this action will completely cut the folder to the new location (if moving) or entirely replace the old name (if renaming).
 
-🎥 See more instructional video: [Here](https://youtu.be/EH7olDLAb9c).
+🎥 Watch the tutorial video: [Here](https://youtu.be/EH7olDLAb9c).
 
 #### Configuration parameters:
 
@@ -16,7 +16,7 @@ Similar to operations with files, this action will cut the folder to the new loc
 You have a folder containing temporary data named `temp_data`. After the script has processed all the data inside, you want to rename this folder to `processed_data` to mark it as completed.
 
 * Source Folder: `D:\GPM_Data\temp_data`
-* Destination Folder: `D:\GPM_Data\processed_data` _(keep the parent path, only change the folder name at the end)_.
+* Destination Folder: `D:\GPM_Data\processed_data` _(keep the parent path unchanged, only change the folder name at the end)_.
 * Result: The folder `temp_data` will be immediately renamed to `processed_data`.
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-15.png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ Testing is an important step that helps you control the flow of your script, all
 
 * Error control: Detect and address issues as actions are performed, rather than having to run the entire script from the beginning.
 * Flexible tuning: You can isolate a single action or a block to test, helping to shorten debugging time.
-* Process as you go, test as you go: GPM Automate supports direct testing on GPM Login profiles, allowing you to observe results immediately in the browser.
+* Process as you go, test as you go: GPM Automate supports direct testing mechanisms on GPM Login profiles, allowing you to observe results immediately in the browser.
 
 > Note: The Test feature currently only supports profiles in GPM Login.
 
@@ -19,13 +19,13 @@ To start the testing process, follow these steps:
 #### 1️⃣ Step 1: Configure profile in GPM Login
 
 * Open GPM Login.
-* Find the profile you want to use for testing.
+* Locate the profile you want to use for testing.
 * Click on the three dots next to the profile name.
 * Select Run with remote port to get the control port information.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10b.png" alt=""><figcaption></figcaption></figure>
 
 #### 2️⃣ Step 2: Set up in GPM Automate
 
@@ -35,7 +35,7 @@ To start the testing process, follow these steps:
 * Enter the Port obtained from GPM Login in Step 1 into the corresponding field.
 * Click Start to begin.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10c.png" alt=""><figcaption></figcaption></figure>
 
 #### 3️⃣ Step 3: Observe the results
 

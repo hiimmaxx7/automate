@@ -4,12 +4,12 @@ The Cancel Alert action automatically clicks Cancel or Close on native system di
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/3tDWBxDXRfw).
 
-### ⚠️ Notes When Using
+### ⚠️ Usage Notes
 
 * Does Not Work With Modern Web Interfaces: Dialogs specifically designed with HTML/CSS (Modal, Dialog UI) are not system Alerts. For these types, you must use Mouse Click with the corresponding XPath.
-* Cannot Handle Browser Popups: Security alerts from the browser (camera access, location, HTTP Basic Auth authentication...) cannot be interacted with using this command. Please configure permissions directly in GPM Login before running the script.
+* Cannot Handle Browser Popups: Security notifications from the browser (camera access, location, HTTP Basic Auth authentication...) cannot be interacted with using this command. Please configure permissions directly in GPM Login before running the script.
 * Execution Mechanism:
-  * With Selenium: Automate performs the Cancel action as instructed to dismiss the alert.
-  * With Puppeteer: This command will ignore or cancel the alert as soon as it appears (equivalent to the Dismiss action).
+  * With Selenium: Automate performs the Cancel action as instructed to dismiss the notification.
+  * With Puppeteer: This command will ignore or cancel the notification as soon as it appears (equivalent to the Dismiss action).
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/al-01.png" alt=""><figcaption></figcaption></figure>

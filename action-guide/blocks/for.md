@@ -11,16 +11,16 @@ description: >-
 
 * 🟢 Start: The starting value of the loop variable `$loopIndex`.
 * 🔴 End: The ending value. The loop will stop when `$loopIndex` reaches the value `End - 1`.
-* ⚡ Increase by: The increment (additional value) of `$loopIndex` after each completed iteration.
+* ⚡ Increase by: The step (increment value) of `$loopIndex` after each completed iteration.
 
 #### Practical example: Combining the For loop to read all data from an Excel file
 
-Suppose you have an Excel file named `test.xlsx` and you need to configure a script to read all the data in column B of this file. You can combine the For loop with the system variable `$inputExcelTotalRows` as follows:
+Suppose you have an Excel file named `test.xlsx` and you need to configure a script to read all data in column B of this file. You can combine the For loop with the system variable `$inputExcelTotalRows` as follows:
 
 🎥 Watch the tutorial video: [Here](https://youtu.be/kbh7muMDGtI).
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-01c.png" alt=""><figcaption></figcaption></figure>

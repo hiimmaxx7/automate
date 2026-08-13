@@ -16,11 +16,11 @@ Unlike the overwrite action (File write all text), this action helps preserve al
 
 #### Practical example: Logging successful accounts
 
-Suppose you run an interactive script and want to save the list of accounts that have completed their tasks into the `success_accounts.txt` file for easy checking at the end of the day:
+Suppose you run an interactive script and want to save the list of accounts that have completed the task into the `success_accounts.txt` file for easy checking at the end of the day:
 
 * Configuration: After the account completes the interactive steps at the end of the script, you call the File append line action:
   * File Path: Enter `D:\GPM\success_accounts.txt`.
   * Text: Pass the variable containing the account name (e.g., `$currentAccount`).
-* Result: Each time a flow finishes, that account name will be neatly appended as a new line in the `success_accounts.txt` file (e.g., line 1 is `tk_01`, line 2 is `tk_02`...) without losing data from previously run accounts.
+* Result: Each time a flow finishes, that account name will be neatly appended as a new line in the `success_accounts.txt` file (e.g., line 1 is `tk_01`, line 2 is `tk_02`...) without losing the data of previously run accounts.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-08.png" alt=""><figcaption></figcaption></figure>

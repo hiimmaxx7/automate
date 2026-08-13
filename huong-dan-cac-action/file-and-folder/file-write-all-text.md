@@ -26,4 +26,4 @@ Giả sử bạn bắt đầu chạy một kịch bản tương tác tài khoả
   * Nếu chưa có file `report.txt`, hệ thống tự động tạo file này tại thư mục `D:\GPM\`.
   * Nếu file đã có sẵn từ hôm qua (chứa đầy chữ cũ), hệ thống sẽ dọn sạch bách nội dung cũ đó, biến file thành file trắng rồi ghi vào dòng chữ `"--- Nhật ký chạy kịch bản ngày hôm nay ---"`.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-07.png" alt=""><figcaption></figcaption></figure>

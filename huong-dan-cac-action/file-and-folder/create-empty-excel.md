@@ -22,4 +22,4 @@ Giả sử bạn đang viết một kịch bản tự động lướt các hội
 
 Sau bước này, bạn có thể yên tâm sử dụng các hành động như Write excel file hoặc Append excel file để ghi dữ liệu vừa cào được vào file.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-09.png" alt=""><figcaption></figcaption></figure>

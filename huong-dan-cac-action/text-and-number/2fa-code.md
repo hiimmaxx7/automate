@@ -23,4 +23,4 @@ Khi trình duyệt điều hướng đến trang đăng nhập Facebook, sau khi
   * Output variable: Đặt tên biến là `$twoFACode`.
 * Kết quả: Hệ thống sẽ dựa vào thuật toán mã hóa thời gian để tính toán ngay lập tức mã 6 số hiện tại (ví dụ: `482915`) và lưu vào biến `$twoFACode`. Ngay sau hành động này, bạn gọi tiếp lệnh Key press truyền biến `$twoFACode` vào ô nhập mã trên Facebook là có thể đăng nhập thành công.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-05.png" alt=""><figcaption></figcaption></figure>

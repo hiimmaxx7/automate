@@ -20,4 +20,4 @@ Khi bạn làm kịch bản tự động đăng bài (Post bài) lên mạng xã
   * Timeout: Đặt `20` (20 giây).
 * Logic vận hành: Hệ thống sẽ liên tục kiểm tra trang web. Nếu mạng khỏe và ảnh tải xong trong 2 giây, nút bấm xuất hiện, kịch bản sẽ lập tức chạy lệnh click để đăng bài ngay (tiết kiệm được 18 giây chờ vô ích). Nếu mạng yếu, hệ thống sẽ kiên nhẫn đợi tối đa đến 20 giây để tránh bị lỗi hụt luồng.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-01.png" alt=""><figcaption></figcaption></figure>

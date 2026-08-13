@@ -24,6 +24,6 @@ Kết quả: Hệ thống sẽ quét toàn bộ trang web và đếm xem có bao
 
 > 💡 Ứng dụng nâng cao: Bạn có thể sử dụng biến số lượng này để truyền vào cấu hình của vòng lặp For, giúp kịch bản tự động lặp đúng `9` lần để click xem chi tiết hoặc cào đủ thông tin của cả 9 sản phẩm mà không bị thừa hay thiếu sót.
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-04.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-04b.png" alt=""><figcaption></figcaption></figure>

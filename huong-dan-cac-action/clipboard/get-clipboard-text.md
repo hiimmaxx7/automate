@@ -27,4 +27,4 @@ Trong kịch bản GPM Automate, khi trình duyệt điều hướng đến tran
 
 Kết quả: Hệ thống sẽ tự động bốc chuỗi `GIAMGA50K` từ bộ nhớ tạm của Windows và điền thẳng vào website để áp dụng mã giảm giá, giúp bạn kết hợp mượt mà giữa thao tác tay và luồng chạy tự động.
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl-01.png" alt=""><figcaption></figcaption></figure>

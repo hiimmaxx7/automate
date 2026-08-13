@@ -22,4 +22,4 @@ Read outlook (OAuth2) là hành động nâng cao chuyên biệt dùng để đ�
   3. Full (Cả nội dung Email): Tùy chọn nâng cao giúp bốc toàn bộ mã nguồn văn bản hoặc mã HTML của email trả về gán vào biến đầu ra. Sau đó, bạn có thể truyền biến này qua hành động Regex hoặc Execute JS code để tự viết quy luật bóc tách linh hoạt theo nhu cầu riêng.
 * Output variable: Tên biến đầu ra dùng để lưu chuỗi mã OTP (hoặc toàn bộ nội dung email tùy thuộc vào cấu hình _Code type_) phục vụ cho các hành động nhập liệu tiếp theo trong kịch bản.
 
-<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ma-02.png" alt=""><figcaption></figcaption></figure>

@@ -22,4 +22,4 @@ Khi bạn điều hướng vào một website và gặp mã Captcha dạng hình
 
 Kết quả: File ảnh `captcha.png` sẽ được bẻ thành một chuỗi mã chữ dài thướt tha dạng `data:image/png;base64,iVBORw0KGgoAAAANSU...` lưu vào biến `$base64String`. Lệnh HTTP Request phía sau chỉ việc bốc chuỗi này gửi đi một cách gọn gàng, giúp kịch bản tự động vượt qua các lớp bảo mật Captcha dễ dàng.
 
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-02.png" alt=""><figcaption></figcaption></figure>

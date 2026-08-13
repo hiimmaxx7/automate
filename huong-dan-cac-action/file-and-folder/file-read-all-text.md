@@ -18,4 +18,4 @@ Giả sử bạn chuẩn bị một bài viết dài (gồm nhiều câu, dấu 
   * Output variable: Đặt tên biến lưu kết quả là `$textContent`.
 * Kết quả: Hệ thống sẽ bốc trọn vẹn mọi ký tự và cấu trúc dòng có trong file gán vào biến `$textContent`. Ở các bước tiếp theo, bạn chỉ cần gọi hành động Key press truyền biến `$textContent` này vào ô nhập liệu của website là xong.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-05.png" alt=""><figcaption></figcaption></figure>

@@ -15,7 +15,7 @@ Mouse click là hành động điều khiển con trỏ chuột thực hiện l�
 * Cách hoạt động: Bạn điền đường dẫn mã định danh (XPath) của phần tử trên trang web (ví dụ: `//button[@id="submit"]`). Hệ thống sẽ tự động tìm kiếm thẻ HTML này, tính toán vị trí của nó trên trình duyệt và đưa chuột đến bấm chính xác.
 * Ứng dụng: Dùng cho cấu trúc trang web thông thường, các nút bấm cố định có thẻ mã nguồn rõ ràng.
 
-<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mo-01.png" alt=""><figcaption></figcaption></figure>
 
 **2. Click dựa theo vị trí hiện tại của con trỏ chuột**
 
@@ -29,4 +29,4 @@ Mouse click là hành động điều khiển con trỏ chuột thực hiện l�
 * Cách cấu hình: Tại ô nhập tọa độ của hành động _Mouse click_, bạn chỉ cần truyền trực tiếp biến gộp `$pos` vào. Hệ thống thông minh của GPM Automate sẽ tự động bóc tách cú pháp `900,800` này ra để đưa chuột đến tọa độ x=900, y=800 để click thẳng vào mục tiêu.
 * Ứng dụng: Dùng để click vào các phần tử nằm trong Canvas (game), các nút bấm nằm ẩn sâu trong Iframe bảo mật, hoặc tương tác với các thành phần không có thẻ XPath cố định.
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mo-01b.png" alt=""><figcaption></figcaption></figure>

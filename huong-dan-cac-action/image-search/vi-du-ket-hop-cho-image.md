@@ -16,7 +16,7 @@ Dưới đây là phần giải thích chi tiết các thông số kỹ thuật 
 
 ### Bài toán thực tế: Tự động nhấn "Continue with Google" trên Pinterest
 
-<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-01.png" alt=""><figcaption></figcaption></figure>
 
 **Bước 1: Đồng bộ luồng tải trang với hành động Wait to image**
 
@@ -25,7 +25,7 @@ Sau khi bạn nhấn nút _Sign up_ trên trang chủ Pinterest, Form đăng ký
 * Cách cấu hình: Bạn trỏ vùng ảnh mẫu (Image) vào tiêu đề dòng chữ hoặc một thành phần cố định (nút Continue with Google) chắc chắn sẽ xuất hiện trên Form đăng ký. Thiết lập thời gian Timeout là `10` (10 giây) và đặt mức Threshold phù hợp (ví dụ: `0.7`).
 * Logic vận hành: Kịch bản sẽ tạm dừng lại để quan sát màn hình. Ngay khi Form đăng ký vừa hiển thị, hệ thống lập tức kích hoạt bước tiếp theo mà không cần chờ đợi lãng phí thời gian.
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-01b.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 Bước 2: Kiểm tra sự tồn tại của nút bấm với hành động Image exists**
 
@@ -34,7 +34,7 @@ Do Pinterest có thể hiển thị biểu mẫu nhập Email đè lên hoặc h
 * Cách cấu hình: Trỏ ảnh mẫu vào biểu tượng chữ "G" bốn màu của Google hoặc dòng chữ Continue with Google. Cấu hình biến đầu ra lưu kết quả.
 * Logic vận hành: Hệ thống quét nhanh màn hình tại thời điểm đó đúng 1 lần. Nếu nút Google xuất hiện, biến đầu ra sẽ nhận giá trị logic là `True` (ngược lại là `False`).
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-01c.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 Bước 3: Lọc điều kiện xử lý với khối lệnh If**
 
@@ -42,7 +42,7 @@ Do Pinterest có thể hiển thị biểu mẫu nhập Email đè lên hoặc h
 
 * Cách cấu hình: Thêm khối lệnh If và thiết lập điều kiện: Kiểm tra nếu biến kết quả ở Bước 2 trả về giá trị `True` (Nghĩa là nút Google đã sẵn sàng trên màn hình).
 
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-01d.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 Bước 4: Tìm vị trí chính xác trong khối If với hành động Image search**
 
@@ -51,7 +51,7 @@ Nằm bên trong khối lệnh If, khi điều kiện thỏa mãn, hệ thống 
 * Cách cấu hình: Sử dụng ảnh mẫu nút "Continue with Google" hoặc logo chữ "G". Thiết lập bật True color sang `Yes` _(Bắt buộc bật để nhận diện chuẩn xác 4 màu gốc đặc trưng của Google, tránh nhầm lẫn với các ký tự chữ khác)_. Đặt biến đầu ra để lưu tọa độ là `pos`.
 * Logic vận hành: Hệ thống quét và tính toán ra chính xác vị trí tâm điểm của nút Google trên màn hình (Ví dụ: `$pos = 720,540`).
 
-<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-01e.png" alt=""><figcaption></figcaption></figure>
 
 **🔹 Bước 5: Thực hiện nhấp chuột với hành động Mouse click**
 
@@ -60,4 +60,4 @@ Nằm bên trong khối lệnh If, khi điều kiện thỏa mãn, hệ thống 
 * Cách cấu hình: Chọn hành động Mouse click, tại ô thiết lập tọa độ, bạn truyền trực tiếp biến vừa tìm được ở bước trên vào ô tương ứng: `$pos`.
 * Logic vận hành: Chuột trên hệ thống sẽ tự động di chuyển đến đúng vị trí pixel của nút Google đã quét được và thực hiện lệnh click để tiếp tục luồng đăng nhập xuyên qua lớp Iframe một cách mượt mà.
 
-<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-01f.png" alt=""><figcaption></figcaption></figure>

@@ -18,7 +18,7 @@ Else if luôn luôn đi sau khối If (hoặc đi sau một Else if khác). Kh�
 
 Else là khối lệnh bọc lót cuối cùng trong chuỗi điều kiện và không cần cấu hình bất kỳ điều kiện nào cả. Khi tất cả các khối If và Else if phía trên đều Sai (không có trường hợp nào thỏa mãn), hệ thống sẽ tự động nhảy vào và thực thi các hành động nằm bên trong khối Else.
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-03.png" alt=""><figcaption></figcaption></figure>
 
 #### Ví dụ thực tế: Kiểm tra trạng thái đăng nhập của tài khoản
 

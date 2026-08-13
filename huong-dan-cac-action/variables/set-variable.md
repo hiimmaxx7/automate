@@ -7,7 +7,7 @@
 
 🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01.png" alt=""><figcaption></figcaption></figure>
 
 Hệ thống hỗ trợ 4 kiểu dữ liệu nhập vào (Input Type) trên giao diện bao gồm:
 
@@ -17,9 +17,9 @@ Dùng khi bạn muốn người dùng tự nhập một giá trị chuỗi, văn
 
 * Ví dụ thực tế: Bạn đặt tên biến là `$textContent`. Khi người dùng nhập nội dung `"hello world"` vào ô nhập liệu trên giao diện, giá trị của biến `$textContent` lúc này sẽ là `"hello world"` (`$textContent = "hello world"`).
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01c.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Kiểu chọn Tệp tin (File)
 
@@ -27,9 +27,9 @@ Dùng khi kịch bản cần xử lý một file cụ thể trong máy tính c�
 
 * Ví dụ thực tế: Người dùng bấm chọn file có tên `bruh.png` nằm trong ổ D. Giá trị của biến `$filePath` nhận được sẽ là đường dẫn tuyệt đối của file đó: `"D:\materials\bruh.png"` (`$filePath = "D:\materials\bruh.png"`). Bạn có thể lấy ngay biến `$filePath` này để truyền vào hành động File upload ở các bước sau.
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01e.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Kiểu tích chọn (Checkbox)
 
@@ -38,7 +38,7 @@ Checkbox là thành phần giao diện cho phép người dùng bật hoặc t�
 * Đặc điểm: Khi được tích chọn, biến sẽ nhận giá trị là `True`. Khi bỏ tích chọn, biến sẽ nhận giá trị là `False`.
 * Ví dụ thực tế: Bạn tạo một mục có nhãn _"Chọn để đặt hàng / Check to place an order"_ gắn với biến `$checkBox`. Nếu người dùng tích chọn vào ô này, biến `$checkBox` sẽ có giá trị là `True` (`$checkBox = True`). Bạn có thể dùng khối lệnh If để kiểm tra: nếu `$checkBox = True` thì mới thực hiện các bước thanh toán.
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01f.png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Kiểu danh sách chọn (Combo Box)
 
@@ -47,6 +47,6 @@ Combo Box (tương tự như Dropdown) là thành phần giao diện hiển th�
 * Đặc điểm: Giúp giữ dữ liệu đồng nhất khi cần chọn các thông tin cố định như Quốc gia, Ngành hàng, Loại sản phẩm, Trạng thái hoạt động...
 * Ví dụ thực tế: Bạn cấu hình danh sách gồm nhiều quốc gia gắn với biến `$country`. Khi người dùng mở kịch bản và chọn `"United States"` từ danh sách thả xuống, biến `$country` trong Automate sẽ ngay lập tức nhận giá trị là `"United States"` (`$country = "United States"`).
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01g.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01h.png" alt=""><figcaption></figcaption></figure>

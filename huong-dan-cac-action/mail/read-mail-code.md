@@ -46,4 +46,4 @@ Read mail code là hành động nâng cao giúp kịch bản tự động đăn
 
 _(Lưu ý: Đối với tài khoản Outlook/Hotmail, bạn thực hiện quy trình tương tự trong mục Settings > Security > Advanced security options > App passwords để lấy chuỗi mật khẩu 16 ký tự tương ứng)._
 
-<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ma-01.png" alt=""><figcaption></figcaption></figure>

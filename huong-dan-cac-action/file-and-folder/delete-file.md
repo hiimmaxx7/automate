@@ -23,4 +23,4 @@ Khi chạy các kịch bản như tải video từ trên mạng về để đăn
   * File Path: Điền đường dẫn của file tạm đã dùng, ví dụ: `D:\render\temp_video.mp4`.
 * Kết quả: Hệ thống sẽ xóa sạch file `temp_video.mp4` tại thư mục ổ D. Thư mục làm việc của bạn sẽ luôn gọn gàng và máy tính không bị tình trạng tràn ổ cứng sau nhiều ngày treo luồng tự động.
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-04.png" alt=""><figcaption></figcaption></figure>

@@ -12,6 +12,6 @@ Export cookie là hành động trích xuất toàn bộ dữ liệu cookie hi�
 
 * Cần Go to URL trước: Bạn cũng phải điều hướng trình duyệt đến trang web cần lấy dữ liệu trước, chờ trang web tải xong hoàn toàn rồi mới gọi hành động Export cookie để thu về được đầy đủ các session đăng nhập hiện tại.
 
-<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ck-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ck-02.png" alt=""><figcaption></figcaption></figure>

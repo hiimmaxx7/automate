@@ -26,16 +26,16 @@ Tùy thuộc vào yêu cầu của tài liệu API từ máy chủ, phần Data 
 
 Đây là định dạng phổ biến nhất hiện nay khi làm việc với các API hiện đại. Phần body phải được điền theo cấu trúc cặp ngoặc nhọn `{}` và các trường dữ liệu nằm trong dấu nháy kép bọc chuẩn mã JSON.
 
-<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-01.png" alt=""><figcaption></figcaption></figure>
 
 **Ví dụ 2: Với dạng body `application/x-www-form-urlencoded`**
 
 Đây là định dạng chuỗi dữ liệu truyền thống thường gặp ở các form đăng nhập cũ hoặc một số cổng thanh toán. Các cặp thuộc tính được nối liền nhau thành một chuỗi văn bản liên tục.
 
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-01b.png" alt=""><figcaption></figcaption></figure>
 
 **Ví dụ 3: Với dạng body `multipart/form-data`**
 
 Đây là định dạng đặc biệt, bắt buộc phải dùng khi bạn có nhu cầu tải tệp tin (như hình ảnh, video, file tài liệu) hoặc gửi các biểu mẫu hỗn hợp phức tạp từ máy tính lên máy chủ.
 
-<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-01c.png" alt=""><figcaption></figcaption></figure>

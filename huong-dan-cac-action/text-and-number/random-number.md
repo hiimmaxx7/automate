@@ -19,4 +19,4 @@ Khi nuôi tài khoản mạng xã hội, để tránh việc tài khoản nào c
 * Cách cấu hình: Bạn gọi hành động Random number, thiết lập Min là `3`, Max là `7`, và ô _Output variable_ đặt là `$randomPosts`.
 * Kết quả: Khi luồng chạy đến bước này, hệ thống sẽ bốc ngẫu nhiên một con số trong khoảng từ 3 đến 7 (Ví dụ: Profile 1 bốc trúng số `4`, Profile 2 bốc trúng số `6`). Bạn chỉ cần truyền biến `$randomPosts` này vào ô End của vòng lặp For phía sau, mỗi tài khoản sẽ tự động lướt và tương tác đúng theo số lượt riêng biệt mà nó bốc được.
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-03.png" alt=""><figcaption></figcaption></figure>

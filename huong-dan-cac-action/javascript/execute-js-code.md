@@ -39,4 +39,4 @@ return char;
 
 Logic vận hành: Hệ thống sẽ nạp chuỗi `Hello, world!` và số `7` vào đoạn mã, chạy thuật toán kiểm tra tính hợp lệ của vị trí và trích xuất ký tự. Lệnh `return char;` ở cuối sẽ đẩy chữ `w` ra ngoài và nạp thẳng vào biến `$charResult` để bạn sử dụng cho các hành động tiếp theo.
 
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-01.png" alt=""><figcaption></figcaption></figure>

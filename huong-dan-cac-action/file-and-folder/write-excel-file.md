@@ -29,8 +29,8 @@ Giả sử bạn muốn kịch bản sau khi chạy xong bước đăng nhập t
 
 Kết quả: Kịch bản chạy đến đâu sẽ tự động cập nhật kết quả đồng bộ và chính xác vào file Excel đến đó theo thời gian thực mà không sợ bị ghi đè hay lệch hàng dữ liệu giữa các luồng.
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-11.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-11b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-11c.png" alt=""><figcaption></figcaption></figure>

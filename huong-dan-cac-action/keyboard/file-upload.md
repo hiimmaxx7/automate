@@ -20,4 +20,4 @@ Khi bạn làm kịch bản đăng bài bán hàng (Listing sản phẩm) tự �
   * File path: `D:\DataPOD\Design01.png`
 * Logic vận hành: GPM Automate sẽ truyền trực tiếp đường dẫn file `D:\DataPOD\Design01.png` vào thẳng phần tử `input` của trang web. Hệ thống của website sẽ ngay lập tức nhận diện và bắt đầu quá trình tải ảnh lên một cách mượt mà mà không hề làm xuất hiện hộp thoại Open File của hệ điều hành.
 
-<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-02.png" alt=""><figcaption></figcaption></figure>

@@ -30,6 +30,6 @@ Nhìn vào bảng mã nguồn HTML (khung đỏ bên phải hình):
 
 Kết quả: Hệ thống sẽ tìm đến thẻ ảnh của Samsung Galaxy S6, bóc tách chuỗi giá trị nằm trong thuộc tính `src` và nạp thẳng giá trị `imgs/galaxy_s6.jpg` vào biến `$imgUrl`. Bạn có thể sử dụng biến này cho các hành động tải ảnh hoặc lưu trữ ở phía sau.
 
-<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-02b.png" alt=""><figcaption></figcaption></figure>

@@ -29,11 +29,11 @@ Nếu bạn chỉ dùng lệnh _Mouse click_ trực tiếp vào nút _Continue w
   * _XPath_: Nhập XPath của nút bấm nằm bên trong iframe: `//span[contains(text(),"Continue with Google")]`
 * Bước 3 (Thoát ra ngoài): Kéo hành động Switch to default ngay phía sau để đưa trình duyệt trở về không gian chính của trang Pinterest, sẵn sàng cho các bước điền Form đăng ký (Email, Password) bên ngoài nếu cần.
 
-<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-01c.png" alt=""><figcaption></figcaption></figure>
 
 Để hiểu Iframe (Frame) trong lập trình web một cách nôm na và dễ tưởng tượng nhất, bạn hãy nghĩ ngay đến một bức tường và những khung tranh treo trên đó.
 

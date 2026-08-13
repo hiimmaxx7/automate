@@ -39,4 +39,4 @@ JSON
 
 Kết quả: Biến `$phoneNumber` sẽ nhận giá trị là `"0987654321"`.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-01.png" alt=""><figcaption></figcaption></figure>

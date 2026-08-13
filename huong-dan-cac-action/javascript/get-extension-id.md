@@ -28,8 +28,8 @@ Khi bạn làm kịch bản tự động hóa cho các tác vụ Crypto/Airdrop,
   * _Output variable_: `metaMaskId`.
 * Bước 4: Sau khi đã có ID lưu trong biến `$metaMaskId`, bạn có thể dùng hành động Go to URL tiếp theo với cấu trúc: `chrome-extension://$metaMaskId/home.html` để lập tức bật thẳng giao diện ví lên xử lý mà không cần click tìm kiếm thủ công trên thanh công cụ.
 
-<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-02b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-02c.png" alt=""><figcaption></figcaption></figure>

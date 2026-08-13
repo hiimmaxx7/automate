@@ -34,4 +34,4 @@ Bạn muốn đọc dữ liệu tài khoản ở hàng số 2 (hàng dữ liệu
 
 Kết quả: Hệ thống sẽ trích xuất chính xác giá trị của ô `A2` vào biến `$username` và ô `B2` vào biến `$password`. Sau đó, bạn có thể truyền hai biến này vào hành động tương tác trình duyệt để tiến hành đăng nhập tự động.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-10.png" alt=""><figcaption></figcaption></figure>

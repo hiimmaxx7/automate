@@ -25,4 +25,4 @@ Giả sử bạn đang chạy một kịch bản cào bài viết và hệ thố
 
 Kết quả: Hệ thống sẽ tự động kết nối mạng, tải tệp tin video từ đường dẫn `$videoUrl` về và kết xuất thành một file vật lý tên là `downloaded_video.mp4` nằm gọn gàng tại thư mục `D:\GPM_Data\Videos\`. Biến `$downloadStatus` sẽ nhận giá trị để bạn có thể dùng khối lệnh If kiểm tra xem file đã tải xuống thành công hay chưa trước khi chuyển sang các hành động sau.
 
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-02.png" alt=""><figcaption></figcaption></figure>

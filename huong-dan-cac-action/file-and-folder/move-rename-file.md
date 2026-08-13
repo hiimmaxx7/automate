@@ -19,4 +19,4 @@ Bạn vừa tải một file ảnh về và muốn đổi tên nó thành tên c
 * Destination File: `D:\downloads\avatar_profile_1.jpg` (giữ nguyên thư mục, thay đổi tên file ở cuối).
 * Kết quả: File `image.jpg` sẽ biến mất và được đổi tên thành `avatar_profile_1.jpg`.
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-03.png" alt=""><figcaption></figcaption></figure>

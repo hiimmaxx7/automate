@@ -23,4 +23,4 @@ Giả sử bạn có một kịch bản tự động tải ảnh đại diện t
 
 Kết quả: Kịch bản sẽ tự động kiểm tra trước. Nếu chưa có thư mục, nó sẽ tự động tạo rồi mới tiến hành tải ảnh về, đảm bảo luồng chạy luôn an toàn và không bao giờ bị crash.
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-13.png" alt=""><figcaption></figcaption></figure>

@@ -12,4 +12,4 @@ Hành động Cancel Alert tự động nhấn Hủy hoặc Đóng trên các h�
   * Với Selenium: Automate thực hiện đúng hành động Cancel theo lệnh để từ chối thông báo.
   * Với Puppeteer: Lệnh này sẽ bỏ qua hoặc hủy thông báo ngay khi xuất hiện (tương đương với thao tác Dismiss).
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/al-01.png" alt=""><figcaption></figcaption></figure>

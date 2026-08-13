@@ -12,4 +12,4 @@ Hành động Accept Alert tự động nhấn OK hoặc Xác Nhận trên các 
   * Với Selenium: Automate thực hiện đúng hành động Accept/Cancel theo lệnh.
   * Với Puppeteer: Hộp thoại sẽ được tự động chấp nhận (Accept) ngay lập tức khi xuất hiện.
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/al-01.png" alt=""><figcaption></figcaption></figure>

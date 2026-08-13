@@ -33,6 +33,6 @@ Thay vì phải dùng hành động đọc file để đếm xem dòng nào tr�
 
 Kết quả: Hệ thống sẽ tự động quét cột B từ trên xuống dưới, nhận diện được từ hàng 1 đến hàng 5 đã có dữ liệu, và lập tức ghi giá trị của biến vào ngay hàng trống đầu tiên (hàng 6 - ô `B6`). Ở lượt chạy tiếp theo của kịch bản, dữ liệu mới sẽ lại tự động được đẩy xuống hàng 7 (`B7`), hàng 8 (`B8`)... một cách tuần tự và chính xác.
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-12.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-12b.png" alt=""><figcaption></figcaption></figure>

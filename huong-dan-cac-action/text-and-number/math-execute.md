@@ -18,4 +18,4 @@ Giả sử bạn đang làm kịch bản tự động mua hàng hoặc cào dữ
   * Output variable: Điền tên biến lưu kết quả là `$totalAmount`.
 * Kết quả: Hệ thống sẽ tính ra giá trị là `480000` và gán vào biến `$totalAmount`.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-04.png" alt=""><figcaption></figcaption></figure>

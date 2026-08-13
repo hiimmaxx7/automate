@@ -19,4 +19,4 @@ Bạn có một thư mục chứa dữ liệu tạm thời tên là `temp_data`.
 * Destination Folder: `D:\GPM_Data\processed_data` _(giữ nguyên đường dẫn cha, chỉ thay đổi tên thư mục ở cuối)_.
 * Kết quả: Thư mục `temp_data` sẽ được đổi tên ngay lập tức thành `processed_data`.
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-15.png" alt=""><figcaption></figcaption></figure>

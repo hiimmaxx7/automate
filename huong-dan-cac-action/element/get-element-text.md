@@ -26,6 +26,6 @@ Nhìn vào bảng mã nguồn HTML được khoanh đỏ bên phải hình dư�
 
 Kết quả: Hệ thống sẽ tìm đến thẻ `<h5>` tương ứng của sản phẩm, bóc tách phần văn bản thuần nằm ở giữa thẻ và nạp thẳng giá trị `$360` vào biến `$productPrice`. Ở các bước sau, bạn có thể gọi biến này ra để ghi vào file Excel hoặc gửi lên dữ liệu hệ thống.
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-03b.png" alt=""><figcaption></figcaption></figure>

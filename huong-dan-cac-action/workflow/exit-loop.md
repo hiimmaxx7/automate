@@ -13,4 +13,4 @@ Giả sử bạn dùng vòng lặp For để quét qua một danh sách 100 tài
   * Trong khối If đó, bạn xử lý lấy tài khoản xong rồi gọi hành động Exit loop.
 * Kết quả: Hệ thống chạy đến dòng số 5, thấy điều kiện đúng, lập tức nhảy ra khỏi vòng lặp For và chạy tiếp các hành động phía dưới để làm việc.
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wf-01.png" alt=""><figcaption></figcaption></figure>

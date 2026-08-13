@@ -28,18 +28,18 @@ Lúc này, trình duyệt gốc Pinterest sẽ bị mờ đi, và toàn bộ tha
 
 > 💡 Mẹo quay về: Sau khi bạn hoàn tất đăng nhập ở cửa sổ Popup, hệ thống Google sẽ tự động kiểm tra và đóng cửa sổ này lại. Để tiếp tục điều khiển trang Pinterest gốc, bạn chỉ cần dùng lệnh Active tab hoặc quay về tab chính để chạy tiếp các hành động cào dữ liệu phía sau.
 
-<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02c.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02e.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02f.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02g.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02h.png" alt=""><figcaption></figcaption></figure>

@@ -22,6 +22,6 @@ Khi kịch bản của bạn chạy đến bước đăng ký thông tin tài kh
   * Select text: Điền Australia
 * Kết quả: Hệ thống sẽ lập tức kích hoạt ô chọn và chuyển giá trị hiển thị trên màn hình sang "Australia" một cách chính xác và an toàn.
 
-<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-03b.png" alt=""><figcaption></figcaption></figure>

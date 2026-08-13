@@ -1,53 +1,235 @@
-BANG TRA ANH -> ACTION (ten ngan 8.3-safe, upload TAT CA vao .gitbook/assets)
+﻿BANG TRA ANH -> ACTION (ten ngan 8.3-safe, upload TAT CA vao .gitbook/assets)
 
-Phone - App (pa):
-  pa-01.png = Install app
-  pa-02.png = Is app installed
-  pa-03.png = Uninstall app
-  pa-04.png = Start app
-  pa-05.png = Stop app
-  pa-06.png = Clean app data
+Group ai:
+  ai-01.png = chatgpt
+  ai-02.png = deepseek
 
-Phone - Device (pd):
-  pd-01.png = Lock device
-  pd-02.png = Unlock device
-  pd-03.png = Toggle service
-  pd-04.png = Check network
-  pd-05.png = Reconnect
+Group al:
+  al-01.png = accept-alert
 
-Phone - Navigation (pn):
-  pn-01.png = Press back
-  pn-02.png = Press home
-  pn-03.png = Press menu
+Group cb:
+  cb-01.png = for
+  cb-01b.png = for
+  cb-01c.png = for
+  cb-02.png = while
+  cb-03.png = if-else-if-va-else
 
-Phone - File (pf):
-  pf-01.png = Push file
-  pf-02.png = Pull file
+Group ck:
+  ck-01.png = import-cookie
+  ck-01b.png = import-cookie
+  ck-02.png = export-cookie
 
-Phone - Clipboard (pc):
-  pc-01.png = Copy clipboard
-  pc-02.png = Set clipboard
-  pc-03.png = Paste clipboard
+Group cl:
+  cl-01.png = get-clipboard-text
+  cl-02.png = set-clipboard-text
 
-Phone - Action (px):
-  px-01.png  = Touch (by Xpath)
-  px-01b.png = Touch (by coordinates)
-  px-02.png  = Scroll (by direction)
-  px-02b.png = Scroll (by points)
-  px-03.png  = Screenshot
-  px-04.png  = Press key
-  px-05.png  = Type text
+Group el:
+  el-01.png = wait-element
+  el-02.png = get-element-attribute
+  el-02b.png = get-element-attribute
+  el-03.png = get-element-text
+  el-03b.png = get-element-text
+  el-04.png = count-element
+  el-04b.png = count-element
 
-Phone - Element (pe):
-  pe-01.png = Get element data
-  pe-02.png = Has element
+Group ff:
+  ff-01.png = file-exists
+  ff-02.png = copy-file
+  ff-03.png = move-rename-file
+  ff-04.png = delete-file
+  ff-05.png = file-read-all-text
+  ff-06.png = file-read-random-line
+  ff-07.png = file-write-all-text
+  ff-08.png = file-append-line
+  ff-09.png = create-empty-excel
+  ff-10.png = read-excel-file
+  ff-11.png = write-excel-file
+  ff-11b.png = write-excel-file
+  ff-11c.png = write-excel-file
+  ff-12.png = append-excel-file
+  ff-12b.png = append-excel-file
+  ff-13.png = folder-exists
+  ff-14.png = create-folder
+  ff-15.png = move-rename-folder
+  ff-16.png = delete-folder
 
-Phone - Shell (ps):
-  ps-01.png = Execute ADB
-  ps-02.png = Execute CMD
+Group gs:
+  gs-01.png = read-google-sheet
+  gs-01b.png = read-google-sheet
+  gs-02.png = write-google-sheet
+  gs-02b.png = write-google-sheet
 
-Huong dan XPath (ui) - dung chung Action & Element:
-  ui-01.png = GPM UI Automator - chon element + suggested xpath
-  ui-02.png = GPM UI Automator - attributes (bounds/toa do)
+Group gt:
+  gt-01.png = gpm-automate-la-gi
+  gt-01b.png = gpm-automate-la-gi
+  gt-02.png = 1.-file-.gpmlaunch-la-gi
+  gt-03.png = 3.-cach-mo-va-chay-file-.gpmlaunch
+  gt-03b.png = 3.-cach-mo-va-chay-file-.gpmlaunch
+  gt-04.png = 1.-window-and-screen-kich-thuoc-and-man-hinh-hien-thi
+  gt-05.png = 2.-giai-thich-cac-thong-so-cau-hinh-du-lieu-excel-use-input-excel
+  gt-06.png = 3.-input-from-application-cac-thong-so-cau-hinh-do-nguoi-viet-tool-de-lo-ra-ngoai
+  gt-07.png = 4.-session-configuration-cau-hinh-phien-chay
+  gt-08.png = 5.-schedule-hen-gio-chay-kich-ban
+  gt-08b.png = 5.-schedule-hen-gio-chay-kich-ban
+  gt-08c.png = 5.-schedule-hen-gio-chay-kich-ban
+  gt-09.png = 6.-profile-chon-profile-trinh-duyet-de-chay-tool
+  gt-10.png = huong-dan-test-action-kiem-thu
+  gt-10b.png = huong-dan-test-action-kiem-thu
+  gt-10c.png = huong-dan-test-action-kiem-thu
+  gt-11.png = huong-dan-fix-loi-cap-nhat
+  gt-11b.png = huong-dan-fix-loi-cap-nhat
+  gt-11c.png = huong-dan-fix-loi-cap-nhat
+  gt-11d.png = huong-dan-fix-loi-cap-nhat
+  gt-12.jpg = huong-dan-gen-ai-workflow
 
-=> TONG: 26 anh. Keo-tha het vao thu muc .gitbook/assets tren GitHub.
+Group ht:
+  ht-01.png = http-request
+  ht-01b.png = http-request
+  ht-01c.png = http-request
+  ht-02.png = http-download
+
+Group is:
+  is-01.png = vi-du-ket-hop-cho-image
+  is-01b.png = vi-du-ket-hop-cho-image
+  is-01c.png = vi-du-ket-hop-cho-image
+  is-01d.png = vi-du-ket-hop-cho-image
+  is-01e.png = vi-du-ket-hop-cho-image
+  is-01f.png = vi-du-ket-hop-cho-image
+  is-02.png = image-to-base64
+
+Group js:
+  js-01.png = execute-js-code
+  js-02.png = get-extension-id
+  js-02b.png = get-extension-id
+  js-02c.png = get-extension-id
+  js-03.png = screenshot
+
+Group kb:
+  kb-01.png = key-press
+  kb-01b.png = key-press
+  kb-01c.png = key-press
+  kb-01d.png = key-press
+  kb-01e.png = key-press
+  kb-02.png = file-upload
+  kb-03.png = select-dropdown
+  kb-03b.png = select-dropdown
+
+Group ma:
+  ma-01.png = read-mail-code
+  ma-02.png = read-outlook-oauth2
+
+Group mo:
+  mo-01.png = mouse-click
+  mo-01b.png = mouse-click
+  mo-02.png = mouse-try-to-click
+
+Group na:
+  na-01.png = active-tab
+
+Group pa:
+  pa-01.png = install-app
+  pa-02.png = is-app-installed
+  pa-03.png = uninstall-app
+  pa-04.png = start-app
+  pa-05.png = stop-app
+  pa-06.png = clean-app-data
+
+Group pc:
+  pc-01.png = copy-clipboard
+  pc-02.png = set-clipboard
+  pc-03.png = paste-clipboard
+
+Group pd:
+  pd-01.png = lock-device
+  pd-02.png = unlock-device
+  pd-03.png = toggle-service
+  pd-04.png = check-network
+  pd-05.png = reconnect
+
+Group pe:
+  pe-01.png = get-element-data
+  pe-02.png = has-element
+
+Group pf:
+  pf-01.png = push-file
+  pf-02.png = pull-file
+
+Group pn:
+  pn-01.png = press-back
+  pn-02.png = press-home
+  pn-03.png = press-menu
+
+Group ps:
+  ps-01.png = execute-adb
+  ps-02.png = execute-cmd
+
+Group px:
+  px-01.png = touch
+  px-01b.png = touch
+  px-02.png = scroll
+  px-02b.png = scroll
+  px-03.png = screenshot
+  px-04.png = press-key
+  px-05.png = type-text
+
+Group rf:
+  rf-01.png = call-workflow
+  rf-01b.png = call-workflow
+
+Group sw:
+  sw-01.png = switch-to-frame
+  sw-01b.png = switch-to-frame
+  sw-01c.png = switch-to-frame
+  sw-02.png = switch-to-popup
+  sw-02b.png = switch-to-popup
+  sw-02c.png = switch-to-popup
+  sw-02d.png = switch-to-popup
+  sw-02e.png = switch-to-popup
+  sw-02f.png = switch-to-popup
+  sw-02g.png = switch-to-popup
+  sw-02h.png = switch-to-popup
+
+Group tn:
+  tn-01.png = read-json
+  tn-02.png = regex
+  tn-03.png = random-number
+  tn-04.png = math-execute
+  tn-05.png = 2fa-code
+
+Group ui:
+  ui-01.png = huong-dan-xac-dinh-xpath-va-toa-do
+  ui-02.png = huong-dan-xac-dinh-xpath-va-toa-do
+
+Group va:
+  va-01.png = set-variable
+  va-01b.png = set-variable
+  va-01c.png = set-variable
+  va-01d.png = set-variable
+  va-01e.png = set-variable
+  va-01f.png = set-variable
+  va-01g.png = set-variable
+  va-01h.png = set-variable
+  va-02.png = increase-variable
+  va-03.png = decrease-variable
+  va-04.png = count
+  va-04b.png = count
+  va-04c.png = count
+  va-04d.png = count
+  va-04e.png = count
+  va-04f.png = count
+  va-04g.png = count
+  va-04h.png = count
+  va-04i.png = count
+  va-04j.png = count
+  va-04k.png = count
+  va-04l.png = count
+  va-04m.png = count
+  va-04n.png = count
+
+Group wf:
+  wf-01.png = exit-loop
+  wf-02.png = next-loop
+  wf-03.png = throw
+  wf-03b.png = throw
+
+=> TONG: 172 anh dang duoc tham chieu. Keo-tha het vao thu muc .gitbook/assets tren GitHub.

@@ -12,7 +12,7 @@ Nhiều action trong nhóm Phone - Action và Phone - Element cần trỏ tới 
 2. Mở đúng màn hình cần thao tác trên điện thoại, rồi bấm Capture để chụp và dựng lại cây giao diện. Có thể xem dạng cây (UI tree) hoặc mã (XML), lọc nhanh bằng ô Filter by text / id / class.
 3. Bấm chọn phần tử cần lấy — trong cây hoặc ngay trên ảnh màn hình bên trái. Phần tử được chọn sẽ sáng lên và hiện thông tin ở khung SELECTED ELEMENT bên phải.
 
-<figure><img src="../../.gitbook/assets/ui-sel.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ui-01.png" alt=""><figcaption></figcaption></figure>
 
 #### Lấy XPath:
 
@@ -27,4 +27,4 @@ Các kiểu gợi ý gồm: CONTENT-DESC, DESC + CLASS, ABSOLUTE, CLASS, BY PARE
 
 Khung ATTRIBUTES hiển thị thuộc tính của phần tử, trong đó `bounds` là toạ độ khung dạng `[x1,y1][x2,y2]`. Toạ độ tâm phần tử là trung điểm của khung này. Bấm Test tap để thử chạm vào phần tử nhằm kiểm tra.
 
-<figure><img src="../../.gitbook/assets/ui-attr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ui-02.png" alt=""><figcaption></figcaption></figure>

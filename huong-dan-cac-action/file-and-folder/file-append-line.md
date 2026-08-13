@@ -23,4 +23,4 @@ Giả sử bạn chạy một kịch bản tương tác và muốn lưu lại da
   * Text: Truyền biến chứa tên tài khoản vào (Ví dụ: `$currentAccount`).
 * Kết quả: Mỗi khi có một luồng chạy xong, tên tài khoản đó sẽ được xếp nối đuôi nhau ngay ngắn thành từng dòng trong file `success_accounts.txt` (Ví dụ: dòng 1 là `tk_01`, dòng 2 là `tk_02`...) mà không bị mất dữ liệu của các tài khoản đã chạy trước đó.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-08.png" alt=""><figcaption></figcaption></figure>

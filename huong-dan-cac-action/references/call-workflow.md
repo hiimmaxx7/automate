@@ -34,6 +34,6 @@ Lưu ý kỹ thuật:
 
 • Kiểm tra sự đồng nhất về tên biến giữa Workflow cha và con để đảm bảo dữ liệu được truyền tải chính xác và không bị xung đột. Để sử dụng biến của workflow phụ bạn viết theo cú pháp: `$tên_workflow_tên_biến`, ví dụ như hình dưới, trong Main workflow, nếu ở module login\_module có biến `$status` thì để dùng nó ở Main workflow cần điền là `$login_module_status`.
 
-<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rf-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rf-01b.png" alt=""><figcaption></figcaption></figure>

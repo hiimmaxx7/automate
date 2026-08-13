@@ -39,12 +39,12 @@ Khi bạn muốn kịch bản tự động xóa sạch các ký tự đang có s
 4. Bước 4 (Nhập nội dung mới kèm Emoji): Kéo lệnh _Key press_ ➔ Chọn Type: `Text` ➔ KEY: `GPM Softwares 🚀` ➔ Delay each character: `-1` (để dán nhanh và nhận diện được emoji tên lửa) ➔ Xpath: Nhập XPath ô tìm kiếm.
 5. Bước 5 (Nhấn Enter): Kéo lệnh _Key press_ ➔ Chọn Type: `Single key` ➔ KEY: `Enter` ➔ Xpath: bỏ trống.
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01c.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01e.png" alt=""><figcaption></figcaption></figure>

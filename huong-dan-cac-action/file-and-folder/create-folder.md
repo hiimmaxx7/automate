@@ -22,4 +22,4 @@ Khi chạy các kịch bản nuôi tài khoản hoặc cào dữ liệu, bạn t
   * Folder Path: Bạn kết hợp đường dẫn cố định với biến thời gian hệ thống, điền vào ô: `D:\GPM_Screenshots\$currentDate`.
 * Kết quả: Khi kịch bản chạy bước này, hệ thống sẽ tự động kiểm tra xem hôm nay đã có thư mục mang tên ngày hiện tại (ví dụ: `2026-06-29`) chưa. Nếu chưa có, nó sẽ tự động tạo mới một thư mục sạch sẽ. Các hành động Screenshot phía sau chỉ việc trỏ đường dẫn lưu ảnh vào thư mục này là xong, giúp dữ liệu của bạn luôn được phân loại ngăn nắp theo từng ngày.
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-14.png" alt=""><figcaption></figcaption></figure>

@@ -21,4 +21,4 @@ Khi bạn cần điền một đoạn văn bản rất dài (chẳng hạn một
 
 Kết quả: Toàn bộ nội dung bài viết dài sẽ được dán vào website chỉ trong một tích tắc, đảm bảo giữ nguyên định dạng, không bị lỗi gõ chữ và tăng tốc độ chạy kịch bản lên tối đa.
 
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl-02.png" alt=""><figcaption></figcaption></figure>

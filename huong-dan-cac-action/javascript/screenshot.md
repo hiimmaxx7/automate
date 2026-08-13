@@ -22,4 +22,4 @@ Khi bạn làm kịch bản tự động đăng bài bán hàng hoặc làm dị
   * Output variable: `savedImagePath`
 * Kết quả: GPM Automate sẽ chụp lại toàn bộ trang web, đóng gói thành file ảnh lưu vào đúng thư mục bạn yêu cầu, và lưu đường dẫn file đó vào biến `$savedImagePath` để bạn có thể dùng tiếp cho các hành động gửi báo cáo qua Telegram/Discord ở các bước sau.
 
-<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-03.png" alt=""><figcaption></figcaption></figure>

@@ -20,4 +20,4 @@ Sau khi kịch bản đã upload video thành công lên các nền tảng, bạ
   * Folder Path: Điền đường dẫn thư mục tạm đã dùng, ví dụ: `D:\GPM_Softwares\Render_Temp`.
 * Kết quả: Hệ thống sẽ xóa sạch bách thư mục `Render_Temp` cùng toàn bộ các file rác phát sinh bên trong. Máy tính của bạn sẽ luôn sạch sẽ, chạy mượt mà và không lo bị đầy bộ nhớ sau một thời gian dài treo máy tự động.
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-16.png" alt=""><figcaption></figcaption></figure>

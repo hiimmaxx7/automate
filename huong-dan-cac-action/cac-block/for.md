@@ -21,8 +21,8 @@ Giả sử bạn có một file Excel tên là `test.xlsx` và bạn cần cấu
 
 🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/kbh7muMDGtI).
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-01c.png" alt=""><figcaption></figcaption></figure>

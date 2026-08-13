@@ -16,4 +16,4 @@ Tại ô Output variable (Biến đầu ra), bạn có thể điền trùng tên
 
     🎥 Xem thêm video hướng dẫn: [Tại đây](https://youtu.be/nlEQsaxawt4).
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-02.png" alt=""><figcaption></figcaption></figure>

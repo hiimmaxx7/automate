@@ -30,4 +30,4 @@ Logic vận hành: Hệ thống đưa chuột đến nút gửi mã và click l�
 
 > 💡 Mẹo mở rộng: Bạn cũng có thể dùng điều kiện phủ định `!hasElement(XPATH)` để ra lệnh cho chuột click liên tục cho đến khi một banner quảng cáo hoặc một biểu tượng vòng tròn tải trang (loading) biến mất khỏi màn hình.
 
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mo-02.png" alt=""><figcaption></figcaption></figure>

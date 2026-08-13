@@ -11,11 +11,11 @@ Bộ phần mềm này được chia làm 2 phần độc lập, tùy thuộc v�
 * Tác dụng: Là nơi để bạn tự sáng tạo, thiết kế và kéo thả các hành động để tạo ra một kịch bản (script) tự động theo ý mình.
 * Đầu ra: Nếu dùng bản miễn phí, bạn sẽ xuất ra một thư mục nguồn (Source Folder) để tự dùng. Nếu dùng bản trả phí, bạn sẽ đóng gói kịch bản thành một file mã hóa duy nhất là `.gpmlaunch` để mang đi bán kiếm tiền hoặc chia sẻ mà không lo bị lộ code.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-01.png" alt=""><figcaption></figcaption></figure>
 
 **🚀 GPM Automate Runtime – Dành cho người CHỈ MUỐN CHẠY tool (Miễn phí)**
 
 * Tác dụng: Trình chạy này không có chức năng sửa code. Nó chỉ có một nhiệm vụ duy nhất là nạp kịch bản vào, bật lên để nó tự động vận hành trên các profile GPM Login.
 * Đối tượng: Nếu bạn mua script/file `.gpmlaunch` từ người khác hoặc mua trên chợ ứng dụng [app.gpmautomate.com](https://app.gpmautomate.com), bạn chỉ cần dùng duy nhất phần Runtime này để mở file lên chạy là xong, không cần quan tâm đến phần Editor.
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-01b.png" alt=""><figcaption></figcaption></figure>

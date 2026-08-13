@@ -24,7 +24,7 @@ Giả sử bạn làm kịch bản đăng ký tài khoản và cần chờ hệ 
 * Điều kiện dừng của vòng lặp: Khi biến `$otpCode` nhận được giá trị (không còn rỗng).
 * Hệ thống sẽ liên tục kiểm tra và đọc hòm thư. Ngay khi lấy được mã OTP thành công, điều kiện thỏa mãn, vòng lặp dừng lại để kịch bản chạy tiếp bước điền mã.
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-02.png" alt=""><figcaption></figcaption></figure>
 
 > ⚠️ Lưu ý quan trọng: Khi sử dụng vòng lặp While, bạn cần đảm bảo các hành động bên trong khối lệnh sẽ làm thay đổi trạng thái của điều kiện dừng. Nếu điều kiện cấu hình sai hoặc Mail không bao giờ về, kịch bản sẽ rơi vào trạng thái lặp vô hạn (treo kịch bản).
 >

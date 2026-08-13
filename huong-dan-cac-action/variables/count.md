@@ -34,15 +34,15 @@ https://www.facebook.com/demo.account99
 
 Sau khi chạy xong, biến `$lineCount` sẽ nhận giá trị là `9`. Bạn có thể lấy ngay biến `$lineCount` này để làm tham số End cho vòng lặp For nhằm tự động mở lần lượt từng profile Facebook lên tương tác.
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04c.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04e.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Đếm số lượng tệp tin trong một thư mục (Folder)
 
@@ -68,15 +68,15 @@ Giả sử bạn có một thư mục chứa ảnh chụp nhà đất tại đư
 
 Sau khi chạy xong, biến `$totalFiles` sẽ nhận giá trị là `3`. Bạn có thể dùng kết quả này để chạy các khối lệnh điều kiện (ví dụ: Nếu thư mục có trên 0 file thì mới thực hiện hành động tải ảnh lên Facebook/Website).
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04f.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04g.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04h.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04i.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04j.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Đếm số phần tử sau khi tách chuỗi (Split text)
 
@@ -103,10 +103,10 @@ thanhnguyen|Pass1234|2FAXYZ|103.83.77.15:9898
 
 Sau khi chạy xong, biến `$infoCount` sẽ nhận giá trị là `4`. Bạn có thể dùng kết quả này kết hợp với khối lệnh If để kiểm tra (ví dụ: Nếu `$infoCount = 4` tức là tài khoản đủ thông tin cấu trúc thì mới tiến hành chạy tiếp kịch bản đăng nhập, ngược lại thì bỏ qua để tránh lỗi).
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04k.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04l.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04m.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04n.png" alt=""><figcaption></figcaption></figure>

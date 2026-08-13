@@ -18,4 +18,4 @@ Khi làm kịch bản cào dữ liệu (Data Crawler) hoặc điền báo cáo, 
   * Destination File: Điền đường dẫn file mới sẽ dùng để ghi dữ liệu: `D:\GPM\data_output.xlsx`
 * Kết quả: Hệ thống sẽ lấy file `template.xlsx`, tạo ra một bản sao chính xác và đặt tên là `data_output.xlsx` tại thư mục chỉ định. Các hành động phía sau của kịch bản (như _Write excel file_) sẽ chỉ tương tác và ghi dữ liệu vào file `data_output.xlsx` này, giúp file mẫu của bạn luôn được an toàn và sạch sẽ cho các lần chạy tiếp theo.
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-02.png" alt=""><figcaption></figcaption></figure>

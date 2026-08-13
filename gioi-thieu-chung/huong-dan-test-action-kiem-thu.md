@@ -23,9 +23,9 @@ Việc kiểm thử (Test) là bước quan trọng giúp bạn kiểm soát lu�
 * Nhấn vào dấu 3 chấm ở cạnh tên profile.
 * Chọn Chạy với remote port để lấy thông số cổng điều khiển.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10b.png" alt=""><figcaption></figcaption></figure>
 
 #### 2️⃣ Bước 2: Thiết lập trong GPM Automate
 
@@ -35,7 +35,7 @@ Việc kiểm thử (Test) là bước quan trọng giúp bạn kiểm soát lu�
 * Nhập Port (cổng) đã lấy được từ GPM Login ở Bước 1 vào ô tương ứng.
 * Nhấn Start để bắt đầu.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10c.png" alt=""><figcaption></figcaption></figure>
 
 #### 3️⃣ Bước 3: Quan sát kết quả
 

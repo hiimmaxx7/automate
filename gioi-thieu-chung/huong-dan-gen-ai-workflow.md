@@ -19,9 +19,9 @@ Tính năng Gen AI Workflow cho phép bạn khởi tạo kịch bản automation
 
 > Giải thích: Việc mở remote port giống như tạo một "cây cầu nối" cho phép AI và GPM Automate trực tiếp điều khiển, truy cập vào profile trình duyệt đang mở để lướt web và đọc cấu trúc trang real-time.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10b.png" alt=""><figcaption></figcaption></figure>
 
 #### 2️⃣ Bước 2: Thiết lập trong GPM Automate
 
@@ -38,7 +38,7 @@ Tính năng Gen AI Workflow cho phép bạn khởi tạo kịch bản automation
     * **Append to main block:** Chèn tiếp các action mới vào cuối kịch bản chính.
 * Nhấn **Start session**, trình duyệt sẽ tự động mở và chạy thực thi quá trình phân tích kịch bản.
 
-<figure><img src="../.gitbook/assets/gen ai.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-12.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 3️⃣ Bước 3: Quan sát kết quả
 

@@ -24,4 +24,4 @@ Lý do là vì thứ tự tab (Index) có thể thay đổi không theo quy lu�
 
 _Mẹo nhỏ: Sau khi trình duyệt bật lên các cửa sổ liên kết dạng popup (như cửa sổ đăng nhập Google, ví MetaMask...), bạn chỉ cần gọi hành động Active Tab với chỉ số 0 để quay trở về màn hình trình duyệt chính một cách nhanh chóng._
 
-<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/na-01.png" alt=""><figcaption></figcaption></figure>

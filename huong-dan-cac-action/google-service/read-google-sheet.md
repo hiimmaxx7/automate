@@ -30,6 +30,6 @@ Khi bạn lưu trữ danh sách hàng loạt tài khoản MMO (gồm Username, P
   * Output variable: `currentUsername`
 * Kết quả: GPM Automate sẽ ngầm kết nối tới Google Sheet, bóc tách dữ liệu tại ô A1 và nạp thẳng nội dung chữ vào biến `$currentUsername`. Sau đó, bạn có thể gọi biến này ra ở hành động nhập liệu Key press một cách mượt mà.
 
-<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-01b.png" alt=""><figcaption></figcaption></figure>

@@ -28,4 +28,4 @@ Kết quả: Chiếc "lưới lọc" Regex sẽ quét qua văn bản, bỏ qua t
 
 > 💡 Mẹo nhỏ: Cú pháp Regex trông có vẻ loằng ngoằng và khó nhớ? Đừng lo, bạn không cần phải tự học thuộc lòng làm gì cho đau đầu. Hãy mở các công cụ AI (như ChatGPT, DeepSeek, Gemini...) và hỏi trực tiếp bằng ngôn ngữ tự nhiên, ví dụ: _"Viết cho tao đoạn regex để lọc lấy 6 số liên tiếp"_ hoặc _"Viết regex lấy chuỗi nằm giữa chữ 'Mã của bạn là:' và dấu chấm"_. AI sẽ sinh ra đoạn mã chính xác để bạn chỉ việc copy-paste vào ô cấu hình của GPM Automate.
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-02.png" alt=""><figcaption></figcaption></figure>

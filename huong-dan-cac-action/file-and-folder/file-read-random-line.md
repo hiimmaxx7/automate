@@ -29,4 +29,4 @@ Khi kịch bản điều hướng trình duyệt đến một bài viết và ch
   * Output variable: Đặt tên biến lưu kết quả là `$randomComment`.
 * Kết quả: Mỗi lần luồng chạy đến bước này (hoặc mỗi profile chạy độc lập), hệ thống sẽ tự động bốc ngẫu nhiên 1 trong 3 dòng trên (Ví dụ: Profile 1 bốc trúng dòng số 3: `"Thông tin rất bổ ích, cảm ơn chủ thớt."` và gán vào biến `$randomComment`). Bạn chỉ cần gọi hành động Key press truyền biến này vào ô bình luận trên website là xong.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-06.png" alt=""><figcaption></figcaption></figure>

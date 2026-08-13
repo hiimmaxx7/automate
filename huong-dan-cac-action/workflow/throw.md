@@ -16,6 +16,6 @@ Giả sử bạn làm kịch bản tự động lên chiến dịch quảng cáo
   * Nằm bên trong khối If, bạn gọi hành động Throw và điền nội dung thông báo lỗi là: `"Lỗi: Tài khoản hết tiền, không thể lên camp!"`.
 * Kết quả: Khi chạy đến đây, luồng của profile này sẽ lập tức đóng lại. Trên bảng quản lý tiến độ của GPM Automate, dòng profile đó sẽ được chuyển sang trạng thái Error (Bôi đỏ) kèm dòng chữ thông báo lỗi. Bạn chỉ cần nhìn lướt qua danh sách là lọc ra ngay những tài khoản nào đang bị lỗi để xử lý mà không bị lẫn lộn với những luồng chạy thành công (Completed).
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wf-03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wf-03b.png" alt=""><figcaption></figcaption></figure>

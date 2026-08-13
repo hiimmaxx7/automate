@@ -62,4 +62,4 @@ Khi bạn làm Marketing, POD hoặc làm nội dung trên thị trường quố
 
 Kết quả: Hệ thống sẽ đẩy tiêu đề trong biến `$originTitle` lên ChatGPT xử lý. AI sẽ nhanh chóng biên dịch và tối ưu ngôn từ sang tiếng Đức, sau đó nạp thẳng kết quả văn bản tinh gọn nhất vào biến `$aiContent`. Ở các bước tiếp theo, bạn chỉ việc gọi biến `$aiContent` này ra để điền tự động vào ô nhập liệu trên website của mình, giúp tự động hóa quy trình làm content xuyên biên giới cực kỳ chuyên nghiệp.
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ai-01.png" alt=""><figcaption></figcaption></figure>

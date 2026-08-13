@@ -31,6 +31,6 @@ Khi bạn làm kịch bản nuôi tài khoản hoặc đăng bài, sau khi một
   * Value: Điền chữ `Live` (hoặc truyền biến trạng thái `$status`).
 * Kết quả: GPM Automate sẽ lập tức đồng bộ và điền chữ "Live" thẳng vào ô C2 trên Google Sheet trực tuyến của bạn một cách nhanh chóng mà không cần mở trình duyệt Docs.
 
-<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-02b.png" alt=""><figcaption></figcaption></figure>

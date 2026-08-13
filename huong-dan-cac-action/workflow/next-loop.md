@@ -4,4 +4,4 @@ Next loop là hành động dùng để dừng ngay lập tức các hành độ
 
 Khác với Exit loop (thoát hẳn, dừng luôn vòng lặp), Next loop chỉ bỏ qua lượt đang chạy và vẫn tiếp tục thực hiện các lượt lặp kế tiếp cho đến khi hết danh sách. Hành động này thường được đặt bên trong khối lệnh If để lọc bỏ các dữ liệu lỗi hoặc không phù hợp.
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wf-02.png" alt=""><figcaption></figcaption></figure>

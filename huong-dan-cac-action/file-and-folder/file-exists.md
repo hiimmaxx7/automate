@@ -23,4 +23,4 @@ Giả sử bạn viết một kịch bản tự động điền thông tin và y
 
 Kết quả: Kịch bản sẽ tự động kiểm tra trước. Nếu file chưa tồn tại, nó sẽ dừng luồng một cách chủ động và bắn ra cảnh báo màu đỏ trực quan cho bạn biết, thay vì cố chạy tiếp để rồi bị crash kịch bản.
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-01.png" alt=""><figcaption></figcaption></figure>

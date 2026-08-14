@@ -18,4 +18,4 @@ Math execute 是用于执行基本数学运算(如加 `+`、减 `-`、乘 `*`、
   * Output variable:填写保存结果的变量名称 `$totalAmount`。
 * 结果:系统将计算出数值 `480000` 并赋值给变量 `$totalAmount`。
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-04.png" alt=""><figcaption></figcaption></figure>

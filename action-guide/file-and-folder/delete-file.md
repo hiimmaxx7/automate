@@ -23,4 +23,4 @@ Delete file 是用于根据指定路径将文件从计算机硬盘中完全删�
   * File Path：填写已使用的临时文件路径，例如：`D:\render\temp_video.mp4`。
 * 结果：系统将彻底删除 D 盘目录下的 `temp_video.mp4` 文件。您的工作目录将始终保持整洁，计算机也不会在自动化流程长期运行数天后出现硬盘空间被占满的情况。
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-04.png" alt=""><figcaption></figcaption></figure>

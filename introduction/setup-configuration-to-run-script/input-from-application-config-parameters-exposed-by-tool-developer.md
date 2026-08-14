@@ -4,4 +4,4 @@
 
 * 运行工具时的注意事项:不同作者的 `.gpmlaunch` 文件在此部分会显示不同的数据输入框(例如:等待时间输入框、结果保存文件选择框,或功能序号输入框等)。因此,打开脚本时,请留意此处有哪些项目需要填写,并按照工具卖家的说明正确填写。
 
-<figure><img src="../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gt-06.png" alt=""><figcaption></figcaption></figure>

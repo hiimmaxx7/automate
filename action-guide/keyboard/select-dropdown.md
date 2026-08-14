@@ -22,6 +22,6 @@ Select dropdown 是一个操作指令，用于命令浏览器自动在下拉菜�
   * Select text：填写 Australia
 * 结果：系统将立即激活选择框，并准确、安全地将屏幕上显示的值切换为"Australia"。
 
-<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-03b.png" alt=""><figcaption></figcaption></figure>

@@ -16,6 +16,6 @@ Throw 与 Stop 之间的核心区别在于流程停止后的报告状态：
   * 在 If 代码块内部，调用 Throw 操作并填写错误提示内容为：`"错误：账户余额不足，无法创建广告活动！"`。
 * 结果：当运行到此处时，该 Profile 的流程会立即关闭。在 GPM Automate 的进度管理表中，该 Profile 所在的行会转变为 Error 状态（标红），并附带错误提示文字。您只需浏览一下列表，即可立即筛选出哪些账户出现错误需要处理，而不会与运行成功的流程（Completed）混淆。
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wf-03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wf-03b.png" alt=""><figcaption></figcaption></figure>

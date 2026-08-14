@@ -22,4 +22,4 @@ Create empty excel 是用于在您计算机上指定的路径中创建一个全�
 
 完成此步骤后，您可以放心使用 Write excel file 或 Append excel file 等操作，将刚采集到的数据写入该文件中。
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-09.png" alt=""><figcaption></figcaption></figure>

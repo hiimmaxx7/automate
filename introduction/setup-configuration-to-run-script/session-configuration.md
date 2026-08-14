@@ -11,4 +11,4 @@
 * 🖱️ Use virtual mouse：勾选以使用系统的虚拟鼠标（如图中已开启）。此功能有助于模拟鼠标移动、点击等操作，使其更加流畅、更接近真人操作，最大限度地降低被网站检测为机器人的风险。
 * 🔄 Restart on error. Number of tries：若勾选此项，当工具在运行过程中出现错误时，系统将自动关闭该 Profile 并重新打开，从头开始重新运行。您可以在旁边的输入框中自行填写最大重试次数。
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gt-07.png" alt=""><figcaption></figcaption></figure>

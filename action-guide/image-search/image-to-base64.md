@@ -22,4 +22,4 @@
 
 结果：图片文件 `captcha.png` 将被转换为一长串形如 `data:image/png;base64,iVBORw0KGgoAAAANSU...` 的字符串，并保存到变量 `$base64String` 中。后续的 HTTP Request 命令只需简洁地取出该字符串发送出去，即可帮助自动化脚本轻松绕过验证码安全层。
 
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/is-02.png" alt=""><figcaption></figcaption></figure>

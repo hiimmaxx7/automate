@@ -20,4 +20,4 @@ Delete folder 是用于根据指定路径将文件夹从计算机硬盘中彻底
   * Folder Path：填写所使用的临时文件夹路径，例如：`D:\GPM_Softwares\Render_Temp`。
 * 结果：系统将彻底删除 `Render_Temp` 文件夹以及其中产生的所有垃圾文件。您的计算机将始终保持干净、运行流畅，无需担心在长时间自动挂机运行后出现内存爆满的情况。
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-16.png" alt=""><figcaption></figcaption></figure>

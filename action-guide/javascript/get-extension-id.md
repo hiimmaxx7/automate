@@ -28,8 +28,8 @@ Get extension id 是一个操作指令，用于命令浏览器提取当前浏览
   * _Output variable_：`metaMaskId`。
 * 第四步：获取到并保存在变量 `$metaMaskId` 中的 ID 后，您可以使用下一个 Go to URL 操作，结构如下：`chrome-extension://$metaMaskId/home.html`，即可立即直接打开钱包界面进行处理，无需在工具栏上手动点击查找。
 
-<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-02b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-02c.png" alt=""><figcaption></figcaption></figure>

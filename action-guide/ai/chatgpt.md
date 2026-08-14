@@ -60,4 +60,4 @@ OpenAI 提供了许多不同速度、成本和智能程度的 AI 世代。为了
 
 结果:系统会将变量 `$originTitle` 中的标题发送给 ChatGPT 处理。AI 会迅速将其翻译并优化为德语措辞,然后将最精简的文本结果直接存入变量 `$aiContent` 中。在接下来的步骤中,你只需调用这个 `$aiContent` 变量,即可自动填入你网站上的输入框中,帮助实现极其专业的跨境内容制作流程自动化。
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ai-01.png" alt=""><figcaption></figcaption></figure>

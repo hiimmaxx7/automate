@@ -28,6 +28,6 @@ Read google sheet 是指令自动化脚本连接到您的 Google Drive 账户，
   * Output variable：`currentUsername`
 * 结果：GPM Automate 将在后台连接到 Google Sheet，提取 A1 单元格中的数据，并将文本内容直接载入到变量 `$currentUsername` 中。随后，您可以顺畅地在 Key press 输入操作中调用此变量。
 
-<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-01b.png" alt=""><figcaption></figcaption></figure>

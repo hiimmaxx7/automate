@@ -32,6 +32,6 @@ Append excel file 是一个智能操作，用于自动查找数据表末尾的�
 
 结果：系统将自动从上到下扫描 B 列，识别出第 1 行到第 5 行已有数据，并立即将变量的值写入第一个空白行（第 6 行 - `B6` 单元格）。在脚本下一次运行时，新数据将再次自动依次准确地写入第 7 行（`B7`）、第 8 行（`B8`）……
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-12.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-12b.png" alt=""><figcaption></figcaption></figure>

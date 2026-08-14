@@ -22,4 +22,4 @@ Screenshot 是命令浏览器自动截取当前网页界面的动作。此动作
   * Output variable：`savedImagePath`
 * 结果：GPM Automate 将截取整个网页画面，打包成图片文件保存到您要求的指定文件夹中，并将该文件路径保存到变量 `$savedImagePath` 中，以便您在后续步骤中继续用于通过 Telegram/Discord 发送报告等操作。
 
-<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-03.png" alt=""><figcaption></figcaption></figure>

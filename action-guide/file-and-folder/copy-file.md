@@ -18,4 +18,4 @@ Copy file 是用于将一个文件从硬盘上的某个位置复制到另一个�
   * Destination File:填写将用于写入数据的新文件路径:`D:\GPM\data_output.xlsx`
 * 结果:系统会获取 `template.xlsx` 文件,创建一个精确的副本,并在指定目录下将其命名为 `data_output.xlsx`。脚本后续的操作(例如 _Write excel file_)将只与 `data_output.xlsx` 文件进行交互并写入数据,从而确保您的模板文件在下次运行时始终保持安全和干净。
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-02.png" alt=""><figcaption></figcaption></figure>

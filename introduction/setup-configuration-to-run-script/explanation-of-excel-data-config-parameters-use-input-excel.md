@@ -10,4 +10,4 @@
 * 🆔 Map according to the profile name in column A：如果勾选此项，工具将自动进行对照：当前正在运行的 GPM Login Profile 名称与 Excel 文件 A 列中某一行的文字相符，则会直接跳转到该行读取数据。
 * ✅ Write 'OK' status to the Excel file upon completion：脚本运行完成后，自动在 Excel 文件中写入 'OK' 字样。此功能可帮助您轻松追踪哪一行、哪个账号已被工具成功处理。
 
-<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gt-05.png" alt=""><figcaption></figcaption></figure>

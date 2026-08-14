@@ -12,4 +12,4 @@ Accept alert 操作会自动点击原生系统提示对话框(Alert Dialog)上�
   * 使用 Selenium 时:Automate 会根据指令准确执行 Accept/Cancel 操作。
   * 使用 Puppeteer 时:对话框出现后会立即自动被接受(Accept)。
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/al-01.png" alt=""><figcaption></figcaption></figure>

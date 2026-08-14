@@ -22,6 +22,6 @@
 
 > 💡 高级应用:您可以使用此数量变量传入 For 循环的配置中,使脚本自动循环恰好 `9` 次,以点击查看详情或抓取全部 9 个产品的完整信息,既不会多余也不会遗漏。
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-04.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-04b.png" alt=""><figcaption></figcaption></figure>

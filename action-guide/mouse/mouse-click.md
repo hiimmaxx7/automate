@@ -15,7 +15,7 @@ Mouse click 是控制鼠标指针在屏幕上的特定位置执行点击（click
 * 工作原理: 您填写网页上元素的标识路径(XPath)(例如: `//button[@id="submit"]`)。系统将自动查找此 HTML 标签,计算其在浏览器中的位置,并将鼠标移动到该位置进行精准点击。
 * 应用场景: 用于具有清晰源码标签的常规网页结构和固定按钮。
 
-<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mo-01.png" alt=""><figcaption></figcaption></figure>
 
 **2. 根据鼠标指针当前位置点击**
 
@@ -29,4 +29,4 @@ Mouse click 是控制鼠标指针在屏幕上的特定位置执行点击（click
 * 配置方式: 在 _Mouse click_ 操作的坐标输入框中,您只需直接传入合并变量 `$pos` 即可。GPM Automate 的智能系统会自动解析 `900,800` 这种语法,将鼠标移动到 x=900, y=800 的坐标处直接点击目标。
 * 应用场景: 用于点击 Canvas(游戏)中的元素、深藏在安全 Iframe 中的隐藏按钮,或与没有固定 XPath 标签的组件进行交互。
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mo-01b.png" alt=""><figcaption></figcaption></figure>

@@ -28,4 +28,4 @@ Regex（Regular Expression）就像一个放大镜，帮助您在一大段文本
 
 > 💡 小提示：Regex语法看起来很复杂难记？别担心，您完全不需要费心去死记硬背。您可以打开AI工具（如ChatGPT、DeepSeek、Gemini等），用自然语言直接提问，例如：_"帮我写一段正则表达式来过滤6个连续数字"_ 或 _"写一个正则表达式提取位于'您的验证码是：'和句号之间的字符串"_。AI会为您生成准确的代码，您只需复制粘贴到 GPM Automate 的配置框中即可。
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-02.png" alt=""><figcaption></figcaption></figure>

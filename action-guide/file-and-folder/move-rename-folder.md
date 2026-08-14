@@ -19,4 +19,4 @@ Move / rename folder 是一个多功能的操作,用于将整个文件夹(包括
 * Destination Folder:`D:\GPM_Data\processed_data` _(保持父路径不变,仅更改末尾的文件夹名称)_。
 * 结果:`temp_data` 文件夹将立即被重命名为 `processed_data`。
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-15.png" alt=""><figcaption></figcaption></figure>

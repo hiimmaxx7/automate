@@ -18,7 +18,7 @@ Else if 总是跟在 If 块之后（或跟在另一个 Else if 块之后）。�
 
 Else 是条件链中最后的兜底指令块，不需要配置任何条件。当上方的所有 If 和 Else if 块都为假时（没有任何情况满足条件），系统将自动进入并执行 Else 块内部的操作。
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-03.png" alt=""><figcaption></figcaption></figure>
 
 #### 实际示例：检查账户的登录状态
 

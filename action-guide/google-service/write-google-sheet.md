@@ -29,6 +29,6 @@ Write google sheet 是一个操作,用于指示自动化脚本连接您的 Googl
   * Value: 填写文字 `Live`(或传入状态变量 `$status`)。
 * 结果: GPM Automate 将立即同步并快速将文字 "Live" 直接填入您在线 Google Sheet 上的 C2 单元格,无需打开浏览器中的 Docs。
 
-<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gs-02b.png" alt=""><figcaption></figcaption></figure>

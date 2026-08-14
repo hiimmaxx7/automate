@@ -29,11 +29,11 @@
   * _XPath_：输入 iframe 内部按钮的 XPath：`//span[contains(text(),"Continue with Google")]`
 * 第三步（退出）：紧接着拖入 Switch to default 操作，将浏览器带回 Pinterest 页面的主空间，为后续需要在外部填写注册表单（Email、Password）的步骤做好准备。
 
-<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-01c.png" alt=""><figcaption></figcaption></figure>
 
 要以最通俗、最容易想象的方式理解网页编程中的 Iframe（Frame），您可以立刻想到一面墙以及挂在墙上的那些画框。
 

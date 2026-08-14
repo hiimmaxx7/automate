@@ -18,4 +18,4 @@ File read all text 是用于一次性完整读取 `.txt` 格式文本文件内�
   * Output variable：将保存结果的变量命名为 `$textContent`。
 * 结果：系统将完整提取文件中的所有字符和行结构，并赋值给变量 `$textContent`。在接下来的步骤中，你只需调用 Key press 动作，将该 `$textContent` 变量传入网站的输入框即可完成操作。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-05.png" alt=""><figcaption></figcaption></figure>

@@ -23,9 +23,9 @@
 * 点击 Profile 名称旁边的三个点图标。
 * 选择“使用远程端口运行”以获取控制端口参数。
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10b.png" alt=""><figcaption></figcaption></figure>
 
 #### 2️⃣ 步骤 2：在 GPM Automate 中设置
 
@@ -35,7 +35,7 @@
 * 将步骤 1 中从 GPM Login 获取到的 Port（端口）输入到相应的字段中。
 * 点击 Start 开始测试。
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10c.png" alt=""><figcaption></figcaption></figure>
 
 #### 3️⃣ 步骤 3：观察结果
 

@@ -7,7 +7,7 @@
 
 🎥 查看更多操作指南视频：[点击这里](https://youtu.be/nlEQsaxawt4)。
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01.png" alt=""><figcaption></figcaption></figure>
 
 系统在界面上支持4种输入数据类型（Input Type），包括：
 
@@ -17,9 +17,9 @@
 
 * 实际示例：您将变量命名为 `$textContent`。当用户在界面上的输入框中输入内容 `"hello world"` 时，此时变量 `$textContent` 的值将为 `"hello world"`（`$textContent = "hello world"`）。
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01c.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 文件选择类型（File）
 
@@ -27,9 +27,9 @@
 
 * 实际示例：用户点击选择位于D盘中的文件 `bruh.png`。收到的变量 `$filePath` 值将为该文件的绝对路径：`"D:\materials\bruh.png"`（`$filePath = "D:\materials\bruh.png"`）。您可以立即获取此 `$filePath` 变量，并在后续步骤中传入 File upload 操作。
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01e.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 勾选类型（Checkbox）
 
@@ -38,7 +38,7 @@ Checkbox是允许用户开启或关闭一个二元选项（是/否，开/关，�
 * 特点：当被勾选时，变量将获得值 `True`。当取消勾选时，变量将获得值 `False`。
 * 实际示例：您创建一个标签为 _"Chọn để đặt hàng / Check to place an order"_ 的项目，并将其关联到变量 `$checkBox`。如果用户勾选此框，变量 `$checkBox` 将获得值 `True`（`$checkBox = True`）。您可以使用 If 代码块进行检查：仅当 `$checkBox = True` 时才执行付款步骤。
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01f.png" alt=""><figcaption></figcaption></figure>
 
 #### 4. 选择列表类型（Combo Box）
 
@@ -47,6 +47,6 @@ Combo Box（类似于Dropdown）是一种显示现有选项列表的界面组件
 * 特点：有助于在需要选择固定信息时保持数据的一致性，如国家、行业、产品类型、活动状态等。
 * 实际示例：您配置了一个包含多个国家的列表，并关联到变量 `$country`。当用户打开脚本并从下拉列表中选择 `"United States"` 时，Automate中的变量 `$country` 将立即获得值 `"United States"`（`$country = "United States"`）。
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01g.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-01h.png" alt=""><figcaption></figcaption></figure>

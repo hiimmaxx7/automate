@@ -23,4 +23,4 @@ Folder exists 是用于检查计算机硬盘上按指定路径的文件夹（fol
 
 结果：脚本将自动先进行检查。如果文件夹还不存在，它会自动创建，然后再进行图片下载，确保整个流程始终安全，永远不会崩溃。
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-13.png" alt=""><figcaption></figcaption></figure>

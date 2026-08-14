@@ -10,4 +10,4 @@ Install app 是将一个 Android 应用程序文件（格式为 `.apk`）从计�
 
 * Install file (.apk): 需要安装到设备上的 `.apk` 文件在计算机上的路径（例如：`D:\Facebook_573.0.0.37.74_APKPure.apk`）。可以直接输入路径或传入一个包含文件路径的变量。
 
-<figure><img src="../../.gitbook/assets/phone-app-install-app.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pa-01.png" alt=""><figcaption></figcaption></figure>

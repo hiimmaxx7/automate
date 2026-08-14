@@ -34,15 +34,15 @@ https://www.facebook.com/demo.account99
 
 运行完成后，变量 `$lineCount` 将获得值 `9`。您可以立即使用这个 `$lineCount` 变量作为 For 循环的 End 参数，以便自动依次打开每一个 Facebook profile 进行操作。
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04c.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04e.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 统计文件夹（Folder）中的文件数量
 
@@ -68,15 +68,15 @@ https://www.facebook.com/demo.account99
 
 运行完成后，变量 `$totalFiles` 将获得值 `3`。您可以使用此结果来运行条件语句块（例如：如果文件夹中的文件数量大于 0，才执行将图片上传到 Facebook/Website 的操作）。
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04f.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04g.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04h.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04i.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04j.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 统计字符串拆分后（Split text）的元素数量
 
@@ -103,10 +103,10 @@ thanhnguyen|Pass1234|2FAXYZ|103.83.77.15:9898
 
 运行完成后，变量 `$infoCount` 将获得值 `4`。您可以将此结果与 If 语句块结合使用进行检查（例如：如果 `$infoCount = 4`，即账号信息结构完整，才继续运行登录脚本，反之则跳过以避免出错）。
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04k.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04l.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04m.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-04n.png" alt=""><figcaption></figcaption></figure>

@@ -48,4 +48,4 @@ DeepSeek 提供两种极其优化的核心模型,您只需将以下两个标识�
 
 结果:系统会将变量 `$originTitle` 中的标题推送到 DeepSeek 进行处理。AI 将快速翻译并将措辞优化为德语,然后将最精炼的文本结果直接载入变量 `$aiContent` 中。在后续步骤中,您只需调用这个 `$aiContent` 变量,将其自动填入您网站上的输入框中,从而帮助您极其专业地实现跨境内容制作流程的自动化。
 
-<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ai-02.png" alt=""><figcaption></figcaption></figure>

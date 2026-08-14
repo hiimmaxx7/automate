@@ -25,4 +25,4 @@ Get clipboard text 是用于读取（获取）计算机剪贴板（Clipboard）�
 
 结果：系统会自动从 Windows 的剪贴板中取出字符串 `GIAMGA50K`，并直接填入网站中以应用优惠码，帮助您在手动操作与自动化流程之间实现顺畑衔接。
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl-01.png" alt=""><figcaption></figcaption></figure>

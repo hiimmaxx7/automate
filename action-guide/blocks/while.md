@@ -23,7 +23,7 @@ description: >-
 * 循环的停止条件：当变量 `$otpCode` 获得值（不再为空）时。
 * 系统将不断检查并读取邮箱。一旦成功获取到 OTP 验证码，条件满足，循环停止，脚本继续执行填写验证码的步骤。
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cb-02.png" alt=""><figcaption></figcaption></figure>
 
 > ⚠️ 重要提示：使用 While 循环时，您需要确保语句块内的操作会改变停止条件的状态。如果条件配置错误，或邮件永远不会到达，脚本将陷入无限循环（脚本卡死）的状态。
 >

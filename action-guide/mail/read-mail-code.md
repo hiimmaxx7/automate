@@ -46,4 +46,4 @@ Read mail code 是高级操作，可帮助脚本自动通过安全的 IMAP 连�
 
 _（提示：对于 Outlook/Hotmail 账户，您可在 Settings > Security > Advanced security options > App passwords 中执行类似流程，以获取对应的 16 位密码字符串）。_
 
-<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ma-01.png" alt=""><figcaption></figcaption></figure>

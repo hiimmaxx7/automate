@@ -26,4 +26,4 @@ File write all text 是用于将一段文本字符串写入计算机上 `.txt` �
   * 如果尚无 `report.txt` 文件，系统会自动在 `D:\GPM\` 目录下创建该文件。
   * 如果文件是昨天已存在的（含有大量旧内容），系统会将旧内容彻底清空，使文件变为空白文件，然后写入 `"--- 今天的脚本运行日志 ---"` 这行文字。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-07.png" alt=""><figcaption></figcaption></figure>

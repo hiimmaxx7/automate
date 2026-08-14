@@ -24,4 +24,4 @@
 
 _小贴士:当浏览器弹出关联的弹窗窗口(如 Google 登录窗口、MetaMask 钱包等)后,您只需调用索引为 0 的 Active Tab 操作即可快速返回主浏览器窗口。_
 
-<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/na-01.png" alt=""><figcaption></figcaption></figure>

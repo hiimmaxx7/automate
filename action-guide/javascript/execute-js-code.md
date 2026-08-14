@@ -39,4 +39,4 @@ return char;
 
 运行逻辑:系统会将字符串 `Hello, world!` 和数字 `7` 载入代码中,运行算法检查位置的有效性并提取字符。末尾的 `return char;` 语句会将字母 `w` 输出,并直接载入到 `$charResult` 变量中,供您用于后续操作。
 
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/js-01.png" alt=""><figcaption></figcaption></figure>

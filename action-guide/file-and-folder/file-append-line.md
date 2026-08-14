@@ -23,4 +23,4 @@ File append LINE 是用于在 `.txt` 格式文件的最后位置插入一行新�
   * Text：传入包含账号名称的变量（例如：`$currentAccount`）。
 * 结果：每当一个流程运行完成后，该账号名称将依次整齐地排列成 `success_accounts.txt` 文件中的一行（例如：第1行为 `tk_01`，第2行为 `tk_02`……），而不会丢失之前已运行账号的数据。
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-08.png" alt=""><figcaption></figcaption></figure>

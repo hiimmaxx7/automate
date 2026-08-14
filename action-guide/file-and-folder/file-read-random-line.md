@@ -29,4 +29,4 @@ Thông tin rất bổ ích, cảm ơn chủ thớt.
   * Output variable:将保存结果的变量命名为 `$randomComment`。
 * 结果:每次流程运行到此步骤时(或每个 Profile 独立运行时),系统将自动随机抽取上述 3 行中的其中 1 行(例如:Profile 1 抽中第 3 行:`"Thông tin rất bổ ích, cảm ơn chủ thớt."`,并将其赋值给变量 `$randomComment`)。您只需调用 Key press 操作,将该变量传入网站上的评论框即可完成。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-06.png" alt=""><figcaption></figcaption></figure>

@@ -30,4 +30,4 @@ Mouse try to click 是鼠标指令组中的高级操作，允许脚本对某个�
 
 > 💡 扩展技巧：您也可以使用否定条件 `!hasElement(XPATH)`，让鼠标持续点击，直到某个广告横幅或页面加载中的旋转图标（loading）从屏幕上消失为止。
 
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mo-02.png" alt=""><figcaption></figcaption></figure>

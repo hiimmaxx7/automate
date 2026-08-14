@@ -28,6 +28,6 @@
 
 结果：系统将查找到 Samsung Galaxy S6 的图片标签，提取 `src` 属性中的值字符串，并将 `imgs/galaxy_s6.jpg` 的值直接载入 `$imgUrl` 变量中。您可以将此变量用于后续的图片下载或存储操作。
 
-<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-02b.png" alt=""><figcaption></figcaption></figure>

@@ -23,4 +23,4 @@
 
 结果：脚本会自动提前进行检查。如果文件不存在，它会主动停止流程，并直观地弹出红色警告告知你，而不是继续尝试运行，最终导致脚本崩溃。
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-01.png" alt=""><figcaption></figcaption></figure>

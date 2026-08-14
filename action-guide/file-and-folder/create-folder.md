@@ -22,4 +22,4 @@ Create folder 是用于按照指定路径在计算机硬盘上全新创建一个
   * Folder Path：将固定路径与系统时间变量结合，填入：`D:\GPM_Screenshots\$currentDate`。
 * 结果：当脚本运行到此步骤时，系统会自动检查今天是否已存在以当前日期命名的文件夹（例如：`2026-06-29`）。如果尚未存在，系统会自动创建一个全新的空文件夹。后续的 Screenshot 操作只需将图片保存路径指向该文件夹即可，从而让您的数据始终按每日整齐分类保存。
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-14.png" alt=""><figcaption></figcaption></figure>

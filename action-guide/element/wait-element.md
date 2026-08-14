@@ -18,4 +18,4 @@
   * Timeout:设置为 `20`(20 秒)。
 * 运行逻辑:系统将持续检查网页。如果网络状况良好,图片在 2 秒内上传完成,按钮出现后,脚本将立即执行点击命令进行发帖(节省了 18 秒的无效等待)。如果网络较弱,系统会耐心等待最多 20 秒,以避免流程出现中断错误。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-01.png" alt=""><figcaption></figcaption></figure>

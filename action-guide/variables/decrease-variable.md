@@ -15,4 +15,4 @@ description: >-
 
     🎥 观看更多教学视频：[点击这里](https://youtu.be/nlEQsaxawt4)。
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/va-03.png" alt=""><figcaption></figcaption></figure>

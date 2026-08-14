@@ -24,6 +24,6 @@
 
 结果：系统将找到对应商品的 `<h5>` 标签，提取标签中间的纯文本部分，并直接将 `$360` 这个值赋给变量 `$productPrice`。在后续步骤中，您可以调用此变量将其写入 Excel 文件或发送到系统数据中。
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/el-03b.png" alt=""><figcaption></figcaption></figure>

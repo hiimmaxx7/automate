@@ -25,4 +25,4 @@ HTTP Download 是一个高级动作，用于直接从在线链接（URL）下载
 
 结果：系统将自动连接网络，从 `$videoUrl` 路径下载视频文件，并生成一个名为 `downloaded_video.mp4` 的实体文件，整齐地存放在 `D:\GPM_Data\Videos\` 文件夹中。变量 `$downloadStatus` 将获得一个值，您可以使用 If 语句块来检查文件是否已成功下载，然后再进行后续动作。
 
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-02.png" alt=""><figcaption></figcaption></figure>

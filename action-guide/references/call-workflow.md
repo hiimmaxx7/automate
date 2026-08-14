@@ -34,6 +34,6 @@ Call Workflow 是一个动作,允许正在运行的脚本(父 Workflow)调用并
 
 • 检查父 Workflow 和子 Workflow 之间变量名的一致性,以确保数据传输准确无误,不会产生冲突。要使用子 workflow 的变量,您需要按照以下语法书写:`$子workflow名称_变量名`,例如下图所示,在 Main workflow 中,如果 login_module 模块中有变量 `$status`,那么要在 Main workflow 中使用它,需要填写为 `$login_module_status`。
 
-<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rf-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rf-01b.png" alt=""><figcaption></figcaption></figure>

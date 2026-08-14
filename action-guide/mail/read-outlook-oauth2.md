@@ -22,4 +22,4 @@ Read outlook (OAuth2) 是专门用于从 Microsoft 生态系统账户（Outlook�
   3. Full（整个邮件内容）：高级选项，可获取返回邮件的整个源文本或 HTML 代码并赋值给输出变量。之后，您可以将此变量传递给 Regex 或 Execute JS code 操作，以便根据个人需求自行编写灵活的提取规则。
 * Output variable：用于保存 OTP 验证码字符串（或根据 _Code type_ 配置保存整个邮件内容）的输出变量名称，供脚本中后续的输入操作使用。
 
-<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ma-02.png" alt=""><figcaption></figcaption></figure>

@@ -19,9 +19,9 @@ Gen AI Workflow 功能允许您仅通过自然语言描述来创建完整的自�
 
 > 说明:打开远程端口相当于建立一座"桥梁",使 AI 和 GPM Automate 能够直接控制并访问正在打开的浏览器 profile,以实时浏览网页并读取页面结构。
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-10b.png" alt=""><figcaption></figcaption></figure>
 
 #### 2️⃣ 第二步:在 GPM Automate 中进行设置
 
@@ -38,7 +38,7 @@ Gen AI Workflow 功能允许您仅通过自然语言描述来创建完整的自�
     * **Append to main block:** 将新的 action 追加到主脚本的末尾。
 * 点击 **Start session**,浏览器将自动打开并执行脚本分析过程。
 
-<figure><img src="../.gitbook/assets/gen ai.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gt-12.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 3️⃣ 第三步:查看结果
 

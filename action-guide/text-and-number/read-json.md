@@ -39,4 +39,4 @@ JSON
 
 结果: 变量 `$phoneNumber` 将获得值 `"0987654321"`。
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-01.png" alt=""><figcaption></figcaption></figure>

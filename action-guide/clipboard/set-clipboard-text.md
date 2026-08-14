@@ -19,4 +19,4 @@ Set clipboard text 是用于将一段文本字符串或某个变量的值赋值�
 
 结果：整篇长文章内容将在一瞬间被粘贴到网站中，确保格式保持不变，不会出现打字错误，并将脚本运行速度提升到最大。
 
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cl-02.png" alt=""><figcaption></figcaption></figure>

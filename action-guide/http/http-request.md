@@ -26,16 +26,16 @@ HTTP Request 是一种高级操作，用于直接从脚本向服务器系统（S
 
 这是目前使用现代 API 时最常见的格式。body 部分必须按照花括号 `{}` 结构填写，数据字段需用符合标准 JSON 规范的双引号包裹。
 
-<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-01.png" alt=""><figcaption></figcaption></figure>
 
 **示例 2：`application/x-www-form-urlencoded` 类型的 body**
 
 这是常见于旧式登录表单或某些支付网关的传统数据字符串格式。各属性对以连续的文本字符串形式相互连接。
 
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-01b.png" alt=""><figcaption></figcaption></figure>
 
 **示例 3：`multipart/form-data` 类型的 body**
 
 这是一种特殊格式，当您需要从计算机向服务器上传文件（如图片、视频、文档文件）或发送复杂的混合表单时，必须使用此格式。
 
-<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ht-01c.png" alt=""><figcaption></figcaption></figure>

@@ -19,4 +19,4 @@ Move / rename file 是一个多功能操作,用于将一个文件从当前位置
 * Destination File:`D:\downloads\avatar_profile_1.jpg`(保留文件夹不变,仅更改末尾的文件名)。
 * 结果:文件 `image.jpg` 将消失,并被重命名为 `avatar_profile_1.jpg`。
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-03.png" alt=""><figcaption></figcaption></figure>

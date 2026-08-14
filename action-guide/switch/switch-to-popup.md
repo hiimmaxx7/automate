@@ -28,18 +28,18 @@ Switch to popup 是命令脚本将控制权从当前浏览器窗口转移到刚�
 
 > 💡 返回小技巧：在您于 Popup 窗口中完成登录后，Google 系统会自动检查并关闭该窗口。要继续控制原始的 Pinterest 页面，您只需使用 Active tab 命令或返回主标签页即可继续运行后续的数据抓取操作。
 
-<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02c.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02e.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02f.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02g.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sw-02h.png" alt=""><figcaption></figcaption></figure>

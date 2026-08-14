@@ -23,4 +23,4 @@
   * Output variable:将变量命名为 `$twoFACode`。
 * 结果:系统会根据时间加密算法立即计算出当前的六位数验证码(例如:`482915`)并存入 `$twoFACode` 变量中。在此操作之后,您可以继续调用 Key press 命令,将 `$twoFACode` 变量传入 Facebook 的验证码输入框中,即可成功登录。
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-05.png" alt=""><figcaption></figcaption></figure>

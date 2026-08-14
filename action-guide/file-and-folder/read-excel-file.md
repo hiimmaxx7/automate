@@ -34,4 +34,4 @@ Read excel file 是用于根据指定的行和列位置，从 Excel 文件（`.x
 
 结果：系统将准确提取 `A2` 单元格的值到变量 `$username` 中，以及 `B2` 单元格的值到变量 `$password` 中。之后，您可以将这两个变量传递给浏览器交互操作，以进行自动登录。
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ff-10.png" alt=""><figcaption></figcaption></figure>

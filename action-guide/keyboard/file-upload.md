@@ -20,4 +20,4 @@ File upload 是指令浏览器自动将一个或多个文件(图片、视频、E
   * File path: `D:\DataPOD\Design01.png`
 * 运行逻辑: GPM Automate 会将文件路径 `D:\DataPOD\Design01.png` 直接传递到网站的 `input` 元素中。网站系统会立即识别并顺畅地开始图片上传过程,而不会弹出操作系统的 Open File 对话框。
 
-<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-02.png" alt=""><figcaption></figcaption></figure>

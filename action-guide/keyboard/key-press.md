@@ -39,12 +39,12 @@ Key press 是模拟键盘操作的动作，允许您输入文本、按下单个�
 4. 第 4 步（输入带表情符号的新内容）：拖入 _Key press_ 命令 ➔ 选择 Type：`Text` ➔ KEY：`GPM Softwares 🚀` ➔ Delay each character：`-1`（以便快速粘贴并能识别火箭表情符号）➔ Xpath：输入搜索框的 XPath。
 5. 第 5 步（按 Enter）：拖入 _Key press_ 命令 ➔ 选择 Type：`Single key` ➔ KEY：`Enter` ➔ Xpath：留空。
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01c.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01d.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kb-01e.png" alt=""><figcaption></figcaption></figure>

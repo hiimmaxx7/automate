@@ -12,4 +12,4 @@ Cancel Alert 动作会自动点击原生系统通知对话框（Alert Dialog）�
   * 使用 Selenium 时：Automate 会按照指令执行准确的 Cancel 动作以拒绝通知。
   * 使用 Puppeteer 时：此指令会在通知出现时立即忽略或取消它（相当于 Dismiss 操作）。
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/al-01.png" alt=""><figcaption></figcaption></figure>

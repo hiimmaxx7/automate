@@ -10,6 +10,6 @@ Export cookie 是提取当前已打开网页的全部 cookie 数据的操作,用
 
 * 需要先执行 Go to URL:您还必须先将浏览器导航到需要获取数据的网页,等待网页完全加载完成后,再调用 Export cookie 操作,才能完整获取当前的所有登录会话(session)。
 
-<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ck-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ck-02.png" alt=""><figcaption></figcaption></figure>

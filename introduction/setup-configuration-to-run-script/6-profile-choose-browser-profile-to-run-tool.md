@@ -29,4 +29,4 @@
 
 选择完 Profile 后，右下角的 ▶️ Start 按钮将会亮起。您只需点击它，工具即可正式自动运行。
 
-<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gt-09.png" alt=""><figcaption></figcaption></figure>

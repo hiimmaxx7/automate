@@ -1,1 +1,1 @@
-# 🎛️Guide to setting up configuration to run the script
+# 🎛️Guide to configuring settings to run the script
